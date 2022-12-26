@@ -29,7 +29,7 @@ jobs:
         run: pnpm install node-fetch
 
       - name: Clear Badges
-        run: rm -rf users/*
+        run: rm -rf users && mkdir users
       
       - name: Update Enmity Badges
         run: node scripts/getEnmityBadges.mjs
