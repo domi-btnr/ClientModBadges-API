@@ -6,47 +6,25 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  clear-badges:
-    name: Clear Badges
+  do-stuff:
+    name: Do Stuff
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@master
 
       - name: Clear Badges
-        run: |
-          rm -rf users
-          mkdir users
-
-  enmity-badges:
-    needs: clear-badges
-    name: Update Enmity Badges
-    runs-on: ubuntu-latest
-    steps:
+        run: rm -rf users/*
+      
       - name: Update Enmity Badges
-        run: cd $GITHUB_WORKSPACE && node scripts/getEnmityBadges.mjs
-
-  velocity-badges:
-    needs: clear-badges
-    name: Update Velocity Badges
-    runs-on: ubuntu-latest
-    steps:
+        run: node scripts/getEnmityBadges.mjs
+      
       - name: Update Velocity Badges
-        run: cd $GITHUB_WORKSPACE && node scripts/getVelocityBadges.mjs
-
-  vencord-badges:
-    needs: clear-badges
-    name: Update Vencord Badges
-    runs-on: ubuntu-latest
-    steps:
+        run: node scripts/getVelocityBadges.mjs
+      
       - name: Update Vencord Badges
-        run: cd $GITHUB_WORKSPACE && node scripts/getVencordBadges.mjs
-  
-  push-changes:
-    needs: [clear-badges, enmity-badges, velocity-badges, vencord-badges]
-    name: Push Changes
-    runs-on: ubuntu-latest
-    steps:
+        run: node scripts/getVencordBadges.mjs
+      
       - name: Push Changes
         run: |
           git config --local user.email "actions@github.com"
