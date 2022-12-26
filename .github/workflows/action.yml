@@ -1,0 +1,56 @@
+name: Update Badges
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  clear-badges:
+    name: Clear Badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@master
+
+      - name: Clear Badges
+        run: |
+          rm -rf users
+          mkdir users
+
+  enmity-badges:
+    needs: clear-badges
+    name: Update Enmity Badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Enmity Badges
+        run: node scripts/getEnmityBadges.mjs
+
+  velocity-badges:
+    needs: clear-badges
+    name: Update Velocity Badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Velocity Badges
+        run: node scripts/getVelocityBadges.mjs
+
+  vencord-badges:
+    needs: clear-badges
+    name: Update Vencord Badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Vencord Badges
+        run: node scripts/getVencordBadges.mjs
+  
+  push-changes:
+    needs: [clear-badges, enmity-badges, velocity-badges, vencord-badges]
+    name: Push Changes
+    runs-on: ubuntu-latest
+    steps:
+      - name: Push Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Updated Badges" || exit 0
+          git push

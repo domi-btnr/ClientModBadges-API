@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+    "javascript.preferences.quoteStyle": "double",
+    "javascript.format.semicolons": "insert"
+}
