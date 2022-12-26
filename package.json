@@ -1,7 +1,7 @@
 {
   "name": "clientmodbadges-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "API for getting badges from other discord client mods",
   "main": "index.js",
   "scripts": {
     "start": "node ."
