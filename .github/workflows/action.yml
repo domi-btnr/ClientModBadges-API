@@ -26,7 +26,7 @@ jobs:
           run_install: false
       
       - name: Install dependencies
-        run: pnpm install node-fetch
+        run: pnpm install
 
       - name: Clear Badges
         run: rm -rf users && mkdir users

@@ -4,6 +4,8 @@ const app = express();
 const fs = require("fs");
 const path = require("path");
 
+app.get("/", (req, res) => res.redirect("https://github.com/HypedDomi/ClientModBadges-API"));
+
 app.get("/users", (req, res) => {
     const userId = req.query.user;
     if (!userId) return res.status(400).json({ error: "No user id provided" });
@@ -17,6 +19,7 @@ app.get("/users", (req, res) => {
     });
 });
 
-app.listen(3000, () => {
-    console.log("Server listening on port 3000");
+const port = process.env.PORT || 5050;
+app.listen(port, () => {
+    console.log(`Server listening on port ${port}`);
 });
