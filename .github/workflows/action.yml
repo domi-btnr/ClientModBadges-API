@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Enmity Badges
-        run: node scripts/getEnmityBadges.mjs
+        run: cd $GITHUB_WORKSPACE && node scripts/getEnmityBadges.mjs
 
   velocity-badges:
     needs: clear-badges
@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Velocity Badges
-        run: node scripts/getVelocityBadges.mjs
+        run: cd $GITHUB_WORKSPACE && node scripts/getVelocityBadges.mjs
 
   vencord-badges:
     needs: clear-badges
@@ -40,7 +40,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Vencord Badges
-        run: node scripts/getVencordBadges.mjs
+        run: cd $GITHUB_WORKSPACE && node scripts/getVencordBadges.mjs
   
   push-changes:
     needs: [clear-badges, enmity-badges, velocity-badges, vencord-badges]
