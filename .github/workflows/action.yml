@@ -31,6 +31,12 @@ jobs:
       - name: Clear Badges
         run: rm -rf users && mkdir users
       
+      - name: Update Aliucord Badges
+        run: node scripts/getAliucordBadges.mjs
+      
+      - name: Update BetterDiscord Badges
+        run: node scripts/getBetterDiscordBadges.mjs
+      
       - name: Update Enmity Badges
         run: node scripts/getEnmityBadges.mjs
       

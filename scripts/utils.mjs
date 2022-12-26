@@ -2,6 +2,8 @@ import fs from "fs";
 import path from "path";
 
 export const CLIENT_MODS = {
+    ALIUCORD: "aliucord",
+    BETTERDISCORD: "betterdiscord",
     ENMITY: "enmity",
     VELOCITY: "velocity",
     VENCORD: "vencord"
