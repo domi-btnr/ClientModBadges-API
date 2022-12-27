@@ -2,11 +2,11 @@ import fs from "fs";
 import path from "path";
 
 export const CLIENT_MODS = {
-    ALIUCORD: "aliucord",
-    BETTERDISCORD: "betterdiscord",
-    ENMITY: "enmity",
-    VELOCITY: "velocity",
-    VENCORD: "vencord"
+    ALIUCORD: "Aliucord",
+    BETTERDISCORD: "BetterDiscord",
+    ENMITY: "Enmity",
+    VELOCITY: "Velocity",
+    VENCORD: "Vencord"
 };
 
 export const addUser = (userId, mod, badges) => {

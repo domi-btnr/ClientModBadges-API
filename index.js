@@ -39,6 +39,7 @@ app.get("/users/:userId", async (req, res) => {
 });
 
 app.get("/badges/:clientMod/:badge", (req, res) => {
+    Object.keys(req.params).forEach(key => { req.params[key] = req.params[key].toLowerCase(); });
     const { clientMod, badge } = req.params;
     if (!fs.existsSync(path.join(__dirname, "badges", clientMod))) return res.status(404).json({ error: "Client mod not found" });
     const filePath = path.join(__dirname, "badges", clientMod, `${badge.split(" ")[0]}.png`);
