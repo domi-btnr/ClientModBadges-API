@@ -3,7 +3,7 @@ name: Update Badges
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 /1 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   do-stuff:
