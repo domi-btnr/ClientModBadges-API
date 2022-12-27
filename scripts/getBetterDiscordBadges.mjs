@@ -1,5 +1,3 @@
-import fetch from "node-fetch";
-
 import * as utils from "./utils.mjs";
 const { addUser, CLIENT_MODS } = utils;
 
