@@ -9,8 +9,8 @@ const EXPIRES = 1000 * 60 * 60;
 
 app.get("/", (_, res) => res.redirect("https://github.com/HypedDomi/ClientModBadges-API"));
 
-app.get("/users", async (req, res) => {
-    const userId = req.query.user;
+app.get("/users/:userId", async (req, res) => {
+    const { userId } = req.params;
     if (!userId) return res.status(400).json({ error: "No user id provided" });
 
     let _data = {};
@@ -26,12 +26,26 @@ app.get("/users", async (req, res) => {
     }
 
     const filePath = path.join(__dirname, "users", `${userId}.json`);
-    if (fs.existsSync(filePath)) fs.readFile(filePath, "utf8", (err, data) => {
-        if (!err) _data = { ..._data, ...JSON.parse(data) };
-    });
+    if (fs.existsSync(filePath)) {
+        try {
+            const data = await fs.promises.readFile(filePath, "utf8");
+            _data = { ..._data, ...JSON.parse(data) };
+        } catch (error) {
+            console.error(error);
+        }
+    }
 
     return res.json(_data);
 });
+
+app.get("/badges/:clientMod/:badge", (req, res) => {
+    const { clientMod, badge } = req.params;
+    if (!fs.existsSync(path.join(__dirname, "badges", clientMod))) return res.status(404).json({ error: "Client mod not found" });
+    const filePath = path.join(__dirname, "badges", clientMod, `${badge}.png`);
+    if (fs.existsSync(filePath)) return res.sendFile(filePath);
+    else return res.status(404).json({ error: "Badge not found" });
+});
+
 
 const port = process.env.PORT || 5050;
 app.listen(port, () => {
