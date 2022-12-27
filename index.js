@@ -14,13 +14,13 @@ app.get("/users/:userId", async (req, res) => {
     if (!userId) return res.status(400).json({ error: "No user id provided" });
 
     let _data = {};
-    if (cache.has(userId) && cache.get(userId).expires > Date.now() && cache.get(userId).badges) _data.replugged = cache.get(userId).badges;
+    if (cache.has(userId) && cache.get(userId).expires > Date.now() && cache.get(userId).badges.length) _data.Replugged = cache.get(userId).badges;
     else {
         const resp = await fetch(`https://replugged.dev/api/v1/users/${userId}`);
         const body = (await resp.json())?.badges;
         if (body) {
             const badges = Object.keys(body).filter(key => body[key] === true);
-            if (badges.length) _data.replugged = badges;
+            if (badges.length) _data.Replugged = badges;
             cache.set(userId, { badges, expires: Date.now() + EXPIRES });
         }
     }
