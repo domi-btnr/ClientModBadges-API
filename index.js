@@ -14,7 +14,7 @@ app.get("/users", async (req, res) => {
     if (!userId) return res.status(400).json({ error: "No user id provided" });
 
     let _data = {};
-    if (cache.has(userId) && cache.get(userId).expires > Date.now()) _data.replugged = cache.get(userId).badges;
+    if (cache.has(userId) && cache.get(userId).expires > Date.now() && cache.get(userId).badges) _data.replugged = cache.get(userId).badges;
     else {
         const resp = await fetch(`https://replugged.dev/api/v1/users/${userId}`);
         const body = (await resp.json())?.badges;
