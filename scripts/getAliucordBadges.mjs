@@ -7,7 +7,7 @@ const baseUrl = "https://api.github.com/repos/Aliucord/badges/contents/users";
 (async () => {
     const response = await fetch(baseUrl);
     const data = await response.json();
-    const jsonFiles = data.filter(file => file.name.endsWith(".json"));
+    const jsonFiles = data?.filter(file => file.name.endsWith(".json"));
     const promises = jsonFiles.map(async file => {
         const userId = file.name.replace(".json", "");
         const response = await fetch(file.download_url);
