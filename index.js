@@ -1,4 +1,5 @@
 const app = require("express")();
+app.use(require("cors")());
 
 const fetch = (url) => import('node-fetch').then(({ default: fetch }) => fetch(url));
 const fs = require("fs");
