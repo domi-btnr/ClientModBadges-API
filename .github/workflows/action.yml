@@ -30,6 +30,9 @@ jobs:
 
       - name: Clear Badges
         run: rm -rf users && mkdir users
+
+      - name: Setup env
+        run: echo "GITHUB_TOKEN = ${{ secrets.GITHUB_TOKEN }}" >> .env
       
       - name: Update Aliucord Badges
         run: node scripts/getAliucordBadges.mjs
