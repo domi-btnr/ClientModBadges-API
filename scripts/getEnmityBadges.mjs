@@ -10,6 +10,7 @@ const token = process.env.GITHUB_TOKEN;
 
 (async () => {
     const response = await fetch(baseUrl, { headers: { "Authorization": `Token ${token}` } });
+    if (!response.ok) return;
     const data = await response.json();
     if (!Array.isArray(data)) return;
     const jsonFiles = data.filter(file => file.name.endsWith(".json"));

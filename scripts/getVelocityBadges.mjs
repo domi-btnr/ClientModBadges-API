@@ -6,6 +6,7 @@ const badgeFile = "https://raw.githubusercontent.com/Velocity-Discord/Backend/ma
 
 (async () => {
     const response = await fetch(badgeFile);
+    if (!response.ok) return;
     const data = Object.entries((await response.json())).map(([key, value]) => ({ id: key, name: value.name }));
     data.forEach(entry => addUser(entry.id, CLIENT_MODS.VELOCITY, [entry.name]));
 })();
