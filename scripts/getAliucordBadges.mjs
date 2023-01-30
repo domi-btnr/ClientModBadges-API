@@ -7,8 +7,9 @@ import * as utils from "./utils.mjs";
 const { addUser, CLIENT_MODS } = utils;
 const baseUrl = "https://api.github.com/repos/Aliucord/badges/contents/users";
 const token = process.env.GITHUB_TOKEN;
+let attempts = 1;
 
-(async () => {
+const getAliucordBadges = async () => {
     try {
         const response = await fetch(baseUrl, { headers: { "Authorization": `Token ${token}` } });
         if (!response.ok) return;
@@ -23,6 +24,9 @@ const token = process.env.GITHUB_TOKEN;
         });
         await Promise.all(promises);
     } catch (e) {
-        console.log("Failed to fetch Aliucord badges", e);
+        if (attempts++ > 4) console.error("Failed to get Aliucord badges after 5 attempts", e);
+        else setTimeout(getAliucordBadges, 500);
     }
-})();
+};
+
+getAliucordBadges();
