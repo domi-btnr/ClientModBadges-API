@@ -1,5 +1,5 @@
 import dotenv from "dotenv";
-import fetch from "node-fetch";
+import axios from "axios";
 
 dotenv.config();
 
@@ -11,15 +11,15 @@ let attempts = 1;
 
 const getAliucordBadges = async () => {
     try {
-        const response = await fetch(baseUrl, { headers: { "Authorization": `Token ${token}` } });
-        if (!response.ok) return;
-        const data = await response.json();
+        const response = await axios.get(baseUrl, { headers: { "Authorization": `Token ${token}` } });
+        if (response.status !== 200) return;
+        const data = response.data;
         if (!Array.isArray(data)) return;
         const jsonFiles = data.filter(file => file.name.endsWith(".json"));
         const promises = jsonFiles.map(async file => {
             const userId = file.name.replace(".json", "");
-            const response = await fetch(file.download_url);
-            const data = await response.json();
+            const response = await axios.get(file.download_url);
+            const data = response.data;
             addUser(userId, CLIENT_MODS.ALIUCORD, data.roles);
         });
         await Promise.all(promises);

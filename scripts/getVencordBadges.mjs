@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+import axios from "axios";
 
 import * as utils from "./utils.mjs";
 const { addUser, CLIENT_MODS } = utils;
@@ -6,10 +6,8 @@ let attempts = 1;
 
 const getVencordBadges = async () => {
     try {
-        const response = await fetch("https://raw.githubusercontent.com/Vendicated/Vencord/main/src/utils/constants.ts");
-        if (!response.ok) return;
-        const text = await response.text();
-        const matches = text.match(/id: ([0-9n]+)/gs);
+        const { data } = await axios.get("https://raw.githubusercontent.com/Vendicated/Vencord/main/src/utils/constants.ts");
+        const matches = data.match(/id: ([0-9n]+)/gs);
         matches.forEach(match => {
             const [, id] = match.match(/id: ([0-9n]+)/s);
             addUser(id.replace("n", ""), CLIENT_MODS.VENCORD, ["Contributor"]);
@@ -19,3 +17,5 @@ const getVencordBadges = async () => {
         else setTimeout(getVencordBadges, 500);
     }
 };
+
+getVencordBadges();
