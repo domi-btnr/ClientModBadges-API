@@ -18,7 +18,7 @@ app.get("/users/:userId", async (req, res) => {
     if (cache.has(userId) && cache.get(userId).expires > Date.now() && cache.get(userId).badges.length) _data.Replugged = cache.get(userId).badges;
     else {
         const resp = await axios.get(`https://replugged.dev/api/v1/users/${userId}`);
-        if (resp.status == 200 && resp.data.badges) {
+        if (resp.status == 200 && resp.data?.badges) {
             const body = resp.data.badges;
             const badges = Object.keys(body).filter(key => body[key] === true);
             if (badges.length) _data.Replugged = badges;
