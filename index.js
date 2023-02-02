@@ -1,7 +1,7 @@
 const app = require("express")();
 app.use(require("cors")());
 
-const fetch = (url) => import('node-fetch').then(({ default: fetch }) => fetch(url));
+const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
 
@@ -17,8 +17,8 @@ app.get("/users/:userId", async (req, res) => {
     let _data = {};
     if (cache.has(userId) && cache.get(userId).expires > Date.now() && cache.get(userId).badges.length) _data.Replugged = cache.get(userId).badges;
     else {
-        const resp = await fetch(`https://replugged.dev/api/v1/users/${userId}`);
-        const body = (await resp.json())?.badges;
+        const resp = await axios.get(`https://replugged.dev/api/v1/users/${userId}`);
+        const body = resp.data?.badges;
         if (body) {
             const badges = Object.keys(body).filter(key => body[key] === true);
             if (badges.length) _data.Replugged = badges;
