@@ -26,7 +26,7 @@ app.get("/users/:userId", async (req, res) => {
                 cache.set(userId, { badges, expires: Date.now() + EXPIRES });
             }
         } catch (error) {
-            console.error(error);
+            console.error(`[ERROR] ${error.message}`);
         }
     }
 
