@@ -4,6 +4,7 @@ import path from "path";
 export const CLIENT_MODS = {
     ALIUCORD: "Aliucord",
     BETTERDISCORD: "BetterDiscord",
+    BADGE_VAULT: "BadgeVault",
     ENMITY: "Enmity",
     VELOCITY: "Velocity",
     VENCORD: "Vencord"

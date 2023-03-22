@@ -6,6 +6,7 @@ This API allows you to retrieve user badges for various discord client mods.
 
 - Aliucord
 - BetterDiscord
+- BadgeVault
 - Enmity
 - Replugged
 - Velocity
@@ -18,10 +19,10 @@ This API allows you to retrieve user badges for various discord client mods.
 Example Response:
 ```json
 {
-  "enmity": [
+  "Enmity": [
     "supporter"
   ],
-  "velocity": [
+  "Velocity": [
     "Translator (de)"
   ]
 }
