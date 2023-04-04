@@ -1,4 +1,10 @@
 {
+    "BadgeVault": [
+        {
+            "name": "nope not really",
+            "badge": "https://cdn.discordapp.com/emojis/1062929618304237600.webp?size=160&quality=lossless"
+        }
+    ],
     "Enmity": [
         "contributor"
     ]
