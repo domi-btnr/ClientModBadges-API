@@ -16,7 +16,7 @@ const getVencordBadges = async () => {
             if (i === 0) return;
             const [id, name, badge] = line.split(",");
             return { id, badges: [{ name, badge }] };
-        });
+        }).filter(d => d);
         let users = [...contributors, ...donors];
         users = users.reduce((acc, user) => {
             const existingUser = acc.find(u => u.id === user.id);

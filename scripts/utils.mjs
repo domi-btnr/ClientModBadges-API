@@ -12,9 +12,9 @@ export const CLIENT_MODS = {
 
 export const addUser = (userId, mod, badges) => {
     const data = {};
-    data[mod] = badges.filter((badge) => {
+    data[mod] = badges.filter(badge => {
         if (typeof badge === "string") return badge !== "";
-        else return badge.name !== "" && badge.badge !== "";
+        else return badge.hasOwnProperty("name") && badge.hasOwnProperty("badge") && badge.name !== "" && badge.badge !== "";
     });
 
     const filePath = path.join(process.cwd(), "users", `${userId}.json`);

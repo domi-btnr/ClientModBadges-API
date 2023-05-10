@@ -19,11 +19,11 @@ const getEnmityBadges = async () => {
         const promises = jsonFiles.map(async file => {
             const userId = file.name.replace(".json", "");
             const response = await axios.get(file.download_url);
-            const data = response.data.map(async badge => {
-                if (badge !== userId) return;
-                const { data } = await axios.get(`https://raw.githubusercontent.com/enmity-mod/badges/main/data/${userId}.json`, { headers: { "Cache-Control": "no-cache" } });
+            const data = await Promise.all(response.data.map(async badge => {
+                if (!badge.includes(userId)) return badge;
+                const { data } = await axios.get(`https://raw.githubusercontent.com/enmity-mod/badges/main/data/${badge}.json`, { headers: { "Cache-Control": "no-cache" } });
                 return { name: data.name, badge: data.url.dark };
-            });
+            }));
             addUser(userId, CLIENT_MODS.ENMITY, data);
         });
         await Promise.all(promises);
