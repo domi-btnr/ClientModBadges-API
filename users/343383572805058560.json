@@ -1,5 +1,16 @@
 {
     "Aliucord": [
         "dev"
+    ],
+    "Vencord": [
+        "Contributor",
+        {
+            "name": ":3",
+            "badge": "https://cdn.discordapp.com/emojis/484159896691015690.gif?size=256&quality=lossless"
+        },
+        {
+            "name": "read if cute",
+            "badge": "https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=256"
+        }
     ]
 }

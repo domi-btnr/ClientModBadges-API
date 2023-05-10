@@ -1,7 +1,7 @@
 {
     "Enmity": [
-        {},
-        {},
-        {}
+        "dev",
+        "staff",
+        "contributor"
     ]
 }

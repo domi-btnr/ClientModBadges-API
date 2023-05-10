@@ -1,6 +1,9 @@
 {
     "Enmity": [
-        {},
-        {}
+        "supporter",
+        {
+            "name": "Lillie",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/254623459190112257.gif"
+        }
     ]
 }

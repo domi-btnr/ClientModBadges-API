@@ -1,6 +1,9 @@
 {
     "Enmity": [
-        {},
-        {}
+        "supporter",
+        {
+            "name": "WhisperVC",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/687234809277317120.png"
+        }
     ]
 }

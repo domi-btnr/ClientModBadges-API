@@ -1,6 +1,9 @@
 {
     "Enmity": [
-        {},
-        {}
+        "supporter",
+        {
+            "name": "ECHO Dev",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/637450301728620574.png"
+        }
     ]
 }

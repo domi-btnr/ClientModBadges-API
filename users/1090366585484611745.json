@@ -1,6 +1,9 @@
 {
     "Enmity": [
-        {},
-        {}
+        "supporter",
+        {
+            "name": "vehqn",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1090366585484611745.gif"
+        }
     ]
 }

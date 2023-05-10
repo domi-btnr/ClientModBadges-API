@@ -1,6 +1,9 @@
 {
     "Enmity": [
-        {},
-        {}
+        "supporter",
+        {
+            "name": "Gluten Free",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1032777880180113538.png"
+        }
     ]
 }
