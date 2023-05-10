@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "contributor"
+        "contributor",
+        {
+            "name": "hi",
+            "badge": "https://cdn.discordapp.com/emojis/893708123125198848.png?size=48"
+        }
     ]
 }

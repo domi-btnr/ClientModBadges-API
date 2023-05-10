@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "donor"
+        "donor",
+        {
+            "name": "Best singer in room 1",
+            "badge": "https://cdn.discordapp.com/attachments/1088010781901197332/1088228458502553670/latest.png"
+        }
     ]
 }

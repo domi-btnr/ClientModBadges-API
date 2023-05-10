@@ -1,9 +1,10 @@
 {
     "Aliucord": [
         "contributor",
-        "donor"
-    ],
-    "Vencord": [
-        "Contributor"
+        "donor",
+        {
+            "name": "minky",
+            "badge": "https://cdn.discordapp.com/emojis/896224889692913736.webp"
+        }
     ]
 }

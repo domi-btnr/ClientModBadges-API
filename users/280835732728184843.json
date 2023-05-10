@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "donor"
+        "donor",
+        {
+            "name": "Mewdeko Owner",
+            "badge": "https://cdn.discordapp.com/attachments/769715970502557727/1042640112703504404/Mewdeko_1.png"
+        }
     ]
 }

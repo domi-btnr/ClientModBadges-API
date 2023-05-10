@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "donor"
+        "donor",
+        {
+            "name": "Schwi follower",
+            "badge": "https://cdn.discordapp.com/attachments/966978581043507210/966982931920850986/shuvi.png"
+        }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "donor"
+        "donor",
+        {
+            "name": "lilly",
+            "badge": "https://cdn.discordapp.com/emojis/967860827346599986.webp"
+        }
     ]
 }

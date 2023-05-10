@@ -1,8 +1,9 @@
 {
     "Aliucord": [
-        "donor"
-    ],
-    "Vencord": [
-        "Contributor"
+        "donor",
+        {
+            "name": "hi",
+            "badge": "https://cdn.discordapp.com/attachments/1096126810930036796/1096133061936168970/868827874134736926.webp"
+        }
     ]
 }

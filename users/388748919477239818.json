@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "donor"
+        "donor",
+        {
+            "name": "tux",
+            "badge": "https://cdn.discordapp.com/attachments/1074014502800085102/1074032138292310118/Tux.png"
+        }
     ]
 }

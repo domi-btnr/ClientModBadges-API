@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "donor"
+        "donor",
+        {
+            "name": "THE bus",
+            "badge": "https://cdn.discordapp.com/attachments/924443251245736017/941857392289800302/IMG_20220212_014454.jpg"
+        }
     ]
 }

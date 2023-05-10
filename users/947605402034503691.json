@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "donor"
+        "donor",
+        {
+            "name": "Pandoor",
+            "badge": "https://cdn.discordapp.com/attachments/924443251245736017/975412689604055070/unknown.png"
+        }
     ]
 }

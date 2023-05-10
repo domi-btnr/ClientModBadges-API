@@ -1,5 +1,9 @@
 {
     "Aliucord": [
-        "donor"
+        "donor",
+        {
+            "name": "Bug Creator",
+            "badge": "https://cdn.discordapp.com/emojis/950496472560959488.png"
+        }
     ]
 }
