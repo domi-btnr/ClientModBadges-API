@@ -9,9 +9,16 @@ const baseUrl = "https://api.github.com/repos/Aliucord/badges/contents/users";
 const token = process.env.GITHUB_TOKEN;
 let attempts = 1;
 
+const transformData = (data) => {
+    const roles = data.roles;
+    const custom = data.custom || [];
+    const transformedCustom = custom.map(badge => ({ name: badge.text, badge: badge.url }));
+    return [...roles, ...transformedCustom];
+};
+
 const getAliucordBadges = async () => {
     try {
-        const response = await axios.get(baseUrl, { headers: { "Authorization": `Token ${token}` } });
+        const response = await axios.get(baseUrl, { headers: { Authorization: `Token ${token}`, "Cache-Control": "no-cache" } });
         if (response.status !== 200) return;
         const data = response.data;
         if (!Array.isArray(data)) return;
@@ -20,7 +27,7 @@ const getAliucordBadges = async () => {
             const userId = file.name.replace(".json", "");
             const response = await axios.get(file.download_url);
             const data = response.data;
-            addUser(userId, CLIENT_MODS.ALIUCORD, data.roles);
+            addUser(userId, CLIENT_MODS.ALIUCORD, transformData(data));
         });
         await Promise.all(promises);
     } catch (e) {

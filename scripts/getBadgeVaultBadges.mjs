@@ -11,7 +11,7 @@ let attempts = 1;
 
 const getBadgeVaultBadges = async () => {
     try {
-        const response = await axios.get(baseUrl, { headers: { "Authorization": `Token ${token}` } });
+        const response = await axios.get(baseUrl, { headers: { Authorization: `Token ${token}`, "Cache-Control": "no-cache" } });
         if (!response.status === 200) return;
         const data = response.data;
         if (!Array.isArray(data)) return;
@@ -23,8 +23,7 @@ const getBadgeVaultBadges = async () => {
             const result = _data.map(item => {
                 return { name: item.name, badge: item.badge };
             });
-            const data = JSON.stringify(result);
-            addUser(userId, CLIENT_MODS.BADGE_VAULT, JSON.parse(data));
+            addUser(userId, CLIENT_MODS.BADGE_VAULT, result);
         });
         await Promise.all(promises);
     } catch (e) {

@@ -11,7 +11,7 @@ let attempts = 1;
 
 const getEnmityBadges = async () => {
     try {
-        const response = await axios.get(baseUrl, { headers: { "Authorization": `Token ${token}` } });
+        const response = await axios.get(baseUrl, { headers: { Authorization: `Token ${token}`, "Cache-Control": "no-cache" } });
         if (!response.status === 200) return;
         const data = response.data;
         if (!Array.isArray(data)) return;
@@ -19,8 +19,12 @@ const getEnmityBadges = async () => {
         const promises = jsonFiles.map(async file => {
             const userId = file.name.replace(".json", "");
             const response = await axios.get(file.download_url);
-            const data = JSON.stringify(response.data).replace(userId, "");
-            addUser(userId, CLIENT_MODS.ENMITY, JSON.parse(data));
+            const data = response.data.map(async badge => {
+                if (badge !== userId) return;
+                const { data } = await axios.get(`https://raw.githubusercontent.com/enmity-mod/badges/main/data/${userId}.json`, { headers: { "Cache-Control": "no-cache" } });
+                return { name: data.name, badge: data.url.dark };
+            });
+            addUser(userId, CLIENT_MODS.ENMITY, data);
         });
         await Promise.all(promises);
     } catch (e) {

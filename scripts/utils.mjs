@@ -12,7 +12,10 @@ export const CLIENT_MODS = {
 
 export const addUser = (userId, mod, badges) => {
     const data = {};
-    data[mod] = badges.filter(badge => badge !== "");
+    data[mod] = badges.filter((badge) => {
+        if (typeof badge === "string") return badge !== "";
+        else return badge.name !== "" && badge.badge !== "";
+    });
 
     const filePath = path.join(process.cwd(), "users", `${userId}.json`);
     if (!fs.existsSync(filePath)) fs.writeFileSync(filePath, JSON.stringify(data, null, 4));

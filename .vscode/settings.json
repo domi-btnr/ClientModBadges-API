@@ -6,5 +6,8 @@
     "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true,
     "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
     "javascript.preferences.quoteStyle": "double",
-    "javascript.format.semicolons": "insert"
+    "javascript.format.semicolons": "insert",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
 }

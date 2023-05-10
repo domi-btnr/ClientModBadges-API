@@ -4,34 +4,33 @@ This API allows you to retrieve user badges for various discord client mods.
 
 ### Supported client mods:
 
-- Aliucord
-- BetterDiscord
-- BadgeVault
-- Enmity
-- Replugged
-- Velocity
-- Vencord
+- [Aliucord](https://github.com/Aliucord/Aliucord)
+- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+- [BadgeVault](https://github.com/WolfPlugs/BadgeVault)
+- [Enmity](https://github.com/enmity-mod/enmity)
+- [Replugged](https://github.com/replugged-org/replugged)
+- [Velocity](https://github.com/Velocity-Discord/Velocity)
+- [Vencord](https://github.com/Vendicated/Vencord)
 
 ### Endpoints
 
 `/users/:userId` Returns the badges for the user
 
 Example Response:
+
 ```json
 {
   "Enmity": [
-    "supporter"
+    "supporter",
+    {
+      "name": "Gluten Free",
+      "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1032777880180113538.png"
+    }
   ],
-  "Velocity": [
-    "Translator (de)"
-  ]
+  "Velocity": ["Translator (de)"]
 }
 ```
 
 `/badges/:clientMod/:badge` Returns the badge icon
 
-Example Response:
 The response will be the badge icon in `image/png` format.
-
----
-This README was created by ChatGPT
