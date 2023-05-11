@@ -1,5 +1,24 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "BrickHill User",
+            "badge": "https://cdn.discordapp.com/emojis/1077044339798179871.webp?size=48"
+        },
+        {
+            "name": "WAAAAAAAH",
+            "badge": "https://cdn.discordapp.com/emojis/1098225175457185882.webp?size=48"
+        },
+        {
+            "name": "BlobFox",
+            "badge": "https://cdn.discordapp.com/emojis/945760751778406430.webp?size=48"
+        },
+        {
+            "name": ":3",
+            "badge": "https://cdn.discordapp.com/attachments/1103064233345830912/1104524342911582288/FrS2z7PWwAEBj3c.jpg"
+        },
+        {
+            "name": "Android User",
+            "badge": "https://cdn.discordapp.com/attachments/1103064233345830912/1104550634662924459/Droidgold.png"
+        }
     ]
 }

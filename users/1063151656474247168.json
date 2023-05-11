@@ -1,5 +1,8 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "fuck you badge",
+            "badge": "https://cdn.discordapp.com/attachments/1103607431864524811/1105224000705134682/IMG_20230504_084044.jpg"
+        }
     ]
 }

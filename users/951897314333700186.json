@@ -1,5 +1,12 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "trolley",
+            "badge": "https://cdn.discordapp.com/emojis/927592413663461447.gif"
+        },
+        {
+            "name": "chad",
+            "badge": "https://media.discordapp.net/attachments/1058691573690404904/1106093965029163048/1086166352357765160.gif"
+        }
     ]
 }

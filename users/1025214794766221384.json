@@ -1,5 +1,8 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "Tharki",
+            "badge": "https://cdn.discordapp.com/attachments/1030104668401061928/1102778129291952158/944164741763452958.webp"
+        }
     ]
 }

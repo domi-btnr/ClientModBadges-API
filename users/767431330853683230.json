@@ -1,5 +1,8 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "i love touching grass",
+            "badge": "https://cdn.discordapp.com/emojis/1006635536087269486.webp?size=64"
+        }
     ]
 }

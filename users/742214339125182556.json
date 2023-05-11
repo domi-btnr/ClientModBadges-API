@@ -1,5 +1,16 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "Member of the USSR",
+            "badge": "https://media.discordapp.net/attachments/817772269132316752/1103160582263287818/94QbZe7cAZJpdhKQjybt.png"
+        },
+        {
+            "name": "Loyal citizen of the Socialist Republic of Vietnam",
+            "badge": "https://media.discordapp.net/attachments/817772269132316752/1103160740539543572/52U7Pdji6quSsDUFGEko.png"
+        },
+        {
+            "name": "Bill Cipher: Remember, reality is an illusion. The universe is a hologram. I'm still watching you...",
+            "badge": "https://media.discordapp.net/attachments/817772269132316752/1105853449964376144/blyVxXdI2KDubMkY1iu2.png"
+        }
     ]
 }

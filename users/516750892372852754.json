@@ -1,6 +1,9 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "Femboy",
+            "badge": "https://cdn.discordapp.com/attachments/1021863828797010030/1104521459151409222/femboy.jpeg"
+        }
     ],
     "Enmity": [
         "supporter"

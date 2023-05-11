@@ -1,5 +1,8 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "Maxwell",
+            "badge": "https://cdn.discordapp.com/emojis/1059763435346346004.gif?size=128"
+        }
     ]
 }

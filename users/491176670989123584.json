@@ -1,5 +1,8 @@
 {
     "BadgeVault": [
-        {}
+        {
+            "name": "Babushka",
+            "badge": "https://cdn.discordapp.com/attachments/900770900692066358/1016987160739590164/BabushkaUpscaled.jpg"
+        }
     ]
 }
