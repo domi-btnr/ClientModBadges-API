@@ -19,7 +19,8 @@ const getBadgeVaultBadges = async () => {
         const promises = jsonFiles.map(async file => {
             const userId = file.name.replace(".json", "");
             const response = await axios.get(file.download_url);
-            const _data = Array.isArray(response.data) ? response.data : [response.data];
+            if (!response.data.badges) return;
+            const _data = Array.isArray(response.data.badges) ? response.data.badges : [response.data.badges];
             const result = _data.map(item => {
                 return { name: item.name, badge: item.badge };
             });
