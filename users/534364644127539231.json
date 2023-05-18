@@ -1,3 +1,8 @@
 {
-    "BadgeVault": []
+    "BadgeVault": [
+        {
+            "name": "Echo",
+            "badge": "https://media.discordapp.net/attachments/1108434370894766160/1108434691436073020/01DE4012-6F6B-4BEB-AB11-92E502568117.png"
+        }
+    ]
 }
