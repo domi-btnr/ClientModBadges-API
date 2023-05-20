@@ -3,6 +3,22 @@
         {
             "name": "star",
             "badge": "https://cdn.discordapp.com/emojis/1001684130343424110.webp?size=128"
+        },
+        {
+            "name": "PartyBlob",
+            "badge": "https://cdn.discordapp.com/emojis/921411177773420584.gif?size=128"
+        },
+        {
+            "name": "Github",
+            "badge": "https://media.discordapp.net/attachments/1026263737977557073/1109438717954899978/github-mark-white.png"
+        },
+        {
+            "name": "Java",
+            "badge": "https://media.discordapp.net/attachments/1026263737977557073/1109440217145933844/java-robocode-programming-language-jar-jar-c0b11397b13c8c1d77ff802820e04208.png"
+        },
+        {
+            "name": "Kotlin",
+            "badge": "https://cdn.discordapp.com/emojis/1072514052904988774.webp?size=128"
         }
     ]
 }
