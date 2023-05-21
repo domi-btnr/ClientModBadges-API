@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Lunar",
+            "badge": "https://cdn.discordapp.com/attachments/1107065064915226624/1109962226615455764/icon_1639772552_6448c92da0ff8d82230e7d7d3d8c8333.gif"
+        },
+        {
+            "name": "Ethereum",
+            "badge": "https://cdn.discordapp.com/attachments/1109491419820855366/1109962643097264138/icon_1656806213_a512003f10bb5f20dbaf9573ddc43c59.gif"
+        },
+        {
+            "name": "4PF",
+            "badge": "https://cdn.discordapp.com/attachments/1109491419820855366/1109962644342972508/icon_1642539940_cf8a5a3abf440dc0e12e109c4a7d1660.gif"
+        },
+        {
+            "name": "OTF",
+            "badge": "https://cdn.discordapp.com/attachments/1109491419820855366/1109962643793522698/icon_1648502469_5b34dd40575c86c431238ffc36a0b7d0.png"
+        }
+    ]
+}
