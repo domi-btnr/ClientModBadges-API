@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "Lunar",
-            "badge": "https://cdn.discordapp.com/attachments/1107065064915226624/1109962226615455764/icon_1639772552_6448c92da0ff8d82230e7d7d3d8c8333.gif"
-        },
-        {
             "name": "Ethereum",
             "badge": "https://cdn.discordapp.com/attachments/1109491419820855366/1109962643097264138/icon_1656806213_a512003f10bb5f20dbaf9573ddc43c59.gif"
         },
