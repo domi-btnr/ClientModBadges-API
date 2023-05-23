@@ -1,16 +1,24 @@
 {
     "BadgeVault": [
         {
-            "name": "🍪",
-            "badge": "https://media.discordapp.net/attachments/1107242175592398848/1110654099260715069/Cookie.png"
-        },
-        {
             "name": "⭐",
             "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110655038390546473/e4960c1d084132279f17ca869846c00c.gif"
         },
         {
             "name": "eepy",
             "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110656097104171008/cat-sleep.gif"
+        },
+        {
+            "name": "🍪",
+            "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110662239842742373/4809-minecraft-cookie.png"
+        },
+        {
+            "name": "shiggy wiggy",
+            "badge": "https://media.discordapp.net/attachments/1107242175592398848/1110662895416651836/1024751291504791654.gif"
+        },
+        {
+            "name": "swag like potaro",
+            "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110664836569899040/kjsc58muj0661.png"
         }
     ]
 }
