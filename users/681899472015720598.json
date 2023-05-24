@@ -9,10 +9,6 @@
             "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110656097104171008/cat-sleep.gif"
         },
         {
-            "name": "🍪",
-            "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110662239842742373/4809-minecraft-cookie.png"
-        },
-        {
             "name": "shiggy wiggy",
             "badge": "https://media.discordapp.net/attachments/1107242175592398848/1110662895416651836/1024751291504791654.gif"
         },
@@ -23,6 +19,10 @@
         {
             "name": "🏳️‍⚧️",
             "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110703284961951764/IMG_2298.png"
+        },
+        {
+            "name": "🍰",
+            "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110943902149660672/Cake.png"
         }
     ]
 }
