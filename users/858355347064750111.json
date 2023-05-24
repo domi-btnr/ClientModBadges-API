@@ -1,3 +1,8 @@
 {
-    "BadgeVault": []
+    "BadgeVault": [
+        {
+            "name": "Buggie Studios",
+            "badge": "https://media.discordapp.net/attachments/954805692840161303/1111015447240921098/20230417_182557.jpg"
+        }
+    ]
 }
