@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "⭐",
-            "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110655038390546473/e4960c1d084132279f17ca869846c00c.gif"
-        },
-        {
             "name": "eepy",
             "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110656097104171008/cat-sleep.gif"
         },
@@ -17,12 +13,16 @@
             "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110664836569899040/kjsc58muj0661.png"
         },
         {
-            "name": "🏳️‍⚧️",
-            "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110703284961951764/IMG_2298.png"
-        },
-        {
             "name": "🍰",
             "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110943902149660672/Cake.png"
+        },
+        {
+            "name": "☺️",
+            "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110944604641042432/667438222938210365.png"
+        },
+        {
+            "name": "🏳️‍⚧️",
+            "badge": "https://cdn.discordapp.com/attachments/1107242175592398848/1110945271808004158/EGZM9mmXYAEz1gL.png"
         }
     ]
 }
