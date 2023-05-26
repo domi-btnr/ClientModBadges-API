@@ -1,14 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "Abble Developer",
-            "badge": "https://cdn.discordapp.com/attachments/1080540586857218142/1111536189468581950/1685081237747.png"
-        },
-        {
-            "name": "ChatGPT is my Solution",
-            "badge": "https://cdn.discordapp.com/attachments/1080540586857218142/1111543921068220467/ChatGPT_logo.svg.png"
-        },
-        {
             "name": "Abble Bot Owner",
             "badge": "https://cdn.discordapp.com/attachments/1080540586857218142/1111536189468581950/1685081237747.png"
         }
