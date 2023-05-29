@@ -3,6 +3,18 @@
         {
             "name": "Testeur",
             "badge": "https://media.discordapp.net/attachments/954805692840161303/1111273989201985557/6982-ban-hammer.png"
+        },
+        {
+            "name": "QLF",
+            "badge": "https://cdn.discordapp.com/emojis/1098928743013154856.png?size=48&quality=lossless"
+        },
+        {
+            "name": "Python",
+            "badge": "https://cdn.discordapp.com/emojis/1058583184926847026.png?size=48&quality=lossless"
+        },
+        {
+            "name": "OM",
+            "badge": "https://cdn.discordapp.com/emojis/1074346453213921310.png?size=48&quality=lossless"
         }
     ]
 }
