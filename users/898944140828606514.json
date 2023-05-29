@@ -1,12 +1,12 @@
 {
     "BadgeVault": [
         {
-            "name": "Federal",
-            "badge": "https://media.discordapp.net/attachments/1089379554327527555/1091336318182752327/image-removebg-preview1.png?width=199&height=199"
-        },
-        {
             "name": "Sirius",
             "badge": "https://cdn.discordapp.com/attachments/1051458653800124476/1112813188216533002/Asset_44x-8.png"
+        },
+        {
+            "name": "Fr",
+            "badge": "https://cdn.discordapp.com/attachments/1051458653800124476/1112822674943643840/B6E6FD70-150B-4E3D-9775-6B95F75FDE00.png"
         }
     ]
 }
