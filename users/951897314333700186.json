@@ -15,6 +15,10 @@
         {
             "name": "Spicy",
             "badge": "https://cdn.discordapp.com/emojis/1110672056493813903.gif?size=128"
+        },
+        {
+            "name": "Popcorn",
+            "badge": "https://cdn.discordapp.com/emojis/558279507828670479.gif?quality=lossless&size=48"
         }
     ]
 }
