@@ -5,10 +5,6 @@
             "badge": "https://media.discordapp.net/attachments/954805692840161303/1111273989201985557/6982-ban-hammer.png"
         },
         {
-            "name": "QLF",
-            "badge": "https://cdn.discordapp.com/emojis/1098928743013154856.png?size=48&quality=lossless"
-        },
-        {
             "name": "Python",
             "badge": "https://cdn.discordapp.com/emojis/1058583184926847026.png?size=48&quality=lossless"
         },
@@ -23,6 +19,10 @@
         {
             "name": "Membre de l’URSS",
             "badge": "https://media.discordapp.net/attachments/817772269132316752/1103160582263287818/94QbZe7cAZJpdhKQjybt.png?width=571&height=667"
+        },
+        {
+            "name": "Real Madrid",
+            "badge": "https://cdn.discordapp.com/emojis/657766931167969291.png?size=48&quality=lossless"
         }
     ]
 }
