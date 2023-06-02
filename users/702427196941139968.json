@@ -1,3 +1,8 @@
 {
-    "BadgeVault": []
+    "BadgeVault": [
+        {
+            "name": "Samurai",
+            "badge": "https://cdn.discordapp.com/attachments/702428762255523923/1113997268064927884/vucko0Nh.jpg"
+        }
+    ]
 }
