@@ -1,12 +1,12 @@
 {
     "BadgeVault": [
         {
-            "name": "BOOMERANG",
-            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1114050740919472228/yNcQGkGk.jpg"
-        },
-        {
             "name": "MANKEY",
             "badge": "https://media.discordapp.net/attachments/1114350375160524800/1114350441187266580/qbcKORXm.jpg"
+        },
+        {
+            "name": "SAD",
+            "badge": "https://media.discordapp.net/attachments/1114350375160524800/1114443266646093864/nFdoO86m.png"
         }
     ]
 }
