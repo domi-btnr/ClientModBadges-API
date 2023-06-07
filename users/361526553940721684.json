@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Proto.",
+            "badge": "https://cdn.discordapp.com/attachments/1098983504387248238/1116108593599619112/IMG_20230607_225647.png"
+        },
+        {
+            "name": "Visual Studio 2022",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116117242195759114/Visual_Studio_Icon_2022.svg.png"
+        },
+        {
+            "name": "Visual Studio Code",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116117582299271198/Visual_Studio_Code_1.35_icon.svg.png"
+        },
+        {
+            "name": "Xiaomi User",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116118274392993802/Xiaomi_logo_2021-.svg.png"
+        }
+    ]
+}
