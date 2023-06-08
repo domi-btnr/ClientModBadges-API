@@ -1,24 +1,12 @@
 {
     "BadgeVault": [
         {
-            "name": "Buggie Studios",
-            "badge": "https://media.discordapp.net/attachments/954805692840161303/1111015447240921098/20230417_182557.jpg"
-        },
-        {
             "name": "Lua Programmer",
             "badge": "https://media.discordapp.net/attachments/954805692840161303/1111094977687203870/text-x-lua-icon.png"
         },
         {
             "name": "Scripter",
             "badge": "https://media.discordapp.net/attachments/954805692840161303/1110998844021411941/20230524_203055.png"
-        },
-        {
-            "name": "Unity Commander",
-            "badge": "https://media.discordapp.net/attachments/954805692840161303/1111273989201985557/6982-ban-hammer.png"
-        },
-        {
-            "name": "Skull Wolf King",
-            "badge": "https://media.discordapp.net/attachments/954805692840161303/1111340413601714226/1685034589667.png"
         },
         {
             "name": "AudyCora",
