@@ -15,6 +15,18 @@
         {
             "name": "Xiaomi User",
             "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116118274392993802/Xiaomi_logo_2021-.svg.png"
+        },
+        {
+            "name": "Apple Hater",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116441114858229870/Apple_Computer_Logo_rainbow.svg.png"
+        },
+        {
+            "name": "NVIDIA User",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116441914401619978/Nvidia_logo.svg.png"
+        },
+        {
+            "name": "Intel User",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116442084363219085/Intel_logo_2023.svg.png"
         }
     ]
 }
