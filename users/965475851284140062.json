@@ -1,20 +1,3 @@
 {
-    "BadgeVault": [
-        {
-            "name": "Michael Jackson Fan",
-            "badge": "https://cdn.discordapp.com/attachments/1027589897923592242/1104592221925298188/pngwing.com_2.png"
-        },
-        {
-            "name": "Sonic Fan",
-            "badge": "https://cdn.discordapp.com/attachments/1027589897923592242/1104715940458942575/Polish_20230507_132344824.png"
-        },
-        {
-            "name": "Sonic 2D Sprite Modder",
-            "badge": "https://cdn.discordapp.com/attachments/1027589897923592242/1104817276353519748/Sonic_3_Bad.png"
-        },
-        {
-            "name": "Don't ask me for Sonic Mania Plus on android",
-            "badge": "https://media.discordapp.net/attachments/1027589897923592242/1105124717930746008/1082036976351453264.webp"
-        }
-    ]
+    "BadgeVault": []
 }
