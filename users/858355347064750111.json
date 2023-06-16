@@ -19,6 +19,14 @@
         {
             "name": "Super GG",
             "badge": "https://media.discordapp.net/attachments/954805692840161304/1119017269792612412/20230615_233459.png"
+        },
+        {
+            "name": "Module Designer",
+            "badge": "https://media.discordapp.net/attachments/954805692840161304/1119033741638111303/20230616_004005.png"
+        },
+        {
+            "name": "API Requested",
+            "badge": "https://media.discordapp.net/attachments/954805692840161304/1119053013122826291/20230616_015657.png"
         }
     ]
 }
