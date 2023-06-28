@@ -1,3 +1,8 @@
 {
-    "BadgeVault": []
+    "BadgeVault": [
+        {
+            "name": "Touched Grass",
+            "badge": "https://cdn.discordapp.com/emojis/1104113407885586473.png?size=48&quality=lossless"
+        }
+    ]
 }
