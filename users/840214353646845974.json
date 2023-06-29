@@ -1,16 +1,3 @@
 {
-    "BadgeVault": [
-        {
-            "name": "ether",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1123479542686818404/Untitled95_20230605222750.png"
-        },
-        {
-            "name": "soulsilver",
-            "badge": "https://cdn.discordapp.com/attachments/1123152179675541594/1123536129145188372/favpng_pokemon-black-white-pokemon-heartgold-and-soulsilver-pansage-unova.png"
-        },
-        {
-            "name": "bluetypo",
-            "badge": "https://cdn.discordapp.com/attachments/1121818007941947496/1123951857228853328/image0.png"
-        }
-    ]
+    "BadgeVault": []
 }
