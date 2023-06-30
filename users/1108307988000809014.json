@@ -1,0 +1,28 @@
+{
+    "BadgeVault": [
+        {
+            "name": "HAPPY",
+            "badge": "https://cdn.discordapp.com/emojis/1123487437621047346.gif?size=48&quality=lossless"
+        },
+        {
+            "name": "I LOVE VADA",
+            "badge": "https://cdn.discordapp.com/emojis/1123366704290996254.png?size=48&quality=lossless"
+        },
+        {
+            "name": "Leaf",
+            "badge": "https://cdn.discordapp.com/emojis/986422510679642114.png?size=48&quality=lossless"
+        },
+        {
+            "name": "Lil Guy",
+            "badge": "https://cdn.discordapp.com/emojis/958807508183580752.png?size=48&quality=lossless"
+        },
+        {
+            "name": "Red Leaf",
+            "badge": "https://cdn.discordapp.com/emojis/986422522994102302.png?size=48&quality=lossless"
+        },
+        {
+            "name": "Golden Leaf",
+            "badge": "https://cdn.discordapp.com/emojis/986422546478006372.png?size=48&quality=lossless"
+        }
+    ]
+}
