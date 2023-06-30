@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "xtreme",
-            "badge": "https://cdn.discordapp.com/attachments/1080499219124723712/1124151981305507930/Picsart_23-06-30_07-04-52-139.png"
-        },
-        {
             "name": "unrivaled",
             "badge": "https://cdn.discordapp.com/attachments/1080499219124723712/1124151981880123544/69.png"
         },
@@ -23,6 +19,10 @@
         {
             "name": "indeed",
             "badge": "https://cdn.discordapp.com/attachments/1080499219124723712/1124151983905968339/giphy.gif"
+        },
+        {
+            "name": "pokeball",
+            "badge": "https://cdn.discordapp.com/attachments/1123152179675541594/1124222185700065300/Daco_4658073.png"
         }
     ]
 }
