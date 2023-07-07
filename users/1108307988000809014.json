@@ -1,24 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "Golden Leaf",
-            "badge": "https://cdn.discordapp.com/emojis/986422546478006372.png?size=48&quality=lossless"
-        },
-        {
-            "name": "x Tea Golden Lover",
-            "badge": "https://cdn.discordapp.com/emojis/1105206116570374264.png?size=48&quality=lossless"
-        },
-        {
-            "name": "x Golden Cat",
-            "badge": "https://cdn.discordapp.com/emojis/1040358817793314846.png?size=48&quality=lossless"
-        },
-        {
-            "name": "x Golden Happy Guy",
-            "badge": "https://cdn.discordapp.com/emojis/1040358820880322630.png?size=48&quality=lossless"
-        },
-        {
-            "name": "x Golden Guy",
-            "badge": "https://cdn.discordapp.com/emojis/1106273957562298398.png?size=48&quality=lossless"
+            "name": "Autumn Lover",
+            "badge": "https://cdn.discordapp.com/emojis/1126798276423848046.png?size=240"
         }
     ]
 }
