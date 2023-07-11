@@ -33,25 +33,28 @@ jobs:
 
       - name: Setup env
         run: echo "GITHUB_TOKEN = ${{ secrets.GITHUB_TOKEN }}" >> .env
-      
+
+      - name: Update Aero Badges
+        run: node scripts/getAeroBadges.mjs
+
       - name: Update Aliucord Badges
         run: node scripts/getAliucordBadges.mjs
-      
+
       - name: Update BetterDiscord Badges
         run: node scripts/getBetterDiscordBadges.mjs
-      
+
       - name: Update BadgeVault Badges
         run: node scripts/getBadgeVaultBadges.mjs
-      
+
       - name: Update Enmity Badges
         run: node scripts/getEnmityBadges.mjs
-      
+
       - name: Update Velocity Badges
         run: node scripts/getVelocityBadges.mjs
-      
+
       - name: Update Vencord Badges
         run: node scripts/getVencordBadges.mjs
-      
+
       - name: Push Changes
         run: |
           git config --local user.email "actions@github.com"

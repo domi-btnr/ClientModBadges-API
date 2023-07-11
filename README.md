@@ -4,6 +4,7 @@ This API allows you to retrieve user badges for various discord client mods.
 
 ### Supported client mods:
 
+- [Aero](https://github.com/aero-mod/aero)
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 - [BadgeVault](https://github.com/WolfPlugs/BadgeVault)
