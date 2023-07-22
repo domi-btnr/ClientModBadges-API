@@ -1,5 +1,11 @@
 {
     "Aliucord": [
         "contributor"
+    ],
+    "Vencord": [
+        {
+            "name": "dancinglilgirl",
+            "badge": "https://cdn.discordapp.com/emojis/818970911981436949.gif?size=256&quality=lossless"
+        }
     ]
 }
