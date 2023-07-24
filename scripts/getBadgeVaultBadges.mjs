@@ -5,28 +5,26 @@ dotenv.config();
 
 import * as utils from "./utils.mjs";
 const { addUser, CLIENT_MODS } = utils;
-const baseUrl = "https://api.github.com/repos/WolfPlugs/BadgeVault/contents/User";
-const token = process.env.GITHUB_TOKEN;
+const baseUrl = "https://api.obamabot.me/v2/badges/getAllUsers";
+const API_KEY = process.env.BADGE_VAULT_KEY;
 let attempts = 1;
 
 const getBadgeVaultBadges = async () => {
     try {
-        const response = await axios.get(baseUrl, { headers: { Authorization: `Token ${token}`, "Cache-Control": "no-cache" } });
+        const response = await axios.get(`${baseUrl}?key=${API_KEY}`, { headers: { "Cache-Control": "no-cache" } });
         if (!response.status === 200) return;
         const data = response.data;
         if (!Array.isArray(data)) return;
-        const jsonFiles = data.filter(file => file.name.endsWith(".json"));
-        const promises = jsonFiles.map(async file => {
-            const userId = file.name.replace(".json", "");
-            const response = await axios.get(file.download_url);
-            if (!response.data.badges) return;
-            const _data = Array.isArray(response.data.badges) ? response.data.badges : [response.data.badges];
-            const result = _data.map(item => {
-                return { name: item.name, badge: item.badge };
-            });
-            addUser(userId, CLIENT_MODS.BADGE_VAULT, result);
-        });
-        await Promise.all(promises);
+        for (const user of data) {
+            let { userId, badges } = user;
+            if (!badges) return;
+            badges = badges.filter(badge => !badge.pending)
+                .map(item => {
+                    return { name: item.name, badge: item.badge };
+                });
+            if (!badges.length) return;
+            addUser(userId, CLIENT_MODS.BADGE_VAULT, badges);
+        }
     } catch (e) {
         if (attempts++ > 4) console.error("Failed to get BadgeVault badges after 5 attempts", e);
         else setTimeout(getBadgeVaultBadges, 500);
