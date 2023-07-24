@@ -32,7 +32,9 @@ jobs:
         run: rm -rf users && mkdir users
 
       - name: Setup env
-        run: echo "GITHUB_TOKEN = ${{ secrets.GITHUB_TOKEN }}" >> .env
+        run: |
+            echo "GITHUB_TOKEN = ${{ secrets.GITHUB_TOKEN }}" >> .env
+            echo "BADGE_VAULT_KEY = ${{ secrets.BADGE_VAULT_KEY }}" >> .env
 
       - name: Update Aero Badges
         run: node scripts/getAeroBadges.mjs
