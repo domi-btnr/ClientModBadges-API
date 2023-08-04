@@ -17,12 +17,12 @@ const getBadgeVaultBadges = async () => {
         if (!Array.isArray(data)) return;
         for (const user of data) {
             let { userId, badges } = user;
-            if (!badges) return;
+            if (!badges) continue;
             badges = badges.filter(badge => !badge.pending)
                 .map(item => {
                     return { name: item.name, badge: item.badge };
                 });
-            if (!badges.length) return;
+            if (!badges.length) continue;
             addUser(userId, CLIENT_MODS.BADGE_VAULT, badges);
         }
     } catch (e) {
