@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "hero",
+            "badge": "https://cdn.discordapp.com/emojis/1054156823118229557.gif?size=48"
+        },
+        {
+            "name": "gengar",
+            "badge": "https://cdn.discordapp.com/emojis/1133826578162397215.webp?size=48"
+        },
+        {
+            "name": "world",
+            "badge": "https://cdn.discordapp.com/emojis/1109589390902177852.gif?size=48"
+        },
+        {
+            "name": "punch",
+            "badge": "https://cdn.discordapp.com/emojis/1078075661475917885.gif?size=128"
+        },
+        {
+            "name": "mars",
+            "badge": "https://cdn.discordapp.com/emojis/1107577690501939260.gif?size=128"
+        }
+    ]
+}
