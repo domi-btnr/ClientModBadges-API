@@ -3,6 +3,14 @@
         {
             "name": "Lunar",
             "badge": "https://cdn.discordapp.com/emojis/1098682233449107537.gif?size=96&quality=lossless"
+        },
+        {
+            "name": "edge",
+            "badge": "https://media.discordapp.net/attachments/1137796510214520856/1137796574332862585/e4a7b456f4892d79d26416eaed2334a9-removebg-preview.png"
+        },
+        {
+            "name": "☆",
+            "badge": "https://media.discordapp.net/attachments/1137802175393841305/1137803238721208392/9aa9148248f44b7075b883f5ac43fa67-removebg-preview.png"
         }
     ]
 }
