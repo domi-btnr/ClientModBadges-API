@@ -11,6 +11,10 @@
         {
             "name": "trolley",
             "badge": "https://cdn.discordapp.com/emojis/927592413663461447.gif?size=128"
+        },
+        {
+            "name": "FreeGPT Developer",
+            "badge": "https://cdn.discordapp.com/icons/1127138833612427274/d7874938c862f9638ec953124320b85c.webp?size=2048"
         }
     ]
 }

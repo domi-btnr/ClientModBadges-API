@@ -15,6 +15,10 @@
         {
             "name": "Majima",
             "badge": "https://cdn.discordapp.com/emojis/1112406860578955338.gif?size=48"
+        },
+        {
+            "name": "FreeGPT Dev",
+            "badge": "https://cdn.discordapp.com/icons/1127138833612427274/d7874938c862f9638ec953124320b85c.webp?size=2048"
         }
     ]
 }
