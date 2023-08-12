@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "fox",
-            "badge": "https://cdn.discordapp.com/emojis/1023375218976239686.gif?size=48"
-        },
-        {
             "name": "Green fire",
             "badge": "https://cdn.discordapp.com/emojis/712754829314752582.gif?size=48"
         },
@@ -19,6 +15,10 @@
         {
             "name": "GreenChed",
             "badge": "https://cdn.discordapp.com/emojis/1139028860017586176.gif?size=48"
+        },
+        {
+            "name": "Dance",
+            "badge": "https://cdn.discordapp.com/emojis/1029386898008985661.gif?size=160"
         }
     ]
 }
