@@ -1,5 +1,9 @@
 {
     "Vencord": [
-        "Contributor"
+        "Contributor",
+        {
+            "name": "quack",
+            "badge": "https://cdn.discordapp.com/emojis/949901424752484362.webp?size=256&quality=lossless"
+        }
     ]
 }
