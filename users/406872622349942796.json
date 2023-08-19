@@ -3,6 +3,18 @@
         {
             "name": "valorant",
             "badge": "https://cdn.discordapp.com/emojis/1113140160289325138.webp?size=128"
+        },
+        {
+            "name": "owo",
+            "badge": "https://cdn.discordapp.com/emojis/659642041978060800.webp?size=128"
+        },
+        {
+            "name": "villager",
+            "badge": "https://cdn.discordapp.com/emojis/963137960277065728.webp?size=128"
+        },
+        {
+            "name": "catsmile",
+            "badge": "https://cdn.discordapp.com/emojis/819313194417782784.gif?size=128"
         }
     ]
 }
