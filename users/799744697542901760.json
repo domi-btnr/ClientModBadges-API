@@ -3,6 +3,22 @@
         {
             "name": "Fox",
             "badge": "https://cdn.discordapp.com/emojis/1023375218976239686.gif?size=48"
+        },
+        {
+            "name": "Ram",
+            "badge": "https://cdn.discordapp.com/emojis/774400848804446208.gif?size=48"
+        },
+        {
+            "name": "Dance",
+            "badge": "https://cdn.discordapp.com/emojis/1134468084598579240.gif?size=48"
+        },
+        {
+            "name": "ZeroTwo",
+            "badge": "https://cdn.discordapp.com/emojis/928014185189748738.gif?size=48"
+        },
+        {
+            "name": "Desperate",
+            "badge": "https://cdn.discordapp.com/emojis/488852086528802816.gif?size=48"
         }
     ]
 }
