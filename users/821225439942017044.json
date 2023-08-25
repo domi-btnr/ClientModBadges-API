@@ -1,6 +1,10 @@
 {
     "BadgeVault": [
         {
+            "name": "car",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1144162102727155782/IMG_0021.png"
+        },
+        {
             "name": "ss",
             "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1144374427883159675/image.png"
         }
