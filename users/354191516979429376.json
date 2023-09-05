@@ -1,7 +1,4 @@
 {
-    "Aero": [
-        "Tester"
-    ],
     "BadgeVault": [
         {
             "name": "🍎",
@@ -10,11 +7,5 @@
     ],
     "Enmity": [
         "supporter"
-    ],
-    "Velocity": [
-        "Translator (dominglish)"
-    ],
-    "Vencord": [
-        "Contributor"
     ]
 }

@@ -1,12 +1,5 @@
 {
     "Aliucord": [
         "contributor"
-    ],
-    "Vencord": [
-        "Contributor",
-        {
-            "name": "java lover",
-            "badge": "https://cdn.discordapp.com/emojis/1045735735757647943.gif"
-        }
     ]
 }
