@@ -1,5 +1,40 @@
 {
     "Aliucord": [
         "dev"
+    ],
+    "Vencord": [
+        "Contributor",
+        {
+            "name": "v",
+            "badge": "https://cdn.discordapp.com/attachments/968854410451095602/1133202418860040222/vrainbow.gif"
+        },
+        {
+            "name": "e",
+            "badge": "https://cdn.discordapp.com/attachments/968854410451095602/1133202417849213028/erainbow.gif"
+        },
+        {
+            "name": "n",
+            "badge": "https://cdn.discordapp.com/attachments/968854410451095602/1133202419317227550/nrainbow.gif"
+        },
+        {
+            "name": "c",
+            "badge": "https://cdn.discordapp.com/attachments/968854410451095602/1133202417056481370/crainbow.gif"
+        },
+        {
+            "name": "o",
+            "badge": "https://cdn.discordapp.com/attachments/968854410451095602/1133202416611893319/orainbow.gif"
+        },
+        {
+            "name": "r",
+            "badge": "https://cdn.discordapp.com/attachments/968854410451095602/1133202418365120552/rrainbow.gif"
+        },
+        {
+            "name": "d",
+            "badge": "https://cdn.discordapp.com/attachments/968854410451095602/1133202416028893234/drainbow.gif"
+        },
+        {
+            "name": "read if cute",
+            "badge": "https://cdn.discordapp.com/emojis/1024751291504791654.gif?size=256"
+        }
     ]
 }

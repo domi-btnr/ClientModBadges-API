@@ -8,5 +8,11 @@
     ],
     "Enmity": [
         "supporter"
+    ],
+    "Vencord": [
+        {
+            "name": "The Big Cheese",
+            "badge": "https://media.discordapp.net/attachments/1086209251485155449/1086303206260351036/The_Big_Cheese.gif"
+        }
     ]
 }

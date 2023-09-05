@@ -1,5 +1,11 @@
 {
     "Aliucord": [
         "donor"
+    ],
+    "Vencord": [
+        {
+            "name": "Vendys Money Mule",
+            "badge": "https://cdn.discordapp.com/attachments/1043165773797003306/1043174833715941457/emoji_162.png"
+        }
     ]
 }

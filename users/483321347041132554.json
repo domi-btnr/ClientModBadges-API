@@ -1,5 +1,11 @@
 {
     "Enmity": [
         "supporter"
+    ],
+    "Vencord": [
+        {
+            "name": "Let's all love Lain!",
+            "badge": "https://cdn.discordapp.com/attachments/1100618996967014400/1100985050566246431/ezgif.com-crop.gif"
+        }
     ]
 }
