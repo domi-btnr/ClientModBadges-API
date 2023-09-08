@@ -11,6 +11,14 @@
         {
             "name": "Discord User",
             "badge": "https://cdn.discordapp.com/emojis/1149364791807328356.gif?size=160"
+        },
+        {
+            "name": "Gojo",
+            "badge": "https://cdn.discordapp.com/emojis/1139455732610256966.webp?size=160"
+        },
+        {
+            "name": "#1",
+            "badge": "https://cdn.discordapp.com/emojis/1141158338499985508.webp?size=160"
         }
     ]
 }
