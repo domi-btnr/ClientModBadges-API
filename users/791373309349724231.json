@@ -3,6 +3,14 @@
         {
             "name": "cool",
             "badge": "https://cdn.discordapp.com/emojis/1113140160289325138.webp?size=128"
+        },
+        {
+            "name": "crown badge",
+            "badge": "https://cdn.discordapp.com/emojis/1146809347486269470.gif?size=160"
+        },
+        {
+            "name": "discord cat girl",
+            "badge": "https://cdn.discordapp.com/emojis/1093803211783143504.gif?size=128"
         }
     ]
 }
