@@ -7,6 +7,10 @@
         {
             "name": "Germany",
             "badge": "https://cdn.discordapp.com/attachments/1116689510495952939/1149651720209702973/1200px-Flag_of_Germany.svg.webp"
+        },
+        {
+            "name": "Crown",
+            "badge": "https://cdn.discordapp.com/emojis/1146809347486269470.gif?size=160"
         }
     ]
 }
