@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "vietnam flag",
-            "badge": "https://tenor.com/view/vietnam-flag-gif-asia-gif-27417904"
-        },
-        {
             "name": "skibiditoilet",
             "badge": "https://cdn.discordapp.com/emojis/1149645474924597309.png?size=48&quality=lossless"
         },
@@ -15,10 +11,6 @@
         {
             "name": "second vietnam flag (fixed)",
             "badge": "https://media.discordapp.net/attachments/1139562493962883124/1149667229063979049/IMG_0261.jpg"
-        },
-        {
-            "name": "My best friend",
-            "badge": "https://media.discordapp.net/attachments/1139562493962883124/1149691582954614804/IMG_0265.png"
         }
     ]
 }
