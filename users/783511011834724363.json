@@ -2,15 +2,11 @@
     "BadgeVault": [
         {
             "name": "YouTube",
-            "badge": "https://media.discordapp.net/attachments/1139390724983496704/1151260022798561290/YouTube_social_red_square_2017.svg.png"
+            "badge": "https://media.discordapp.net/attachments/1139390724983496704/1151280570136006797/t_youtube-icon-1508.png"
         },
         {
             "name": "YouTube Music",
             "badge": "https://media.discordapp.net/attachments/1139390724983496704/1151261089770782820/YouTubeMusic_Logo.png"
-        },
-        {
-            "name": "Premium",
-            "badge": "https://media.discordapp.net/attachments/1139390724983496704/1151261881596649492/2560px-YouTube_Premium_logo.svg.png"
         },
         {
             "name": "Google",
