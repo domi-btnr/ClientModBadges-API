@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "sofaygo",
-            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1153969100746403911/IMG_0471.webp"
-        },
-        {
             "name": "beyond",
             "badge": "https://media.discordapp.net/attachments/1069822951685361696/1153969101199396905/IMG_0154.png"
         },
@@ -19,6 +15,10 @@
         {
             "name": "phase",
             "badge": "https://media.discordapp.net/attachments/1069822951685361696/1154117562901213184/IMG_0097.gif"
+        },
+        {
+            "name": "bender",
+            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1154178216089620490/IMG_0109.png"
         }
     ]
 }
