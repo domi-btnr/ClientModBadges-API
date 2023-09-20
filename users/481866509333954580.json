@@ -1,9 +1,5 @@
 {
     "Enmity": [
-        "supporter",
-        {
-            "name": "Partner",
-            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/481866509333954580.png"
-        }
+        "supporter"
     ]
 }
