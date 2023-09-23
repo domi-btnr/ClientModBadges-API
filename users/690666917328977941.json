@@ -13,12 +13,12 @@
             "badge": "https://cdn.discordapp.com/emojis/1128784166780158032.gif?size=160"
         },
         {
-            "name": "hi_expand",
-            "badge": "https://cdn.discordapp.com/emojis/1128784133288640603.gif?size=160"
-        },
-        {
             "name": "clown_hi",
             "badge": "https://cdn.discordapp.com/emojis/1129759287929995335.webp?size=160"
+        },
+        {
+            "name": "jesus-hi",
+            "badge": "https://cdn.discordapp.com/emojis/1135678863771455519.webp?size=160"
         }
     ]
 }
