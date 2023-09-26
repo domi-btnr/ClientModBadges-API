@@ -1,24 +1,16 @@
 {
     "BadgeVault": [
         {
-            "name": "sparta",
-            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1143553794672689163/7de93eb5e8194b3510e00b2f72e8b6fd-removebg-preview.png"
-        },
-        {
             "name": "georg",
             "badge": "https://media.discordapp.net/attachments/1069822951685361696/1143553795557703700/IMG_4271.jpg"
         },
         {
-            "name": "balastayystion",
-            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1143554297771077653/unnamed.jpg"
-        },
-        {
-            "name": "shadow advisor!!",
-            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1143627384503947285/Flag_ShadowCompany_MWII.png"
-        },
-        {
             "name": "well in that case",
             "badge": "https://media.discordapp.net/attachments/1069822951685361696/1143692264451866745/well_in_that_case.png"
+        },
+        {
+            "name": "bodark",
+            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1156035238905004145/dLj7xADn.png?ex=65138137&is=65122fb7&hm=d2f3bfe1ed33dbb41ba27893a33b1f39c3bd9bdcbdd5e5db19a29acf8931ae44&"
         }
     ]
 }
