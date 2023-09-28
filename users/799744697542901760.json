@@ -1,24 +1,16 @@
 {
     "BadgeVault": [
         {
-            "name": "Fox",
-            "badge": "https://cdn.discordapp.com/emojis/1023375218976239686.gif?size=48"
+            "name": "Leafeon with Money",
+            "badge": "https://cdn.discordapp.com/emojis/1101940534907502643.gif?size=128"
         },
         {
-            "name": "Ram",
-            "badge": "https://cdn.discordapp.com/emojis/774400848804446208.gif?size=48"
+            "name": "Leafeon giving a flower",
+            "badge": "https://cdn.discordapp.com/emojis/1101940353155743835.webp?size=128"
         },
         {
-            "name": "Dance",
-            "badge": "https://cdn.discordapp.com/emojis/1134468084598579240.gif?size=48"
-        },
-        {
-            "name": "ZeroTwo",
-            "badge": "https://cdn.discordapp.com/emojis/928014185189748738.gif?size=48"
-        },
-        {
-            "name": "Desperate",
-            "badge": "https://cdn.discordapp.com/emojis/488852086528802816.gif?size=48"
+            "name": "Leafeon laughing",
+            "badge": "https://cdn.discordapp.com/emojis/1101940468780109834.gif?size=128"
         }
     ]
 }
