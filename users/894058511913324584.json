@@ -1,6 +1,10 @@
 {
     "BadgeVault": [
         {
+            "name": "Triforce",
+            "badge": "https://media.discordapp.net/attachments/1001954254052933684/1158463009652482088/cachedImage.png?ex=651c5640&is=651b04c0&hm=55dff50c263f61c53f9f4026b1fe80f4267e868f099f6924099aad55fa1b33a1&"
+        },
+        {
             "name": "Duolingo Slap",
             "badge": "https://media.discordapp.net/attachments/1001954254052933684/1158464364286840832/image0.jpg?ex=651c5783&is=651b0603&hm=03d2f4d78d57f78ce4eda00cafb76af029d46945b98cb5815b587adc01974f43&"
         }
