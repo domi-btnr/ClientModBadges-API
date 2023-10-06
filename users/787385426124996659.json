@@ -11,6 +11,10 @@
         {
             "name": "JavaScript developer",
             "badge": "https://cdn.discordapp.com/attachments/884752099160780830/1159208559192576140/Javascript_Logo.png?ex=65303019&is=651dbb19&hm=109ac371079bc309586861c28bac29c5083b731bbde86286a6cb158804cdf835&"
+        },
+        {
+            "name": "Supports Linux",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1159827327715393546/1200px-Icons8_flat_linux.svg.png?ex=6532705f&is=651ffb5f&hm=e8a6cca413bda674bc1cafe1d8e9a3fd86ff3e3f8c155bbb728005b28614db02&"
         }
     ]
 }
