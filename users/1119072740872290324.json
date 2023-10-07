@@ -1,16 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "kriipton",
-            "badge": "https://media.discordapp.net/attachments/1059986356396376185/1140107139231268975/Icon_Genre_Nintendoq.png?width=200&height=200"
-        },
-        {
             "name": "cute",
             "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1159649184912253068/5259-sakuyacalling.png?ex=6531ca76&is=651f5576&hm=00a415cc0ba8df225e3ee542eef21012ee17e7cac1ff897e7a609f10d3dc9a81&"
-        },
-        {
-            "name": "comida",
-            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1159601033253752933/image0.jpg?ex=65319d9e&is=651f289e&hm=26bcef3328d462d7a72e994faaadbde5f756673ca8a99d288a032f4eb8eafabf&"
         }
     ]
 }
