@@ -7,6 +7,18 @@
         {
             "name": "killua",
             "badge": "https://cdn.discordapp.com/attachments/1087619799510696017/1160289661428699166/animated-anime.gif?ex=65341ef4&is=6521a9f4&hm=e44cc809e2e5fc75c0e762b535881cd491e69be6554e1e1a5a7b581e8763c9dd&"
+        },
+        {
+            "name": "donut",
+            "badge": "https://cdn.discordapp.com/attachments/1138701729504972921/1160304885057736815/CHrqeXpk.gif?ex=65342d22&is=6521b822&hm=3d8ca3141befeebeea899e104761e56f7a339f1963030fb50646a5f10e119698&"
+        },
+        {
+            "name": "lifeline",
+            "badge": "https://cdn.discordapp.com/emojis/1018751498680795227.webp?size=48"
+        },
+        {
+            "name": "hearts",
+            "badge": "https://cdn.discordapp.com/emojis/1086523212805984338.gif?size=48"
         }
     ]
 }
