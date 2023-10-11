@@ -15,18 +15,31 @@ app.get("/users/:userId", async (req, res) => {
     if (!userId) return res.status(400).json({ error: "No user id provided" });
 
     let _data = {};
-    if (cache.has(userId) && cache.get(userId).expires > Date.now() && cache.get(userId).badges.length) _data.Replugged = cache.get(userId).badges;
+    if (cache.has(userId) && cache.get(userId).expires > Date.now() && cache.get(userId).badges.length) _data = cache.get(userId).badges;
     else {
         try {
-            const resp = await axios.get(`https://replugged.dev/api/v1/users/${userId}`, { headers: { "Cache-Control": "no-cache" } });
+            const resp = await axios.get(`https://replugged.dev/api/v1/users/${userId}`, { headers: { "Cache-Control": "no-cache" }, timeout: 5000 });
             if (resp.status != 200 || !resp.data?.badges) return;
             const body = resp.data.badges;
-            const badges = Object.keys(body).filter(key => body[key] === true);
-            if (badges.length) _data.Replugged = badges;
-            cache.set(userId, { badges, expires: Date.now() + EXPIRES });
+            _data.Replugged = Object.keys(body).filter(key => body[key] === true);
         } catch (error) {
-            console.error(`[ERROR] ${error.message}`);
+            console.error(`[ERROR | Replugged] ${error.message}`);
         }
+
+        try {
+            const resp = await axios.get(`https://badgedb.katze.click/api/badge/user?id=${userId}`, { headers: { "Cache-Control": "no-cache" }, timeout: 5000 });
+            if (resp.status != 200 || !resp.data?.success) return;
+            _data.BadgeDB = Array.isArray(resp.data) ? resp.data.map(badge => {
+                return {
+                    name: badge?.description,
+                    badge: badge.image
+                };
+            }) : [{ name: resp.data?.description, badge: resp.data.image }];
+        } catch (error) {
+            console.error(`[ERROR | BadgeDB] ${error.message}`);
+        }
+
+        if (Object.keys(_data).length) cache.set(userId, { badges: _data, expires: Date.now() + EXPIRES });
     }
 
     const filePath = path.join(__dirname, "users", `${userId}.json`);
