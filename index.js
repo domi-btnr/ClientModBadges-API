@@ -26,18 +26,18 @@ app.get("/users/:userId", async (req, res) => {
             console.error(`[ERROR | Replugged] ${error.message}`);
         }
 
-        try {
-            const resp = await axios.get(`https://badgedb.katze.click/api/badge/user?id=${userId}`, { headers: { "Cache-Control": "no-cache" }, timeout: 5000 });
-            if (resp.status != 200 || !resp.data?.success) return;
-            _data.BadgeDB = Array.isArray(resp.data) ? resp.data.map(badge => {
-                return {
-                    name: badge?.description,
-                    badge: badge.image
-                };
-            }) : [{ name: resp.data?.description, badge: resp.data.image }];
-        } catch (error) {
-            console.error(`[ERROR | BadgeDB] ${error.message}`);
-        }
+        // try {
+        //     const resp = await axios.get(`https://badgedb.katze.click/api/badge/user?id=${userId}`, { headers: { "Cache-Control": "no-cache" }, timeout: 5000 });
+        //     if (resp.status != 200 || !resp.data?.success) return;
+        //     _data.BadgeDB = Array.isArray(resp.data) ? resp.data.map(badge => {
+        //         return {
+        //             name: badge?.description,
+        //             badge: badge.image
+        //         };
+        //     }) : [{ name: resp.data?.description, badge: resp.data.image }];
+        // } catch (error) {
+        //     console.error(`[ERROR | BadgeDB] ${error.message}`);
+        // }
 
         if (Object.keys(_data).length) cache.set(userId, { badges: _data, expires: Date.now() + EXPIRES });
     }
