@@ -1,16 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "shork",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1156243690977767525/tenor.gif?ex=65144359&is=6512f1d9&hm=594e4a6e3518be062ddee5a54ae28294cb5407b7463121b42dd17c96b27fc02f&"
-        },
-        {
             "name": "nether star",
             "badge": "https://media.discordapp.net/attachments/1020235313848795176/1164144664027332618/Nether_Star.gif?ex=65422534&is=652fb034&hm=fa98f502cc3b46b14e89876f8061d9561b9abe5c245155009b15308ff949d3c2&"
-        },
-        {
-            "name": "o",
-            "badge": "https://media.discordapp.net/attachments/1069822951685361696/1162747016472973393/STK-20230721-WA0007.webp?ex=653d0f8b&is=652a9a8b&hm=48a1246cc94d30e3654bfba167c09fc02eabe169f4d0c74addc5adfe98fe4fcf&"
         }
     ]
 }
