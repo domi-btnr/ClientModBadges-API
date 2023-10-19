@@ -3,6 +3,22 @@
         {
             "name": "diamonds",
             "badge": "https://cdn.discordapp.com/emojis/1003597632364630058.gif?size=128"
+        },
+        {
+            "name": "axe",
+            "badge": "https://cdn.discordapp.com/emojis/1056855714913587230.webp?size=128"
+        },
+        {
+            "name": "portal",
+            "badge": "https://cdn.discordapp.com/emojis/725184666109214751.webp?size=48&name=nether_portal&quality=lossless"
+        },
+        {
+            "name": "netherite",
+            "badge": "https://cdn.discordapp.com/emojis/1141980771188486144.webp?size=48&name=Netherite&quality=lossless"
+        },
+        {
+            "name": "sword",
+            "badge": "https://cdn.discordapp.com/emojis/815095148438487081.webp?size=48&name=NetheriteSword&quality=lossless"
         }
     ]
 }
