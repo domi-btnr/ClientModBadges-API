@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Plus",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1153228193159983205/kisspng-playstation-4-playstation-3-playstation-plus-plays-plus-5abccd3314ebf7.9950859915223227390857.png"
+        },
+        {
+            "name": "aura",
+            "badge": "https://cdn.discordapp.com/emojis/806585495684775956.gif?size=48"
+        },
+        {
+            "name": "paimon",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1153238292846874655/116257.512.webp"
+        },
+        {
+            "name": "aqua",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1153238366301736960/1119145.512.webp"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Visual Studio 2022",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116117242195759114/Visual_Studio_Icon_2022.svg.png"
+        },
+        {
+            "name": "Visual Studio Code",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116117582299271198/Visual_Studio_Code_1.35_icon.svg.png"
+        },
+        {
+            "name": "NVIDIA User",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1116441914401619978/Nvidia_logo.svg.png"
+        },
+        {
+            "name": "IntelliJ Idea",
+            "badge": "https://media.discordapp.net/attachments/1116117210738466896/1148633978119655626/ocelMJ3L.png"
+        },
+        {
+            "name": "Unowhy Tools",
+            "badge": "https://cdn.discordapp.com/attachments/1116117210738466896/1154527461476925520/p65McjLm.png"
+        }
+    ]
+}

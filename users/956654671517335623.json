@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "cool",
+            "badge": "https://cdn.discordapp.com/emojis/1047833873779785759.webp?size=128"
+        },
+        {
+            "name": "heart",
+            "badge": "https://cdn.discordapp.com/emojis/846034386897076234.webp?size=48"
+        },
+        {
+            "name": "dog",
+            "badge": "https://cdn.discordapp.com/emojis/1048254869628272740.webp?size=48"
+        }
+    ]
+}

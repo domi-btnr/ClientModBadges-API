@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "OwO",
+            "badge": "https://cdn.discordapp.com/emojis/624670970606518296.gif?size=96"
+        },
+        {
+            "name": "Vibing",
+            "badge": "https://cdn.discordapp.com/emojis/744672161825816687.gif?size=96"
+        },
+        {
+            "name": "PAT",
+            "badge": "https://cdn.discordapp.com/emojis/859800018482626571.gif?size=96"
+        },
+        {
+            "name": "Smile",
+            "badge": "https://cdn.discordapp.com/emojis/635612409515737098.gif?size=96"
+        }
+    ]
+}
