@@ -1,6 +1,10 @@
 {
     "BadgeVault": [
         {
+            "name": "?",
+            "badge": "https://media.discordapp.net/attachments/963916834946580562/1167296715683020910/B884BG37oRXAAAAAElFTkSuQmCC.png?ex=654d9cc8&is=653b27c8&hm=cc5de60c7495aef3344eda25d4adf9f69dc0b20d0c96c6433d3aee29428cac37&"
+        },
+        {
             "name": "Communist-Russia",
             "badge": "https://cdn.discordapp.com/emojis/1141663159736877097.webp?size=96"
         }
