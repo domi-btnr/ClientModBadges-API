@@ -7,6 +7,26 @@
         {
             "name": "Lua",
             "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1171573845040320522/11238831.png?ex=655d2c2b&is=654ab72b&hm=79b111650ad408bacdaff315adbb6f4677790ce8e456e3599b96e9088dbd0a1b&"
+        },
+        {
+            "name": "Hop to Vencord!",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1171574161848680458/icon.png?ex=655d2c76&is=654ab776&hm=ccb0846d4ac0119f90d82de0d32868a2aa1bd7601d550858dc3de00a93d344d3&"
+        },
+        {
+            "name": "Roblox Studio maker",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1171574996347392116/Studio.png?ex=655d2d3d&is=654ab83d&hm=fabb0fae2f4741492b61e0c7c33d164b8c90efd7136cdbf956a9f0feac3e88f5&"
+        },
+        {
+            "name": "On energy saving mode",
+            "badge": "https://cdn.discordapp.com/emojis/1169349588126285864.gif?size=128&quality=lossless"
+        },
+        {
+            "name": "Gopher's creator (brother)",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1171576970992177202/Gophe.png?ex=655d2f14&is=654aba14&hm=d19d170ab4a89b2b2b0b5befd97dd7707a2a7f589884448de7b6c60e7318b3e0&"
+        },
+        {
+            "name": "Error",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1171576302369779753/ee5ad449258f07011f1dddfb07d597e6.png?ex=655d2e75&is=654ab975&hm=39ed4b4bc06b7695c8656e2f6a8bc82227d1f89e784e540c971776c5b15751ee&"
         }
     ]
 }
