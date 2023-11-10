@@ -1,0 +1,32 @@
+{
+    "BadgeVault": [
+        {
+            "name": "minecraf",
+            "badge": "https://cdn.discordapp.com/attachments/1145130389116035133/1172537648645160980/QO6aPEH1.gif?ex=6560adc8&is=654e38c8&hm=c5baa30bbeb856c4a764dc43e6781c0d28d5ba2d5c9c76673cc540f13c532570&"
+        },
+        {
+            "name": "kittyroll",
+            "badge": "https://cdn.discordapp.com/attachments/1145130389116035133/1172537960424550470/YPQHsT4x.gif?ex=6560ae12&is=654e3912&hm=47fa711c9c82c6dd9d64c24c1073035a46e25986a2de8ad0e7feffd9a0176fa9&"
+        },
+        {
+            "name": "copypastekitty",
+            "badge": "https://cdn.discordapp.com/attachments/1145130389116035133/1172538122748309644/TQIXRkdJ.png?ex=6560ae39&is=654e3939&hm=54da3ec1c2579f904b7187a10eb3f47aaab2c383feff5190d24ca0d0192a5c00&"
+        },
+        {
+            "name": "peekleft",
+            "badge": "https://cdn.discordapp.com/attachments/1145130389116035133/1172538382820327494/6eIMDSIo.png?ex=6560ae77&is=654e3977&hm=aefa69ba7d0c5d6934ec08aa737b34719cdcb73d56f4b3d2508b0da5ea7687fe&"
+        },
+        {
+            "name": "peekright",
+            "badge": "https://cdn.discordapp.com/attachments/1145130389116035133/1172538423718973560/FAG2En3b.png?ex=6560ae80&is=654e3980&hm=e160ecf0b6e74f3e4083ee50b8c14ed855536f49fe8ccc7b3bc727260052a4e3&"
+        },
+        {
+            "name": "loaf",
+            "badge": "https://cdn.discordapp.com/attachments/1145130389116035133/1172539227523797052/klhiaLxf.png?ex=6560af40&is=654e3a40&hm=637a4e42298748e996a1269ed00149168937845e7675e207be2ed0ff81874a2e&"
+        },
+        {
+            "name": "sparkly",
+            "badge": "https://cdn.discordapp.com/attachments/1145130389116035133/1172539227058208789/8pWBq43j.gif?ex=6560af40&is=654e3a40&hm=23f6aa57254449f50ad85936686b93edf2f954ad5196ddcb7068bb081ff3aadb&"
+        }
+    ]
+}
