@@ -11,6 +11,10 @@
         {
             "name": "no",
             "badge": "https://cdn.discordapp.com/emojis/1171366922244345906.gif?size=128"
+        },
+        {
+            "name": "star",
+            "badge": "https://cdn.discordapp.com/emojis/1171366673517916183.webp?size=128"
         }
     ]
 }
