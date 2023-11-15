@@ -1,24 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "Legendary  Mongoose!",
-            "badge": "https://cdn.discordapp.com/attachments/1168967846269829121/1171573316759339079/2.png?ex=655d2bad&is=654ab6ad&hm=20f0a90730b596d789c6e4606af258090dc75a65779c3d0808dfc6635bf3b80e&"
-        },
-        {
-            "name": "Hop to Vencord!",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1171574161848680458/icon.png?ex=655d2c76&is=654ab776&hm=ccb0846d4ac0119f90d82de0d32868a2aa1bd7601d550858dc3de00a93d344d3&"
-        },
-        {
-            "name": "Roblox Studio maker",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1171574996347392116/Studio.png?ex=655d2d3d&is=654ab83d&hm=fabb0fae2f4741492b61e0c7c33d164b8c90efd7136cdbf956a9f0feac3e88f5&"
-        },
-        {
             "name": "Asriel/Ralsei fan",
             "badge": "https://cdn.discordapp.com/emojis/906243567775801424.webp?size=128&quality=lossless"
-        },
-        {
-            "name": "Bravery",
-            "badge": "https://cdn.discordapp.com/emojis/443261456608395264.gif?size=128&quality=lossless"
         }
     ]
 }
