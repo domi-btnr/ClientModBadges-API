@@ -11,6 +11,14 @@
         {
             "name": "alt me 2",
             "badge": "https://cdn.discordapp.com/attachments/1150185824747532484/1178302891287662602/1000016400-removebg-preview2.png?ex=6575a715&is=65633215&hm=52bf6a466c6580774f20f055eec98550563fa55848d01c33711b0478926588f1&"
+        },
+        {
+            "name": "ps4",
+            "badge": "https://cdn.discordapp.com/attachments/1150185824747532484/1178657517010694154/1000016813-removebg-preview.png?ex=6576f15a&is=65647c5a&hm=0e181f5f12b8a40187fc737509915e77c1bdccf1c9349a681df61211a537f930&"
+        },
+        {
+            "name": "ns",
+            "badge": "https://cdn.discordapp.com/attachments/1150185824747532484/1178657517262348368/1000016812-removebg-preview.png?ex=6576f15a&is=65647c5a&hm=b0783dd75abf3fcbef8065a74bdafde595bf566c1348726dadd59f022e050269&"
         }
     ]
 }
