@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "porb",
-            "badge": "https://cdn.discordapp.com/emojis/1115353238594658375.webp?size=160"
-        },
-        {
             "name": "cat",
             "badge": "https://cdn.discordapp.com/emojis/767629155394650122.webp?size=160"
         },
@@ -19,6 +15,10 @@
         {
             "name": "pan",
             "badge": "https://media.discordapp.net/attachments/862401966504280114/1175935904339210351/761f25323f353d8527547671c4fef1c8__01.jpg?ex=656d0aa7&is=655a95a7&hm=827da7831caab8e056d96a39c07fd057b99bc8ce4caa6faf15c56a20adad70d5&"
+        },
+        {
+            "name": "wawa",
+            "badge": "https://cdn.discordapp.com/emojis/1110593661013598330.webp?size=64"
         }
     ]
 }
