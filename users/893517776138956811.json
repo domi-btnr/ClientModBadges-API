@@ -11,6 +11,14 @@
         {
             "name": "wawa",
             "badge": "https://cdn.discordapp.com/emojis/1110593661013598330.webp?size=64"
+        },
+        {
+            "name": "pika",
+            "badge": "https://cdn.discordapp.com/emojis/1046988772308426762.webp?size=128"
+        },
+        {
+            "name": "shiggy",
+            "badge": "https://cdn.discordapp.com/emojis/1023375218976239686.gif?size=128"
         }
     ]
 }
