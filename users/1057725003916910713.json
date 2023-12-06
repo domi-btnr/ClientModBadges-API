@@ -3,6 +3,14 @@
         {
             "name": "dev",
             "badge": "https://media.discordapp.net/attachments/1069822951685361696/1171673829119098890/IMG_20231030_222823_937.jpg?ex=65827349&is=656ffe49&hm=1394dff7973c7a57a9f2b81055c3900d70b11ec15d2d845e5dd12efb41cdd98c&"
+        },
+        {
+            "name": "rgh",
+            "badge": "https://media.discordapp.net/attachments/1176130952548864080/1181925011695616013/Yeee.png?ex=6582d471&is=65705f71&hm=5002223c0a0a1ad5950136a1f11b006fa03baed80127c3044cee58e4959eb789&"
+        },
+        {
+            "name": "meme",
+            "badge": "https://media.discordapp.net/attachments/1176130952548864080/1181925896454688868/trolled.png?ex=6582d544&is=65706044&hm=91697e2eb19efc635a8f73608b83c5e52ea6e7607bd8fbe37e1ccc25281c20f3&"
         }
     ]
 }
