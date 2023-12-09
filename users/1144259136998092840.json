@@ -3,6 +3,18 @@
         {
             "name": "crosshair badge",
             "badge": "https://media.discordapp.net/attachments/1069822951685361696/1182666487769608272/skull_1f480.png?ex=658586ff&is=657311ff&hm=53179407523d810768ec8ab46d1652386f365b3c64f509d707cffee4d3978b29&"
+        },
+        {
+            "name": "star icon",
+            "badge": "https://media.discordapp.net/attachments/1153025790020178074/1182520392380846171/4892-staricon.png"
+        },
+        {
+            "name": "Gigawhite",
+            "badge": "https://media.discordapp.net/attachments/1182666629650337852/1182725734750498876/attachment.png?ex=6585be2d&is=6573492d&hm=9942aab6e376b5b0f28469085b85a8ac5633ca0481cba3384a9ea5ffdcce3277&"
+        },
+        {
+            "name": "penguin",
+            "badge": "https://media.discordapp.net/attachments/1182666629650337852/1182727011542782012/1153076910830657648.gif?ex=6585bf5d&is=65734a5d&hm=74728f55b6a5f95d0fef14fcd33cff3437dbfded91d1a3a4af8fb6c2dcdadf38&"
         }
     ]
 }
