@@ -1,14 +1,4 @@
 {
-    "BadgeVault": [
-        {
-            "name": "Crown",
-            "badge": "https://cdn.discordapp.com/attachments/1129785816579833856/1162091228335181875/ezgif-5-18df7faea9.png?ex=653aaccb&is=652837cb&hm=e918a69e050f6209c953a747e8aa17608633b620cf4ef0d58e7ae05b5b4526c9&"
-        },
-        {
-            "name": "Mushroom",
-            "badge": "https://cdn.discordapp.com/attachments/1129785816579833856/1163094188347359332/MushroomMarioKart8.png?ex=653e52df&is=652bdddf&hm=a48c10300a807a5670401c30b8d1b0915ba3f196f9e75fa7c1d186a67b7ddc12&"
-        }
-    ],
     "Vencord": [
         {
             "name": "Developer",
