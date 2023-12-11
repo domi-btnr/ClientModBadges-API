@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "trolley",
+            "badge": "https://cdn.discordapp.com/emojis/927592413663461447.gif"
+        },
+        {
+            "name": "Kanna Sip",
+            "badge": "https://cdn.discordapp.com/emojis/919759999591391332.gif?size=160"
+        },
+        {
+            "name": "Majima",
+            "badge": "https://cdn.discordapp.com/emojis/1112406860578955338.gif?size=48"
+        },
+        {
+            "name": "FreeGPT Dev",
+            "badge": "https://cdn.discordapp.com/icons/1127138833612427274/d7874938c862f9638ec953124320b85c.webp?size=2048"
+        }
+    ]
+}

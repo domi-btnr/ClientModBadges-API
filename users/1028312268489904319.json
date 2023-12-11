@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "mew",
+            "badge": "https://cdn.discordapp.com/attachments/1146896477919125654/1150101687319658557/IMG_5281.png"
+        },
+        {
+            "name": "vencord",
+            "badge": "https://cdn.discordapp.com/emojis/1093803211783143504.gif?size=128"
+        },
+        {
+            "name": "discord",
+            "badge": "https://cdn.discordapp.com/emojis/1134490205420797954.gif?size=128"
+        },
+        {
+            "name": "gojo",
+            "badge": "https://cdn.discordapp.com/emojis/1139455732610256966.webp?size=160"
+        }
+    ]
+}

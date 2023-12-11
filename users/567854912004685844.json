@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "sleepy dev",
+            "badge": "https://cdn.discordapp.com/emojis/1085109204576112662.webp?size=128"
+        },
+        {
+            "name": "works on my machine",
+            "badge": "https://cdn.discordapp.com/emojis/1085108949239484447.webp?size=128"
+        },
+        {
+            "name": "proud pycharm user",
+            "badge": "https://cdn.discordapp.com/emojis/434002952336834560.webp?size=128"
+        }
+    ]
+}

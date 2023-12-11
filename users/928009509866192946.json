@@ -1,0 +1,12 @@
+{
+    "BadgeVault": [
+        {
+            "name": "globe",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1162758822784421988/WorldIcon.png?ex=653d1a8a&is=652aa58a&hm=373101d8d06fbb098fd7dd5bbacbaf1e04b25ee56c71d2ff5c2641b734505691&"
+        },
+        {
+            "name": "vscode",
+            "badge": "https://cdn.discordapp.com/attachments/1160370013820174349/1162456262080991302/sU3AYBds.png?ex=653c00c2&is=65298bc2&hm=aaa7d7941466a70564d9c31b4d784ffb868318226acc0231ef1c71e711fece08&"
+        }
+    ]
+}

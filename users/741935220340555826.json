@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Crowned",
+            "badge": "https://cdn.discordapp.com/emojis/1146809347486269470.gif?size=160"
+        },
+        {
+            "name": "Loved",
+            "badge": "https://cdn.discordapp.com/emojis/982149122163359744.webp?size=160"
+        },
+        {
+            "name": "Discord User",
+            "badge": "https://cdn.discordapp.com/emojis/1149364791807328356.gif?size=160"
+        },
+        {
+            "name": "Gojo",
+            "badge": "https://cdn.discordapp.com/emojis/1139455732610256966.webp?size=160"
+        },
+        {
+            "name": "#1",
+            "badge": "https://cdn.discordapp.com/emojis/1141158338499985508.webp?size=160"
+        }
+    ]
+}

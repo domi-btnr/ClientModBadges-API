@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "pet",
+            "badge": "https://images.unsplash.com/photo-1701307911262-28a725224c61?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "music",
+            "badge": "https://images.unsplash.com/photo-1701308178935-4e76cb5f4577?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "coding",
+            "badge": "https://images.unsplash.com/photo-1701308309218-32ea8a49beb7?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ]
+}
