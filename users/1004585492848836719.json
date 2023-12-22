@@ -7,6 +7,10 @@
         {
             "name": "Arsenal",
             "badge": "https://cdn.discordapp.com/attachments/1004742011913519165/1187135816187785277/1200px-Arsenal_FC.svg-1.png?ex=6595c962&is=65835462&hm=3361e03b1c1c41890c008f51feab956cc96fe16499fa76f7d96ade4fe918b748&"
+        },
+        {
+            "name": "UCL",
+            "badge": "https://cdn.discordapp.com/attachments/1006224909044817930/1187556987790180402/5842fe18a6515b1e0ad75b3d.png?ex=659751a1&is=6584dca1&hm=1d7d247ed79ef571c4270c2f080d790854eb6e86c8dd34be4e4d2fbfec765280&"
         }
     ]
 }
