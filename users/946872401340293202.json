@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "gthblg",
-            "badge": "https://media.discordapp.net/attachments/1110287562209230994/1186619744913207326/github-logo.png?ex=6593e8c1&is=658173c1&hm=8a8f78227cc487efc66a9a9c055e49874f5b846d2303b979ab4408d845560d1d&=&format=webp&quality=lossless"
-        },
-        {
             "name": "usd27logr",
             "badge": "https://cdn.discordapp.com/attachments/1110287562209230994/1186621662674812948/usd-coin-usdc-logo.png?ex=6593ea8a&is=6581758a&hm=1f90d6c859b0c45fdde126cb8dfc066de3c2dffd75b1221ca6064168188a6c3b&"
         },
