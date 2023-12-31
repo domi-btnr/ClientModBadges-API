@@ -1,5 +1,27 @@
 {
     "Aliucord": [
         "contributor"
+    ],
+    "BadgeVault": [
+        {
+            "name": "Not Prideful Enough",
+            "badge": "https://cdn.discordapp.com/emojis/839635015633076224.gif?size=96&quality=lossless"
+        },
+        {
+            "name": "FUnky",
+            "badge": "https://cdn.discordapp.com/attachments/1063184323467034676/1102029729227362344/donkey-kong-mario-kart-wii-super-mario-bros-super-smash-bros-for-nintendo-3ds-and-wii-u-png-favpng-TCaT1bjJg3rBAifYNQQcHnJjw_t.jpg"
+        },
+        {
+            "name": "Love",
+            "badge": "https://i.imgur.com/2SRQRHD.gif"
+        },
+        {
+            "name": "Obama The Creator",
+            "badge": "https://cdn.discordapp.com/emojis/718653309023682700.gif?size=96&quality=lossless"
+        },
+        {
+            "name": "Trollina",
+            "badge": "https://cdn.discordapp.com/emojis/1070789328260837488.webp"
+        }
     ]
 }

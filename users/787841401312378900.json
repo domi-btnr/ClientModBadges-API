@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "blackhole",
+            "badge": "https://media.discordapp.net/attachments/978845635593764914/1157185716476977172/image0.jpg?ex=6517b0ae&is=65165f2e&hm=1138c34b51722c50a1eb572df4056ccc86c82a6f54fe625ff38df372550c4033&"
+        },
+        {
+            "name": "calcifer",
+            "badge": "https://media.discordapp.net/attachments/978845635593764914/1157423965124448307/de286fcfa956a9e89cfbdd5e7464c57d.gif?ex=65188e91&is=65173d11&hm=5cf2fcfb99f71a97eeb2c5c0f72726c0d43f7fdb2a3eb7be3a7db2104478447d&"
+        },
+        {
+            "name": "mask",
+            "badge": "https://media.discordapp.net/attachments/978845635593764914/1157421948880568380/57521e44486b536872c9416c465e9079.gif?ex=651a86f0&is=65193570&hm=df9f50ac366591eb0c064a3d33f8ca20ce41187bdd411991555b3cbfcde90c95&"
+        },
+        {
+            "name": "clouds",
+            "badge": "https://media.discordapp.net/attachments/978845635593764914/1157325076409106493/4fd8192829b0412e9e3b3723f660813e.jpg?ex=651a2cb8&is=6518db38&hm=0235cfd4b2092e441249bb846358318bb991037ff9238cfc4eea52824a7a66d5&"
+        },
+        {
+            "name": "Hand",
+            "badge": "https://media.discordapp.net/attachments/978845635593764914/1158053599025307791/57665ff542edda2108b2fc8be843382e.gif?ex=651ad8f5&is=65198775&hm=f0c84b4c5e6b568ab46eead703cf88511b0ed43aab65cf61f46fc535642c5881&"
+        }
+    ]
+}
