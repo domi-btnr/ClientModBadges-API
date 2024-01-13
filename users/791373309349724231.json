@@ -11,6 +11,10 @@
         {
             "name": "discord badge",
             "badge": "https://cdn.discordapp.com/emojis/1134490205420797954.gif?size=128"
+        },
+        {
+            "name": "universal",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1191313004197859388/source.gif?ex=65ae3631&is=659bc131&hm=6a460358d665e29b29e9c1b452a5753427cff75bd4d1eba4b52eeaf03cbe5e0a&"
         }
     ]
 }
