@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "parrot",
+            "badge": "https://media.discordapp.net/attachments/736889480509915188/1192572577609175071/HtMdovYZ.gif?ex=65a990c3&is=65971bc3&hm=46671d4a488abb0b21643939c8bc1009344fcf128f3e9d9a9679a81ace3bef6f&"
+        },
+        {
+            "name": "skull",
+            "badge": "https://cdn.discordapp.com/emojis/1130994452735983687.png"
+        },
+        {
+            "name": "catvibe",
+            "badge": "https://media.discordapp.net/attachments/1033749588940689459/1193104109725818920/4x.gif?ex=65ab7fca&is=65990aca&hm=d4b7a6b43d6e1fe985fafffe85a1e64c06ed23cb7527e67d970459fa15477d02&"
+        },
+        {
+            "name": "idk",
+            "badge": "https://media.discordapp.net/attachments/1085950953942945903/1191823810383589416/LqtLaQa.png?ex=65a6d76b&is=6594626b&hm=d66f527cdb3ba094df07baabba36781f1dfc5e8296b66ea2c86d352b56ad7f55&"
+        }
+    ]
+}

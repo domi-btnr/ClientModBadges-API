@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Pyro",
+            "badge": "https://cdn.discordapp.com/emojis/725178213944262716.webp?size=128"
+        },
+        {
+            "name": "Ghost",
+            "badge": "https://cdn.discordapp.com/emojis/1183892389216145478.webp?size=128"
+        },
+        {
+            "name": "Mora",
+            "badge": "https://cdn.discordapp.com/emojis/772774919607025665.webp?size=128"
+        },
+        {
+            "name": "Fate",
+            "badge": "https://cdn.discordapp.com/emojis/765130388032192552.webp?size=128"
+        },
+        {
+            "name": "PrimoGem",
+            "badge": "https://cdn.discordapp.com/emojis/765129529802752040.webp?size=128"
+        }
+    ]
+}

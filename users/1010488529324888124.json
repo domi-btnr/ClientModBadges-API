@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "cat",
+            "badge": "https://cdn.discordapp.com/attachments/1012109956591386684/1153049579940483102/IMG_1088.jpg"
+        },
+        {
+            "name": "iphone",
+            "badge": "https://cdn.discordapp.com/attachments/1012109956591386684/1153050481636155412/IMG_0795.jpeg"
+        },
+        {
+            "name": "cat 2",
+            "badge": "https://cdn.discordapp.com/attachments/1012109956591386684/1153050747697631283/IMG_1079.jpeg"
+        },
+        {
+            "name": "idk",
+            "badge": "https://cdn.discordapp.com/attachments/1012109956591386684/1153051155543359548/IMG_2198.jpeg"
+        },
+        {
+            "name": "car",
+            "badge": "https://cdn.discordapp.com/attachments/1012109956591386684/1153205917412765746/IMG_1693.jpeg"
+        }
+    ]
+}

@@ -1,4 +1,14 @@
 {
+    "BadgeVault": [
+        {
+            "name": "CAP",
+            "badge": "https://cdn.discordapp.com/attachments/1133782260580094013/1136443136311296093/lkPBaQU.png"
+        },
+        {
+            "name": "Beikard",
+            "badge": "https://cdn.discordapp.com/attachments/896112088760606731/1137843039285542933/8w4PdeFH.gif"
+        }
+    ],
     "Vencord": [
         {
             "name": "Around the world",

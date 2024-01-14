@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Galaxy",
+            "badge": "https://cdn.discordapp.com/attachments/1001635328609747006/1173482112666578976/1LiDNhdT.png?ex=65641d61&is=6551a861&hm=76ee4c984fba90dc5dbb2c0cf5403d97fbf3df655dbe8004556635950b31dd18&"
+        },
+        {
+            "name": "Van Gogh",
+            "badge": "https://cdn.discordapp.com/attachments/1001635328609747006/1173482113350254612/6CobFcLf.png?ex=65641d62&is=6551a862&hm=5d760cd646f107b0d6214defa5ef101c1f6f6cbe1f3d80adf815f2deb18c7a9b&"
+        },
+        {
+            "name": "silly",
+            "badge": "https://cdn.discordapp.com/attachments/1001635328609747006/1173482114516262953/JoPT7tzA.png?ex=65641d62&is=6551a862&hm=e9aed07f2801db13f88310e466a2a8d2ef0310960dc5cbd968468bbb3c5bff1b&"
+        },
+        {
+            "name": "Shark",
+            "badge": "https://cdn.discordapp.com/attachments/1001635328609747006/1173482115548069960/0fcf64817e3dd7752c7765a7862329611-modified.png?ex=65641d62&is=6551a862&hm=e961c779fa6bbc8e8ea398d9e80f21a4d4a6336a81c10620145db384f6fc56dc&"
+        },
+        {
+            "name": "nuhuh",
+            "badge": "https://cdn.discordapp.com/attachments/1001635328609747006/1173482115879411792/1171366922244345906.gif?ex=65641d62&is=6551a862&hm=865ef30a61ab3efaf2efe1d4168caa2851263de8e2643fcf55786d18cd1b9ea1&"
+        }
+    ]
+}
