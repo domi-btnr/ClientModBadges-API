@@ -1,0 +1,12 @@
+{
+    "BadgeVault": [
+        {
+            "name": "hires",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1196265667154940035/high-resolution-audio-signals-sign-icon-hi-res-audio-vector.jpg?ex=65b70038&is=65a48b38&hm=9d05ebd7796152d2c486b020baf318c954304a25f28382378ae3fa9487f747ff&"
+        },
+        {
+            "name": "ldac",
+            "badge": "https://cdn.discordapp.com/attachments/963027342840705054/1196358395402395668/IMG_20240115_144024.jpg?ex=65b75694&is=65a4e194&hm=734a2af49a7741cab9b1e1d5379de37ff4e790178caeb2ef242f6e77fd825053&"
+        }
+    ]
+}
