@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "ditto",
+            "badge": "https://cdn.discordapp.com/attachments/1092747324729597984/1196612376858996746/IMG_1109.gif?ex=65b8431e&is=65a5ce1e&hm=dbbcd2033e2e96f83e94bc8fb2c11f136765d588a1a1ed74b148ccd921535fb2&"
+        },
+        {
+            "name": "handler",
+            "badge": "https://cdn.discordapp.com/attachments/1092747324729597984/1196612866300706876/cruelty-squad.gif?ex=65b84393&is=65a5ce93&hm=7293cc55c96d29ebdb8bf677dbaba4e13a2486752a322b980b396a63894f2127&"
+        },
+        {
+            "name": "goldfish",
+            "badge": "https://cdn.discordapp.com/attachments/1092747324729597984/1196612680111370290/thUGdX.gif?ex=65b84366&is=65a5ce66&hm=fc74dbaaf52de69346a5ad9ab3e59d33c1760459d0cc9b4a816256c9bfcef18b&"
+        }
+    ]
+}
