@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "snake",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1195636546053869568/IMG_1917.webp?ex=65b4b64e&is=65a2414e&hm=a2197b514ab88946fff5ddf531bb03bc00eb42702b2e5b6c1d2ccefe9b4d443b&"
-        },
-        {
             "name": "fbi badge",
             "badge": "https://media.discordapp.net/attachments/1193592853507616841/1195764301831618650/QxITW8of.png?ex=65b52d49&is=65a2b849&hm=cffb4464518fa5ed46993ca3216c68baa64da5e0a755791417299a02829e54ed&"
         }
