@@ -15,6 +15,10 @@
         {
             "name": "honk",
             "badge": "https://media.discordapp.net/attachments/1193592853507616841/1197592226277113947/5d7b0f0b-c6e1-4691-a233-95d2fc4aaf91.gif?ex=65bbd3ac&is=65a95eac&hm=d521ca46ed9a728e477184ad1e7bba31c1bb5f3ca81e3bae7ce5ba23b23b047e&"
+        },
+        {
+            "name": "sword",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1197598288686370948/sword.png?ex=65bbd952&is=65a96452&hm=72ffe0eebd07a4ba0227b16e12ca446d204d67ef26aad37c7135ef21189ba61d&"
         }
     ]
 }
