@@ -1,16 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "crown badge",
-            "badge": "https://cdn.discordapp.com/emojis/1146809347486269470.gif?size=160"
-        },
-        {
             "name": "discord cat girl",
             "badge": "https://cdn.discordapp.com/emojis/1093803211783143504.gif?size=128"
-        },
-        {
-            "name": "discord badge",
-            "badge": "https://cdn.discordapp.com/emojis/1134490205420797954.gif?size=128"
         },
         {
             "name": "universal",
