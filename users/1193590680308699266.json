@@ -35,6 +35,14 @@
         {
             "name": "crab",
             "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198212989682204702/9795-golden-crab.gif?ex=65be15ce&is=65aba0ce&hm=b88d6098cc2e537c7b9ad99c7f6ae56e11aebb670561f85700785738e6ec5b91&"
+        },
+        {
+            "name": "monster",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198316999097462826/7153-kitsunefruit.png?ex=65be76ac&is=65ac01ac&hm=2815d4a0e17e688a090c2b2b0df31f7b37cea371d204653ef3c6e32ccc530dca&"
+        },
+        {
+            "name": "fire blue",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198317744165236787/4455-lightblue-fire.gif?ex=65be775d&is=65ac025d&hm=d14c8706acfb31c6311bda852e4ea2efaf94e5b004f17975b73d64de5aff0f71&"
         }
     ]
 }
