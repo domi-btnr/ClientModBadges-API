@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "tux",
+            "badge": "https://cdn.discordapp.com/attachments/1188196685952864297/1198039167985262622/Tux.png?ex=65bd73ec&is=65aafeec&hm=b911b5b2d2bd05a514f6adbad63b31e154f496e3ec81597b780413ea6b2e45d1&"
+        },
+        {
+            "name": "BTC",
+            "badge": "https://cdn.discordapp.com/attachments/1188196685952864297/1198039168455028846/Bitcoin.svg.png?ex=65bd73ec&is=65aafeec&hm=6ea8e6af0ffdb94af4cfcb1a9284b879a723b1b06de9ef950ffc151629088efa&"
+        },
+        {
+            "name": "star",
+            "badge": "https://cdn.discordapp.com/attachments/1188196685952864297/1198039168194990190/1701415988061.png?ex=65bd73ec&is=65aafeec&hm=57cc5d2c12244c34d197ce478bb10c2db7ea8cc47a8d7b2ebe07fecc327fcaf6&"
+        }
+    ]
+}
