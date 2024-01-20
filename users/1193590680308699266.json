@@ -19,6 +19,22 @@
         {
             "name": "sword",
             "badge": "https://media.discordapp.net/attachments/1193592853507616841/1197598288686370948/sword.png?ex=65bbd952&is=65a96452&hm=72ffe0eebd07a4ba0227b16e12ca446d204d67ef26aad37c7135ef21189ba61d&"
+        },
+        {
+            "name": "shield",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1197598288304685116/rpg.png?ex=65bbd952&is=65a96452&hm=41076268c14938ddd2db20610711863f416b1605821efeeb81f79b9bdd756d17&"
+        },
+        {
+            "name": "fire",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198202306634719303/78a303da-784c-48ab-b97d-692c14c37347.gif?ex=65be0bdb&is=65ab96db&hm=c6240191620e1f5f8587867aa04ce5c7328bf1b54e7f7193e20c37762c2233d3&"
+        },
+        {
+            "name": "gold",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198212886170963988/32144808-3106-4241-9b2d-cd8ca37559c4.png?ex=65be15b5&is=65aba0b5&hm=66f239c9a69932b84778c10d3e206b50a5ced797d3cfcd7a5b7fb8a7a506f474&"
+        },
+        {
+            "name": "crab",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198212989682204702/9795-golden-crab.gif?ex=65be15ce&is=65aba0ce&hm=b88d6098cc2e537c7b9ad99c7f6ae56e11aebb670561f85700785738e6ec5b91&"
         }
     ]
 }
