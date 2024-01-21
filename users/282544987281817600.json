@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Pet",
+            "badge": "https://cdn.discordapp.com/emojis/1079122568600096831.webp"
+        },
+        {
+            "name": "Nanite Systems",
+            "badge": "https://cdn.discordapp.com/emojis/761677200029646866.webp"
+        },
+        {
+            "name": "Pride",
+            "badge": "https://cdn.discordapp.com/emojis/897917567094644776.webp"
+        },
+        {
+            "name": "Comfy",
+            "badge": "https://cdn.discordapp.com/emojis/1133871385802985625.webp"
+        }
+    ]
+}

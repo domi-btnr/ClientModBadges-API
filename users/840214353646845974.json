@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "ping",
+            "badge": "https://cdn.discordapp.com/attachments/1080499219124723712/1124151982328909834/7921911.png"
+        },
+        {
+            "name": "minecraftbook",
+            "badge": "https://cdn.discordapp.com/attachments/1080499219124723712/1124151982953869332/Enchanted_Book.gif"
+        },
+        {
+            "name": "pokeball",
+            "badge": "https://cdn.discordapp.com/attachments/1123152179675541594/1124222185700065300/Daco_4658073.png"
+        }
+    ]
+}

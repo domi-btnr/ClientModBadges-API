@@ -2,6 +2,12 @@
     "Aero": [
         "Tester"
     ],
+    "BadgeVault": [
+        {
+            "name": "🍎",
+            "badge": "https://media.discordapp.net/attachments/838695905594310666/1106166717266268180/Enchanted_GApple.gif"
+        }
+    ],
     "Enmity": [
         "supporter"
     ],

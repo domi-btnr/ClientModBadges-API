@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "magisk",
+            "badge": "https://cdn.discordapp.com/attachments/1152788120878727240/1169230155969986580/Magisk_Logo.png?ex=6554a570&is=65423070&hm=534261a485a3925861f6f968a6c12c2b2f6811b130a0e034a66dec3c12c687df&"
+        },
+        {
+            "name": "mahiro dev",
+            "badge": "https://cdn.discordapp.com/attachments/1152788120878727240/1169230156699795487/8193bddce56808cdfa9ebb166d8a7d74.jpg?ex=6554a570&is=65423070&hm=189e6d6f0c078b6138145cd63f9df18cd24247fcf00dd871209dc333773232ad&"
+        },
+        {
+            "name": "vsc",
+            "badge": "https://cdn.discordapp.com/attachments/1152788120878727240/1169230698884907119/share4017262327955585378.png?ex=6554a5f1&is=654230f1&hm=1dcec36543621969f70966cb9a6b898fa48260e7c6b6cd4a12b99b571abfb26a&"
+        }
+    ]
+}
