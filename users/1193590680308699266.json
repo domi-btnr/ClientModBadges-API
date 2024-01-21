@@ -43,6 +43,14 @@
         {
             "name": "fire blue",
             "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198317744165236787/4455-lightblue-fire.gif?ex=65be775d&is=65ac025d&hm=d14c8706acfb31c6311bda852e4ea2efaf94e5b004f17975b73d64de5aff0f71&"
+        },
+        {
+            "name": "gengar",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198442379393376306/cbf773c3-dd64-4ef8-a63a-27fb1ed592b6.png?ex=65beeb71&is=65ac7671&hm=3a4e87b8889949992ec46312eed008afe65023d49478715d1f609b1bf37b023f&"
+        },
+        {
+            "name": "Pokemon",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198442389883342919/f56c6836-917e-4582-b8b7-8e1e4e978e72.png?ex=65beeb73&is=65ac7673&hm=b34480ee399bed8f204d493608ee03cc15afa8a6b2c2a90c6f3d82e2cd6fd0f8&"
         }
     ]
 }
