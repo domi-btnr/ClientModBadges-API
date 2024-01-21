@@ -19,6 +19,14 @@
         {
             "name": "KEL",
             "badge": "https://cdn.discordapp.com/emojis/435641862561464320.webp?size=160"
+        },
+        {
+            "name": "something",
+            "badge": "https://cdn.discordapp.com/emojis/1033718022881427479.gif?size=160"
+        },
+        {
+            "name": "mewo",
+            "badge": "https://cdn.discordapp.com/emojis/784315564913852439.webp?size=160"
         }
     ]
 }
