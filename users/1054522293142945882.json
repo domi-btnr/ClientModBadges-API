@@ -1,26 +1,4 @@
 {
-    "BadgeVault": [
-        {
-            "name": "Dust Sans",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1165895478739750972/IMG_4492.jpg?ex=654883c7&is=65360ec7&hm=840ed269472a6eeae9c15ca5fa7ac8706a5364d50a645f20006c3d95bcda7abb&"
-        },
-        {
-            "name": "Gamma Dust Sans",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1165897211406729296/remix-08fb6190-c13a-4e67-ae9a-fed9aa2f86bf.png?ex=65488564&is=65361064&hm=0e76a903137e71480f7a535ede94e329b4d1946ad63039645216ac42fca4aefa&"
-        },
-        {
-            "name": "DreamSicle",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1166195433152970762/IMG_4539.png?ex=65499b22&is=65372622&hm=4a935ae336bba316895645b37151915529c6369b5f277cbb167251202515f06f&"
-        },
-        {
-            "name": "TheGreenOrbs",
-            "badge": "https://cdn.discordapp.com/attachments/1156821847711686686/1172760423603380285/IMG_5160.png?ex=65617d41&is=654f0841&hm=09db2038f2d07015644706ba6ea659ac9955c96935e844ec23ab505faaaef09c&"
-        },
-        {
-            "name": "Forager",
-            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1173025023435481088/Image_2023-11-11_17-21-59.png?ex=656273af&is=654ffeaf&hm=fdc893f83f027d6d23ff3f2fa2672f92ec4d5fdbd721bfa01503a05a373e24a9&"
-        }
-    ],
     "Enmity": [
         "supporter",
         {
