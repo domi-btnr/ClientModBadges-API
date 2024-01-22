@@ -1,0 +1,12 @@
+{
+    "BadgeVault": [
+        {
+            "name": "BTS",
+            "badge": "https://cdn.discordapp.com/attachments/1198986742619967562/1198987439675555901/BTS.png?ex=65c0e711&is=65ae7211&hm=ba42a52a43767d11afe41af3e78af345dc3d20511ad6129a60d00f986f3fdf5d&"
+        },
+        {
+            "name": "Army",
+            "badge": "https://cdn.discordapp.com/attachments/1198986742619967562/1198987451562205235/Army.png?ex=65c0e714&is=65ae7214&hm=8b63209b3397b409abf24258632ca05e0fbc573db626c6a84c6c91a5ea0e7623&"
+        }
+    ]
+}
