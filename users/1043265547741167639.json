@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "git",
+            "badge": "https://cdn.discordapp.com/attachments/1069822951685361696/1187617122034122782/Qd05WJ8A.png?ex=65bc73a2&is=65a9fea2&hm=c12371614f68ce1edd9e219144619462a1a086857ff759f3deddff8ad0c70d2f&"
+        },
+        {
+            "name": "notion",
+            "badge": "https://cdn.discordapp.com/attachments/1045066420788154418/1198831585051558078/Notion_app_logo.png?ex=65c055eb&is=65ade0eb&hm=1fd2da89f75c1020ac9d51364fdd39d05ad51f1d751eeaf0adb3bdf7e20bfa05&"
+        },
+        {
+            "name": "ue5",
+            "badge": "https://cdn.discordapp.com/attachments/1045066420788154418/1198832156710031362/images.png?ex=65c05673&is=65ade173&hm=371e508a5caebe9d9d21fe1c8290d4d5b3e2d8181441548edf51d1fc6741d3a4&"
+        },
+        {
+            "name": "blender",
+            "badge": "https://cdn.discordapp.com/attachments/1045066420788154418/1198831586066579526/Blender_logo_no_text.svg.png"
+        }
+    ]
+}
