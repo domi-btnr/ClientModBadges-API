@@ -11,6 +11,14 @@
         {
             "name": "Bird",
             "badge": "https://media.discordapp.net/attachments/736889480509915188/1192572577609175071/HtMdovYZ.gif?ex=65bc05c3&is=65a990c3&hm=ac27240fab5ea1bfe39473e5bb90b2b370da2fa415b8ddf237dfb27f616a4b70&"
+        },
+        {
+            "name": "Key",
+            "badge": "https://media.discordapp.net/attachments/1172235928438313092/1199960168729952327/83zlL6Mm.png?ex=65c470fe&is=65b1fbfe&hm=275acce780710d88331dd88251072c73db5ccb831afa767b1ce78f881a1305d3&"
+        },
+        {
+            "name": "shy",
+            "badge": "https://media.discordapp.net/attachments/1172235928438313092/1199960884437602325/SgxCnCDk.png?ex=65c471a9&is=65b1fca9&hm=e5b607f2248d296e2032c33b2770c16d70e3928603ccd84ac7aea333d037b002&"
         }
     ]
 }
