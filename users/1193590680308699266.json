@@ -39,6 +39,26 @@
         {
             "name": "monster",
             "badge": "https://media.discordapp.net/attachments/1193592853507616841/1198316999097462826/7153-kitsunefruit.png?ex=65be76ac&is=65ac01ac&hm=2815d4a0e17e688a090c2b2b0df31f7b37cea371d204653ef3c6e32ccc530dca&"
+        },
+        {
+            "name": "charmender",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1197592226667188255/98ec579a-d807-4648-99ec-6fe1e4083d65.gif?ex=65c50e2d&is=65b2992d&hm=f04dfa107fcc2d08b8fb0a85d6aa7f25c8c909a0a4fe1974117375a803b3b826&"
+        },
+        {
+            "name": "black lightning",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1200368006392463400/f695d1cb-60b6-4b58-a96a-6a336ab25593.gif?ex=65c5ecd2&is=65b377d2&hm=37825f7e1523e0cdce8b0c1a9c34225a228d64d164ef6cf1c0e7dcd1c4897ec1&"
+        },
+        {
+            "name": "sneeze",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1200369018423496754/e09502a6-6577-475d-bd06-963f51a1e370.gif?ex=65c5edc3&is=65b378c3&hm=bf2ffb149467e63ba5899e1c6a6a21d749c4b7f3f80b8a3935c55656b226e6fd&"
+        },
+        {
+            "name": "vibin",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1200369018926805073/4ff14ce4-54f4-4a05-abf1-5657e902f448.gif?ex=65c5edc3&is=65b378c3&hm=ce20f37464553ea43e60f35c14689b24d31127a4afe9eeb43f37129e30bb2bf1&"
+        },
+        {
+            "name": "sad",
+            "badge": "https://media.discordapp.net/attachments/1193592853507616841/1197423883100377168/1687-lnkaito-shy.png?ex=65c47164&is=65b1fc64&hm=3fe47242966d63bb02134e999796fa49099f60afc6ed8069120fd933939fb6e3&"
         }
     ]
 }
