@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "one-piece-logo",
+            "badge": "https://cdn.discordapp.com/attachments/959461676598562817/1167456683568660590/omGOHr7.gif?ex=654e31c3&is=653bbcc3&hm=e5559b37005206ba04ed25df032e3cc8cdab52d1ddfd579dacd78d6a24952f58&"
+        },
+        {
+            "name": "sin",
+            "badge": "https://cdn.discordapp.com/attachments/959461676598562817/1167702430843142204/oOmnCUA.png?ex=654f16a2&is=653ca1a2&hm=92d58ba754be7773218d7eca4a83f98ca12e204804ef97c8bd0d70b7aa58bbf2&"
+        },
+        {
+            "name": "opm",
+            "badge": "https://cdn.discordapp.com/attachments/959461676598562817/1167703719278825512/071KmPm.png?ex=654f17d5&is=653ca2d5&hm=51d4a6978b32921a1da0ec9129dff16918ed2ce0be60d5c3a19a7b695fc20c0c&"
+        },
+        {
+            "name": "bc",
+            "badge": "https://cdn.discordapp.com/attachments/959461676598562817/1167703211495391373/JWwFdx6.png?ex=654f175c&is=653ca25c&hm=cee45b2d3be2e73ef7cc2074b647702935e740493053a1ff954a549dc0177120&"
+        },
+        {
+            "name": "freedom",
+            "badge": "https://cdn.discordapp.com/attachments/959461676598562817/1167703456992198656/zA2JSsv.png?ex=654f1797&is=653ca297&hm=0366c8a5b2178c0a9a32463bc9a1a7c752fe05edaca47c0c882390126f1bee94&"
+        }
+    ]
+}

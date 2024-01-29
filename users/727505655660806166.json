@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "pet",
+            "badge": "https://gb.obamabot.me/1aab21e6f8204240b86b8979635b8c459bf6cbe5.jpg"
+        },
+        {
+            "name": "music",
+            "badge": "https://images.unsplash.com/photo-1701308178935-4e76cb5f4577?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "coding",
+            "badge": "https://gb.obamabot.me/888254b423df37362ec40764b555d039c92c522a.jpg"
+        }
+    ]
+}
