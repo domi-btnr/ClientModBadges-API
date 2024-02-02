@@ -1,16 +1,20 @@
 {
     "BadgeVault": [
         {
-            "name": "Anger's Remorse",
-            "badge": "https://gb.obamabot.me/229860e4081123babbe1c1677737295acfcee8c0.gif"
-        },
-        {
-            "name": "My beloved",
-            "badge": "https://gb.obamabot.me/5415337241570befd382829d4c0e603349e54265.png"
-        },
-        {
             "name": "pera",
             "badge": "https://gb.obamabot.me/590b2c32f62f9b75661250c2c67ea2e5a32452ee.gif"
+        },
+        {
+            "name": "origin",
+            "badge": "https://gb.obamabot.me/fc3be8992a8a9dedf0cffe128133b28868800c03.gif"
+        },
+        {
+            "name": "wheeeee!!",
+            "badge": "https://gb.obamabot.me/1ad5e70999bda95f5f0f4d38a4aef1df14d200af.gif"
+        },
+        {
+            "name": "jammin'",
+            "badge": "https://gb.obamabot.me/d9c534436a62fb7830563eb5a522583ed64fa1ba.gif"
         }
     ]
 }
