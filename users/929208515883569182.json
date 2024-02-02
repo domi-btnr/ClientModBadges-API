@@ -9,16 +9,12 @@
             "badge": "https://gb.obamabot.me/6ee7b7f67d4de3e62ab3a8058510ec27ced08590.png"
         },
         {
-            "name": "shy",
-            "badge": "https://gb.obamabot.me/a0a6f41f46ec6a5be82ed150cd905f7ea5a126b4.png"
-        },
-        {
-            "name": "HeartEyes",
-            "badge": "https://gb.obamabot.me/faeade08c8d0f9b67a1c73a6ca909e96c5439a51.png"
-        },
-        {
             "name": "Key",
             "badge": "https://gb.obamabot.me/87efc614fb9a4f6b2c54e7b07c57aca45f703242.png"
+        },
+        {
+            "name": "HelloKity",
+            "badge": "https://gb.obamabot.me/3d73f2dece39760ca97232d9934313bf72ac26e4.jpg"
         }
     ]
 }
