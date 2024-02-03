@@ -1,11 +1,5 @@
 {
     "Aliucord": [
         "donor"
-    ],
-    "BadgeVault": [
-        {
-            "name": "btcash",
-            "badge": "https://gb.obamabot.me/8fc7df41aa03df94b5790f53eff82d4b22808b4e.png"
-        }
     ]
 }
