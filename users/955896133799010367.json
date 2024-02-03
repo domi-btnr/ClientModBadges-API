@@ -1,14 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "knight",
-            "badge": "https://gb.obamabot.me/ae28bd39d991651a38f3a1db7f731927353288be.png"
-        },
-        {
-            "name": "ghost",
-            "badge": "https://gb.obamabot.me/3c24be1439b8e5eb297879e2ed4fa7d968f83270.png"
-        },
-        {
             "name": "smiley",
             "badge": "https://gb.obamabot.me/429e74dbeff65c30a91f513c64d8a14135123f87.jpg"
         },
