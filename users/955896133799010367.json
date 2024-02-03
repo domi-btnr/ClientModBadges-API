@@ -1,16 +1,24 @@
 {
     "BadgeVault": [
         {
-            "name": "smiley",
-            "badge": "https://gb.obamabot.me/429e74dbeff65c30a91f513c64d8a14135123f87.jpg"
-        },
-        {
             "name": "golden",
             "badge": "https://gb.obamabot.me/438a2d71b787bc7992d72d7d1ebdc1329f06e191.png"
         },
         {
-            "name": "knights",
-            "badge": "https://gb.obamabot.me/8dd37e7bc6ebc477cda93bc9ac8d15875b2f0f94.png"
+            "name": "fire",
+            "badge": "https://gb.obamabot.me/7b83bc5245fdb5740ebb0342059f15d43d30b012.gif"
+        },
+        {
+            "name": "dance",
+            "badge": "https://gb.obamabot.me/fa1abb4c57b3a45c284c7399301fbe95c9a9efa8.gif"
+        },
+        {
+            "name": "full dance",
+            "badge": "https://gb.obamabot.me/1b9460d93457399f643777081021de4f09903aa8.gif"
+        },
+        {
+            "name": "charmender",
+            "badge": "https://gb.obamabot.me/aac0d25b842d7e24f01e568aff2b2f4b8fb89a45.gif"
         }
     ]
 }
