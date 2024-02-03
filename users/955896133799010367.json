@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "knight",
+            "badge": "https://gb.obamabot.me/ae28bd39d991651a38f3a1db7f731927353288be.png"
+        },
+        {
+            "name": "ghost",
+            "badge": "https://gb.obamabot.me/3c24be1439b8e5eb297879e2ed4fa7d968f83270.png"
+        },
+        {
+            "name": "smiley",
+            "badge": "https://gb.obamabot.me/429e74dbeff65c30a91f513c64d8a14135123f87.jpg"
+        },
+        {
+            "name": "golden",
+            "badge": "https://gb.obamabot.me/438a2d71b787bc7992d72d7d1ebdc1329f06e191.png"
+        },
+        {
+            "name": "knights",
+            "badge": "https://gb.obamabot.me/8dd37e7bc6ebc477cda93bc9ac8d15875b2f0f94.png"
+        }
+    ]
+}
