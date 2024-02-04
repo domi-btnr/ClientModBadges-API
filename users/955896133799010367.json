@@ -7,6 +7,18 @@
         {
             "name": "dance",
             "badge": "https://gb.obamabot.me/fa1abb4c57b3a45c284c7399301fbe95c9a9efa8.gif"
+        },
+        {
+            "name": "cross",
+            "badge": "https://gb.obamabot.me/213f8261753b411543b3d7e7a711144d42a2f9a6.gif"
+        },
+        {
+            "name": "thunder",
+            "badge": "https://gb.obamabot.me/0226f488d0ed508e8d2f006a28f33a616e90e8fd.gif"
+        },
+        {
+            "name": "mutee",
+            "badge": "https://gb.obamabot.me/dcfa2282e30add4463aec3c7aa42f24b36ccb50a.gif"
         }
     ]
 }
