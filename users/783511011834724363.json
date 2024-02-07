@@ -1,24 +1,12 @@
 {
     "BadgeVault": [
         {
-            "name": "YouTube",
-            "badge": "https://gb.obamabot.me/ccdd087f70db7da9d4fe605ad4a5be5d17c7b942.png"
+            "name": "C++",
+            "badge": "https://gb.obamabot.me/5fd51f1d4cf77fa21b1e7ed439ea3b102fb239d0.png"
         },
         {
-            "name": "YouTube Music",
-            "badge": "https://gb.obamabot.me/9d01725aee7330ce06d07fd113970627af5f6858.png"
-        },
-        {
-            "name": "Coding",
-            "badge": "https://gb.obamabot.me/f712882b098b0d5df573885aa9f6d059abaf6604.png"
-        },
-        {
-            "name": "Translate",
-            "badge": "https://gb.obamabot.me/e87c8c355b4702752f7e6b9335324ef77bbb6e0d.png"
-        },
-        {
-            "name": "YouTube Red",
-            "badge": "https://gb.obamabot.me/11a29f803dd5a795e4eb496d66e0943512c359ac.png"
+            "name": "Jolly Roger",
+            "badge": "https://gb.obamabot.me/22cb56b8cae36bd627390a61716c633e51466d36.png"
         }
     ]
 }
