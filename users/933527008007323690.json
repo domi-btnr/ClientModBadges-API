@@ -1,14 +1,6 @@
 {
     "Enmity": [
-        "supporter",
-        {
-            "name": "sh",
-            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/933527008007323690.gif"
-        },
-        {
-            "name": "RS",
-            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/933527008007323690-2.gif"
-        }
+        "supporter"
     ],
     "Vencord": [
         {
