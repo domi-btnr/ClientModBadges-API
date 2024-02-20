@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "T1",
+            "badge": "https://gb.obamabot.me/8744df06cd396e35ec948bcbd32b7c3fd6bdcba1.png"
+        },
+        {
+            "name": "Kaguya",
+            "badge": "https://gb.obamabot.me/b0b7381625d52dfc611ae9dcd349e707a2ad34ff.png"
+        },
+        {
+            "name": "Skadi",
+            "badge": "https://gb.obamabot.me/1a21f9791a9b8422daa2dbd9565cf83135bd4b23.jpg"
+        },
+        {
+            "name": "FOSS Supremacy",
+            "badge": "https://gb.obamabot.me/c02d9929ce66316324030d08905a20a0b15920f1.png"
+        }
+    ]
+}
