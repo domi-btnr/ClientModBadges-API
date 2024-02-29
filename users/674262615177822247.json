@@ -23,6 +23,18 @@
         {
             "name": "loser award",
             "badge": "https://gb.obamabot.me/17171ebc31ea34237ae10926acf90b83f3bb6812.gif"
+        },
+        {
+            "name": "idk",
+            "badge": "https://gb.obamabot.me/e042056aa9eb110e72e980e27337f80cec0d9b84.png"
+        },
+        {
+            "name": "chonkers",
+            "badge": "https://gb.obamabot.me/545b13e55363d578fc705de77abd3cbfd5c6ad71.png"
+        },
+        {
+            "name": "discord",
+            "badge": "https://gb.obamabot.me/61ca9e44a335edb3f08bf51d3283eb1348dc6d6a.png"
         }
     ]
 }
