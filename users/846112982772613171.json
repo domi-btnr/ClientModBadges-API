@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "mac",
+            "badge": "https://gb.obamabot.me/10e88c2be0f256977e1ee8f1a16743f195df8536.png"
+        },
+        {
+            "name": "error",
+            "badge": "https://gb.obamabot.me/d1d523348b97da0bdb32e14450c5157070d4549b.gif"
+        },
+        {
+            "name": "CrazyHellTechnologies",
+            "badge": "https://gb.obamabot.me/a56546b496624d56ca0e534cf9e4d6d1529eb52e.webp"
+        },
+        {
+            "name": "terminal",
+            "badge": "https://gb.obamabot.me/ee2405687e88cfd1e94f1919aa8250f91f6cbb50.gif"
+        },
+        {
+            "name": "magic",
+            "badge": "https://gb.obamabot.me/8ce3d08fb355c0ec213631d28926118cda62ac34.gif"
+        }
+    ]
+}
