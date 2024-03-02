@@ -35,6 +35,10 @@
         {
             "name": "discord",
             "badge": "https://gb.obamabot.me/61ca9e44a335edb3f08bf51d3283eb1348dc6d6a.png"
+        },
+        {
+            "name": "mincecraft",
+            "badge": "https://gb.obamabot.me/0b37cfd5c7168812d065d9bed33fe748958bbddf.png"
         }
     ]
 }
