@@ -2,6 +2,12 @@
     "Aero": [
         "Tester"
     ],
+    "BadgeVault": [
+        {
+            "name": "🍎",
+            "badge": "https://gb.obamabot.me/c8d97ce8114bf4c632b459f9d79a3e104e0a0358.gif"
+        }
+    ],
     "Enmity": [
         "supporter"
     ],
