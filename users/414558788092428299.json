@@ -3,6 +3,18 @@
         {
             "name": "Infinite",
             "badge": "https://gb.obamabot.me/b7bf8abc4b8c3cbe966b8cb2d2e0119733dbf01a.gif"
+        },
+        {
+            "name": "Flame",
+            "badge": "https://gb.obamabot.me/8b34a463ff76eeff00daf92b7f1a1cbcfbf85950.gif"
+        },
+        {
+            "name": "Snowglobe",
+            "badge": "https://gb.obamabot.me/2b8d71988b232421f6e09e7c3fa80861dbec611a.gif"
+        },
+        {
+            "name": "Pixelette",
+            "badge": "https://gb.obamabot.me/5aff29ae63b14ac7e4a5b3d0b61896a8122f123a.gif"
         }
     ]
 }
