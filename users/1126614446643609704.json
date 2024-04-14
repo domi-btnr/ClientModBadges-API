@@ -8,5 +8,12 @@
             "name": "NWS Certified",
             "badge": "https://gb.obamabot.me/af9eafbd7c397326896f2e5b11bee9197b95b832.jpg"
         }
+    ],
+    "Enmity": [
+        "supporter",
+        {
+            "name": "NWS Skywarn Certified",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1126614446643609704.png"
+        }
     ]
 }
