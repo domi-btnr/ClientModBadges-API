@@ -15,6 +15,10 @@
         {
             "name": "blahaj",
             "badge": "https://gb.obamabot.me/14d5681d88b5d023bbb47530e31c39e29a7169e5.gif"
+        },
+        {
+            "name": "This is a normal badge",
+            "badge": "https://gb.obamabot.me/48d17bcbe41eb89438cd9bed3fd59d77971cdbca.png"
         }
     ]
 }
