@@ -3,15 +3,16 @@ import * as utils from "./utils.mjs";
 const { addUser, CLIENT_MODS } = utils;
 let attempts = 1;
 
-const getVencordBadges = async () => {
+
+const getSuncordBadges = async () => {
     try {
-        const { data } = await axios.get("https://raw.githubusercontent.com/Vendicated/Vencord/main/src/utils/constants.ts", { headers: { "Cache-Control": "no-cache" } });
-        const matches = data.match(/id: ([0-9n]+)/gs);
+        const { data } = await axios.get("https://raw.githubusercontent.com/verticalsync/Suncord/main/src/utils/constants.ts", { headers: { "Cache-Control": "no-cache" } });
+        const matches = data.split("SuncordDevs")[1].match(/id: ([0-9n]+)/gs);
         const contributors = matches.map(match => {
             const [, id] = match.match(/id: ([0-9n]+)/s);
             return { id: id.replace("n", ""), badges: ["Contributor"] };
         });
-        const { data: donorData } = await axios.get("https://badges.vencord.dev/badges.json", { headers: { "Cache-Control": "no-cache" } });
+        const { data: donorData } = await axios.get("https://raw.githubusercontent.com/verticalsync/Suncord/main/src/assets/badges.json", { headers: { "Cache-Control": "no-cache" } });
         const donors = Object.entries(donorData).map(([id, badge]) => {
             const badgesArray = Object.entries(badge).map(([name, value]) => ({
                 name: value.tooltip,
@@ -29,11 +30,11 @@ const getVencordBadges = async () => {
             else acc.push(user);
             return acc;
         }, []);
-        users.forEach(user => addUser(user.id, CLIENT_MODS.VENCORD, user.badges));
+        users.forEach(user => addUser(user.id, CLIENT_MODS.SUNCORD, user.badges));
     } catch (e) {
-        if (attempts++ > 4) console.error("Failed to get Vencord badges after 5 attempts", e);
-        else setTimeout(getVencordBadges, 500);
+        if (attempts++ > 4) console.error("Failed to get Suncord badges after 5 attempts", e);
+        else setTimeout(getSuncordBadges, 500);
     }
 };
 
-getVencordBadges();
+getSuncordBadges();
