@@ -13,14 +13,11 @@ const getVencordBadges = async () => {
         });
         const { data: donorData } = await axios.get("https://badges.vencord.dev/badges.json", { headers: { "Cache-Control": "no-cache" } });
         const donors = Object.entries(donorData).map(([id, badge]) => {
-            const badgesArray = Object.entries(badge).map(([name, value]) => ({
+            const badgesArray = Object.entries(badge).map(([, value]) => ({
                 name: value.tooltip,
-                badge: value.badge,
+                badge: value.badge
             }));
-            return {
-                id,
-                badges: badgesArray,
-            };
+            return { id, badges: badgesArray };
         });
         let users = [...contributors, ...donors];
         users = users.reduce((acc, user) => {
