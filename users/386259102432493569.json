@@ -7,5 +7,11 @@
     ],
     "Enmity": [
         "supporter"
+    ],
+    "Vencord": [
+        {
+            "name": "shiggey",
+            "badge": "https://badges.vencord.dev/badges/386259102432493569/1-95d023a752f079b1aa38d1d0fec828bae5d1d4bd.gif"
+        }
     ]
 }

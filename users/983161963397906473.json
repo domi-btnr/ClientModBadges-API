@@ -2,7 +2,11 @@
     "Vencord": [
         {
             "name": "macOS User",
-            "badge": "https://cdn.discordapp.com/attachments/1170023188219052043/1172573166753816597/TOd4VfO.png"
+            "badge": "https://badges.vencord.dev/badges/983161963397906473/1-53d5404c7954aa6fb74a20f51524bdb308104ec8.png"
+        },
+        {
+            "name": "Swift",
+            "badge": "https://badges.vencord.dev/badges/983161963397906473/2-e5aecb532efba026d48a88399af325464a4c63e8.png"
         }
     ]
 }

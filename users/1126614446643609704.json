@@ -15,5 +15,11 @@
             "name": "NWS Skywarn Certified",
             "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1126614446643609704.png"
         }
+    ],
+    "Vencord": [
+        {
+            "name": "Shiggy",
+            "badge": "https://badges.vencord.dev/badges/1126614446643609704/1-95d023a752f079b1aa38d1d0fec828bae5d1d4bd.gif"
+        }
     ]
 }
