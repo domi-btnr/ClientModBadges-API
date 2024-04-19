@@ -11,12 +11,14 @@ const getVencordBadges = async () => {
             const [, id] = match.match(/id: ([0-9n]+)/s);
             return { id: id.replace("n", ""), badges: ["Contributor"] };
         });
-        const { data: donorData } = await axios.get("https://gist.githubusercontent.com/Vendicated/51a3dd775f6920429ec6e9b735ca7f01/raw/badges.csv", { headers: { "Cache-Control": "no-cache" } });
-        const donors = donorData.split("\n").map((line, i) => {
-            if (i === 0) return;
-            const [id, name, badge] = line.split(",");
-            return { id, badges: [{ name, badge }] };
-        }).filter(d => d);
+        const { data: donorData } = await axios.get("https://badges.vencord.dev/badges.json", { headers: { "Cache-Control": "no-cache" } });
+        const donors = Object.entries(donorData).map(([id, badge]) => {
+            const badgesArray = Object.entries(badge).map(([, value]) => ({
+                name: value.tooltip,
+                badge: value.badge
+            }));
+            return { id, badges: badgesArray };
+        });
         let users = [...contributors, ...donors];
         users = users.reduce((acc, user) => {
             const existingUser = acc.find(u => u.id === user.id);
