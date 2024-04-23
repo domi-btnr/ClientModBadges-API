@@ -7,8 +7,6 @@ export const CLIENT_MODS = {
     BETTERDISCORD: "BetterDiscord",
     BADGE_VAULT: "BadgeVault",
     ENMITY: "Enmity",
-    EQUICORD: "Equicord",
-    SUNCORD: "Suncord",
     VELOCITY: "Velocity",
     VENCORD: "Vencord"
 };
