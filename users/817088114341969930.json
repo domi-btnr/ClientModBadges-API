@@ -11,6 +11,10 @@
         {
             "name": "fire",
             "badge": "https://gb.obamabot.me/df54c539ce633f9d04594209ed6bb788a90502a0.webp"
+        },
+        {
+            "name": "Loading…",
+            "badge": "https://gb.obamabot.me/a17f9e8a4b60095c18a2223ef1b668f572b3ba9d.gif"
         }
     ]
 }
