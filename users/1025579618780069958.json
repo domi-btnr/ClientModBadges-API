@@ -1,12 +1,20 @@
 {
     "Vencord": [
         {
-            "name": "LT",
-            "badge": "https://badges.vencord.dev/badges/1025579618780069958/1-b748ef989c86367ee54a6f3ff5a8c646249c1634.webp"
-        },
-        {
             "name": "discord.gg/66",
             "badge": "https://badges.vencord.dev/badges/1025579618780069958/3-7cddb450e913cbe56d366f146bfac39b85d53cde.gif"
+        },
+        {
+            "name": "BOSS",
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/2-000d639f3cd971f3c2562a95595bea07448602ab.gif"
+        },
+        {
+            "name": "star-hunter",
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/3-2e71cbff04e575c19a5a1511ba4561a01cb17a68.webp"
+        },
+        {
+            "name": "LT LOVE",
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/4-58211e061151471b460f920b74ea269e4fa42dbb.webp"
         }
     ]
 }
