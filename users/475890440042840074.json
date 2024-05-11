@@ -1,16 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "Leviatan",
-            "badge": "https://badges.vencord.dev/badges/475890440042840074/1-6695a9b6654060dd4391285a45d70f4a4d38cd78.png"
-        },
-        {
             "name": "Leviatan Stealer",
-            "badge": "https://badges.vencord.dev/badges/475890440042840074/2-31b5ee598ca0389afb60f21f9af0182cdd51b50b.png"
+            "badge": "https://badges.vencord.dev/badges/475890440042840074/2-8ccbe7bc4c375f85ea86e3e57a1096beb8af6ad6.png"
         },
         {
             "name": "Ndk",
-            "badge": "https://badges.vencord.dev/badges/475890440042840074/3-d50ec62093ba58a925a86fab31d6486fd2fe3662.png"
+            "badge": "https://badges.vencord.dev/badges/475890440042840074/3-02ff6c5abd474b8a7b36a5048d07cca9bbb3a234.png"
         }
     ]
 }
