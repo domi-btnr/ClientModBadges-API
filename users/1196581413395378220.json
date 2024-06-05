@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Python User",
+            "badge": "https://gb.obamabot.me/83e08eec729a6ce021c89af832c53bf820250b12.png"
+        },
+        {
+            "name": "JS User",
+            "badge": "https://gb.obamabot.me/4e657eed5dee51727e89e977e6f9d2727fd32e63.png"
+        },
+        {
+            "name": "Totem Gold",
+            "badge": "https://gb.obamabot.me/26411056a3eb3c4cf7f91266c9d99aa04f654eda.png"
+        },
+        {
+            "name": "Minecraft User",
+            "badge": "https://gb.obamabot.me/3f0e508ce75ce3aa722d4ec819a12203b87c11e4.png"
+        }
+    ]
+}
