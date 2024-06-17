@@ -1,20 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "Wumpus Mario",
-            "badge": "https://gb.obamabot.me/d9cfee3cdc3ec3fc32dc40887602d305915b8de4.webp"
-        },
-        {
             "name": "Spongebob",
             "badge": "https://gb.obamabot.me/0ca0ab81bc55fa4e7e444fc4a5ed626cc0c972f4.gif"
-        },
-        {
-            "name": "GD Icon",
-            "badge": "https://gb.obamabot.me/891830f926a55c01c55ecf9aa3c32dacd33b1803.png"
-        },
-        {
-            "name": "Loading",
-            "badge": "https://gb.obamabot.me/bf4db5465d5239fd5729adb47ac0288ceef122ce.gif"
         }
     ]
 }
