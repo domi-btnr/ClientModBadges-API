@@ -3,6 +3,22 @@
         {
             "name": "Verified",
             "badge": "https://badges.vencord.dev/badges/1119739731350134925/1-4d28df85c62db3ec4c35ba856645002c1f1822c5.png"
+        },
+        {
+            "name": "Bee Hunter",
+            "badge": "https://badges.vencord.dev/badges/1119739731350134925/2-f612d0bd12e89dbe02c2366efe176d841fe1d8e9.png"
+        },
+        {
+            "name": "Late Supporter",
+            "badge": "https://badges.vencord.dev/badges/1119739731350134925/3-385cf16f0a65646b24fcfa02d39b6c110ed8ab9c.png"
+        },
+        {
+            "name": "Meme Verified Bot Developer",
+            "badge": "https://badges.vencord.dev/badges/1119739731350134925/4-274e4614939ce20efd3ab2cd0354d3cd5b3247db.png"
+        },
+        {
+            "name": "Discordia Staff",
+            "badge": "https://badges.vencord.dev/badges/1119739731350134925/5-e5bf313b8c390f6fca39bf3192022cb44dc816bc.png"
         }
     ]
 }
