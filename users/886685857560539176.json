@@ -1,5 +1,9 @@
 {
     "Vencord": [
-        "Contributor"
+        "Contributor",
+        {
+            "name": "Duke the Java mascot",
+            "badge": "https://badges.vencord.dev/badges/886685857560539176/1-a75bae7eafc5c0671aa85f9c80eb7e5247f6c022.webp"
+        }
     ]
 }
