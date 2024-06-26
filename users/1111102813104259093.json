@@ -18,15 +18,23 @@
         },
         {
             "name": "A",
-            "badge": "https://badges.vencord.dev/badges/1111102813104259093/5-dc5f717f1a666a2883497c08799f12e32d978a17.png"
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/5-ac212157a1431a5d97708da9a432f979e7b118c0.png"
         },
         {
             "name": "L",
-            "badge": "https://badges.vencord.dev/badges/1111102813104259093/6-8e2676a1ea1218566845b91d7256a4774e9b0209.png"
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/6-2017cf41489c6d9d79ee9e3f120f0ce6520b0482.png"
         },
         {
             "name": "cc",
             "badge": "https://badges.vencord.dev/badges/1111102813104259093/7-1015761f0dc977df7cbd637b1581f2dafbe13f41.gif"
+        },
+        {
+            "name": "Flavel",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/8-ec74108003fa1cf366f45415af0d3552be3701a0.png"
+        },
+        {
+            "name": "rate",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/9-b3b17522e9bedf940d2b24fd9dd4d50406edd5c3.png"
         }
     ]
 }
