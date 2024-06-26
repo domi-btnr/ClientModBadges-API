@@ -1,16 +1,32 @@
 {
     "Vencord": [
         {
-            "name": "_G.md156",
-            "badge": "https://badges.vencord.dev/badges/1111102813104259093/1-1e0b42d9a78bed3107e066abb70961e2d51549a3.png"
+            "name": "M",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/1-3bdeac922a10aa137b16817eb68925625c3cd73f.png"
         },
         {
-            "name": "evil harkinian spotted",
-            "badge": "https://badges.vencord.dev/badges/1111102813104259093/2-fdf8703734b466486bfc1282c21d19853075fc18.png"
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/2-f8e90ac33dcf29a88e2c7c24b27f6822f5d0d09b.png"
         },
         {
-            "name": "صفر يوم",
-            "badge": "https://badges.vencord.dev/badges/1111102813104259093/3-8fe06d9381abab775f6a291f75a62daaf9c116a9.png"
+            "name": "N",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/3-0ecb7e50dd688f72941fe4a51ca84260e98614df.png"
+        },
+        {
+            "name": "T",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/4-ad38c863fd703e5919d19c9539f78f90bcfaba2d.png"
+        },
+        {
+            "name": "A",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/5-dc5f717f1a666a2883497c08799f12e32d978a17.png"
+        },
+        {
+            "name": "L",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/6-8e2676a1ea1218566845b91d7256a4774e9b0209.png"
+        },
+        {
+            "name": "cc",
+            "badge": "https://badges.vencord.dev/badges/1111102813104259093/7-1015761f0dc977df7cbd637b1581f2dafbe13f41.gif"
         }
     ]
 }
