@@ -2,12 +2,10 @@ import fs from "fs";
 import path from "path";
 
 export const CLIENT_MODS = {
-    AERO: "Aero",
     ALIUCORD: "Aliucord",
     BETTERDISCORD: "BetterDiscord",
     BADGE_VAULT: "BadgeVault",
     ENMITY: "Enmity",
-    VELOCITY: "Velocity",
     VENCORD: "Vencord"
 };
 

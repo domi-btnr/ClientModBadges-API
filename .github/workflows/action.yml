@@ -36,9 +36,6 @@ jobs:
             echo "GITHUB_TOKEN = ${{ secrets.GITHUB_TOKEN }}" >> .env
             echo "BADGE_VAULT_KEY = ${{ secrets.BADGE_VAULT_KEY }}" >> .env
 
-      - name: Update Aero Badges
-        run: node scripts/getAeroBadges.mjs
-
       - name: Update Aliucord Badges
         run: node scripts/getAliucordBadges.mjs
 
@@ -50,9 +47,6 @@ jobs:
 
       - name: Update Enmity Badges
         run: node scripts/getEnmityBadges.mjs
-
-      - name: Update Velocity Badges
-        run: node scripts/getVelocityBadges.mjs
 
       - name: Update Vencord Badges
         run: node scripts/getVencordBadges.mjs
