@@ -1,20 +1,8 @@
 {
-    "BadgeVault": [
+    "Vencord": [
         {
-            "name": "trans",
-            "badge": "https://gb.obamabot.me/76adfd16ee9bf6b94d8909bbf6e07eb6ec658b34.png"
-        },
-        {
-            "name": "BLÅHAJ",
-            "badge": "https://gb.obamabot.me/6ee7b7f67d4de3e62ab3a8058510ec27ced08590.png"
-        },
-        {
-            "name": "BLÅVINGAD",
-            "badge": "https://gb.obamabot.me/f82476a0c9edd1567f2df38a3dc4edd8e626ba4f.webp"
-        },
-        {
-            "name": "DJUNGELSKOG",
-            "badge": "https://gb.obamabot.me/3569c338d3f31611fe3bf6958574a1db94b28a44.webp"
+            "name": ":3 girl",
+            "badge": "https://badges.vencord.dev/badges/929208515883569182/1-cbcd810312fb5db572288767912c597255584a36.png"
         }
     ]
 }
