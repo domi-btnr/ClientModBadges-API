@@ -19,5 +19,11 @@
     ],
     "Enmity": [
         "supporter"
+    ],
+    "Vencord": [
+        {
+            "name": "Love",
+            "badge": "https://badges.vencord.dev/badges/1158072283101925555/1-4a8a7abe7097f33c01a2c83ae9258b6c74e44080.png"
+        }
     ]
 }
