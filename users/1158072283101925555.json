@@ -1,20 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "Hi-Res",
-            "badge": "https://gb.obamabot.me/ff1c58fa6af137a274c21db1dba316080816728c.jpg"
-        },
-        {
             "name": "flify",
             "badge": "https://gb.obamabot.me/f4ce0c1342c66c1042eec3d5fe353ea2c39940d5.gif"
-        },
-        {
-            "name": "myPFP",
-            "badge": "https://gb.obamabot.me/2726321aa92f778bfc50cd37969b8e59f32cea95.png"
-        },
-        {
-            "name": "icecreamflify",
-            "badge": "https://gb.obamabot.me/6bea9fba54e95ff0e8035a26dc962d2d4241df11.png"
         }
     ],
     "Enmity": [
