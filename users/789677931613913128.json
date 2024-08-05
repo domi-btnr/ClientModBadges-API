@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "hero",
+            "badge": "https://gb.obamabot.me/0ff79157f9301136d94d8ed0940ad511a6730e3c.gif"
+        },
+        {
+            "name": "gengar",
+            "badge": "https://gb.obamabot.me/1645185a9209f1eaae4e52f223bddfc254e80361.webp"
+        },
+        {
+            "name": "world",
+            "badge": "https://gb.obamabot.me/1f039137f692c9c3b06d2bf3640b4136bb7eb243.gif"
+        },
+        {
+            "name": "punch",
+            "badge": "https://gb.obamabot.me/c3b89d7b10ad7cb48f9d85f4fdaf96ccea2ad171.gif"
+        },
+        {
+            "name": "mars",
+            "badge": "https://gb.obamabot.me/c97ce3ed76a332f3f78a258660e7cebb7dac55f1.gif"
+        }
+    ]
+}
