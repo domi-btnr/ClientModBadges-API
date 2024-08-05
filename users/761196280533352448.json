@@ -1,6 +1,10 @@
 {
     "Vencord": [
         {
+            "name": "bob",
+            "badge": "https://badges.vencord.dev/badges/761196280533352448/27-3123bca689d4d6d5bd989bcaa9b5f38e71e83d64.gif"
+        },
+        {
             "name": "A",
             "badge": "https://badges.vencord.dev/badges/761196280533352448/4-5a20969699ba6eed83958c668564a80a82feba2c.gif"
         },
