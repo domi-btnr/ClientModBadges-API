@@ -1,5 +1,9 @@
 {
     "Vencord": [
-        "Contributor"
+        "Contributor",
+        {
+            "name": "meow :3",
+            "badge": "https://badges.vencord.dev/badges/280411966126948353/1-5c5f95ea6a8e7ebc73baaa7d2ccc30e9a08a4c88.webp"
+        }
     ]
 }
