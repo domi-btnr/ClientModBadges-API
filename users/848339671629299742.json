@@ -1,4 +1,22 @@
 {
+    "BadgeVault": [
+        {
+            "name": "CAP",
+            "badge": "https://gb.obamabot.me/9d8202db3dc20091d0e5323672e1ddd127958bf3.png"
+        },
+        {
+            "name": "Beikard",
+            "badge": "https://gb.obamabot.me/33f442ce9c83856fa1b229b5210cee07dd001aa3.gif"
+        },
+        {
+            "name": "Shiggy",
+            "badge": "https://gb.obamabot.me/2eb3a587b9dca416f2670265f505a5f3330a2e3d.gif"
+        },
+        {
+            "name": "Viggy",
+            "badge": "https://gb.obamabot.me/edf8e4d5a1d4156017bb2881a7ec2e001554ccdd.gif"
+        }
+    ],
     "Vencord": [
         {
             "name": "Around the world",

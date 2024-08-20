@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "pizza",
+            "badge": "https://gb.obamabot.me/7d9ddf22e23870335078bcdf5e5ab9145b916cfe.png"
+        },
+        {
+            "name": "lol",
+            "badge": "https://gb.obamabot.me/e3f8c3f2a2d3c0261a6714b08bbae0e26cd8d70c.png"
+        },
+        {
+            "name": "cheeto",
+            "badge": "https://gb.obamabot.me/3f600d1cc2e02fe4ea668b4cb33356fc3baa45a8.jpg"
+        },
+        {
+            "name": "blahaj",
+            "badge": "https://gb.obamabot.me/14d5681d88b5d023bbb47530e31c39e29a7169e5.gif"
+        },
+        {
+            "name": "This is a normal badge",
+            "badge": "https://gb.obamabot.me/48d17bcbe41eb89438cd9bed3fd59d77971cdbca.png"
+        }
+    ]
+}
