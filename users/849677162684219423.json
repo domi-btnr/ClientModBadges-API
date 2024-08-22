@@ -1,20 +1,12 @@
 {
     "BadgeVault": [
         {
-            "name": "batman",
-            "badge": "https://gb.obamabot.me/406c4dd00ba28aa0da277a399873294f47236aaa.png"
-        },
-        {
             "name": "the batarang",
             "badge": "https://gb.obamabot.me/24fbd78f20a203be318ccbacaa611c30561bd816.png"
         },
         {
             "name": "starburst",
             "badge": "https://gb.obamabot.me/cfe4e0efe5c22342570020879c833c6e7866af54.png"
-        },
-        {
-            "name": "magic wand",
-            "badge": "https://gb.obamabot.me/a1ef46e28caa70b9f58b91d5eed5d59065224240.png"
         }
     ]
 }
