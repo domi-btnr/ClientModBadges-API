@@ -2,7 +2,11 @@
     "Vencord": [
         {
             "name": "cute",
-            "badge": "https://badges.vencord.dev/badges/654426685286121472/1-da8aaab4e7afe2e9d63f0eab1650e2e90d43854b.jpg"
+            "badge": "https://badges.vencord.dev/badges/654426685286121472/1-72e98d193091417b3de38cd9284ad691f6c8309b.gif"
+        },
+        {
+            "name": "Navi",
+            "badge": "https://badges.vencord.dev/badges/654426685286121472/2-2a8fe213831d1ee35ff5ca036ee7e2e019e6a08e.GIF"
         }
     ]
 }
