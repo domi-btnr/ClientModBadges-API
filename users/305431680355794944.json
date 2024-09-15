@@ -1,4 +1,11 @@
 {
+    "Enmity": [
+        "supporter",
+        {
+            "name": "sharky",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/305431680355794944.png"
+        }
+    ],
     "Vencord": [
         {
             "name": "sharky",
