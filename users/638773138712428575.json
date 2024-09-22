@@ -8,8 +8,12 @@
     ],
     "Vencord": [
         {
-            "name": "501st",
-            "badge": "https://badges.vencord.dev/badges/638773138712428575/1-3fb04a1d8fee6800b46c701feae18faa5c1ac666.png"
+            "name": "Trooper",
+            "badge": "https://badges.vencord.dev/badges/638773138712428575/1-71f69aead59bbc6f224870b85626cb4feb037237.png"
+        },
+        {
+            "name": "Uncertified Discord Mod",
+            "badge": "https://badges.vencord.dev/badges/638773138712428575/2-d2a29c7a0e07a05bee5f75db3edfd7aca84be727.png"
         }
     ]
 }
