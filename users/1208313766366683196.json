@@ -3,6 +3,10 @@
         {
             "name": "18+",
             "badge": "https://badges.vencord.dev/badges/1208313766366683196/1-2d8f3f3963ae8cf68435694910b0df44fb5db448.png"
+        },
+        {
+            "name": "netflix",
+            "badge": "https://badges.vencord.dev/badges/1208313766366683196/2-54e93db41e490cf484f65d405625d42ed3baface.png"
         }
     ]
 }
