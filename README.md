@@ -7,6 +7,7 @@ This API allows you to retrieve user badges for various discord client mods.
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 - [BadgeVault](https://github.com/WolfPlugs/BadgeVault)
+- [Opti](https://github.com/opti-mod/Opti)
 - [Enmity](https://github.com/enmity-mod/enmity)
 - [Replugged](https://github.com/replugged-org/replugged)
 - [Vencord](https://github.com/Vendicated/Vencord)
