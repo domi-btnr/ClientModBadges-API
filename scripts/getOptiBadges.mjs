@@ -20,8 +20,8 @@ const getOptiBadges = async () => {
             const response = await axios.get(file.download_url);
             const data = await Promise.all(response.data.map(async badge => {
                 if (!badge.includes(userId)) return badge;
-                const { data } = await axios.get(`https://raw.githubusercontent.com/opti-mod/badges/main/data/${badge}.json`, { headers: { "Cache-Control": "no-cache" } });
-                return { name: data.name, badge: data.url.dark };
+                const { data } = await axios.get(`https://raw.githubusercontent.com/opti-mod/badges/main/data/${userId}.json`, { headers: { "Cache-Control": "no-cache" } });
+                return { name: data.name, badge: data.url };
             }));
             addUser(userId, CLIENT_MODS.OPTI, data);
         });
