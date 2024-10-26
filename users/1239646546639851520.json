@@ -5,10 +5,6 @@
             "badge": "https://badges.vencord.dev/badges/1239646546639851520/1-fb475fb634490eeaea2a25a5d72bee52b7e6baa8.png"
         },
         {
-            "name": "andreXbabacan",
-            "badge": "https://badges.vencord.dev/badges/1239646546639851520/2-aa77c9948e06e2f745bbc30d1d6ae8cfa6e404cf.png"
-        },
-        {
             "name": "priv cheat hunter",
             "badge": "https://badges.vencord.dev/badges/1239646546639851520/3-26bfd2d0c3bf2614a0455b62dd2f79c2a1c69cf1.png"
         },
@@ -25,8 +21,12 @@
             "badge": "https://badges.vencord.dev/badges/1239646546639851520/7-94f0f1a60d382283a77a60ddfcbf671a99368615.png"
         },
         {
-            "name": "oceantr <3",
-            "badge": "https://badges.vencord.dev/badges/1239646546639851520/7-29f1dd547692c5cae8066b845900e884132c4d19.png"
+            "name": "ocean <3",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/6-29f1dd547692c5cae8066b845900e884132c4d19.png"
+        },
+        {
+            "name": "Verified",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/7-d19e2aa28ece48c39595bb10c4bde20755b22b41.png"
         }
     ]
 }
