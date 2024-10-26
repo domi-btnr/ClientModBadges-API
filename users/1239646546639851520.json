@@ -13,10 +13,6 @@
             "badge": "https://badges.vencord.dev/badges/1239646546639851520/3-26bfd2d0c3bf2614a0455b62dd2f79c2a1c69cf1.png"
         },
         {
-            "name": "loyal animals",
-            "badge": "https://badges.vencord.dev/badges/1239646546639851520/4-93a942c1f65db6ba7a349ec876fa4b5d442f12f9.png"
-        },
-        {
             "name": "soul impasse",
             "badge": "https://badges.vencord.dev/badges/1239646546639851520/5-396ac00c31e1ec147b60cfc3a0d41229700f4f49.gif"
         },
@@ -27,6 +23,10 @@
         {
             "name": "anticheat",
             "badge": "https://badges.vencord.dev/badges/1239646546639851520/7-94f0f1a60d382283a77a60ddfcbf671a99368615.png"
+        },
+        {
+            "name": "oceantr <3",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/7-29f1dd547692c5cae8066b845900e884132c4d19.png"
         }
     ]
 }

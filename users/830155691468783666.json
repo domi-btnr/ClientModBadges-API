@@ -3,6 +3,14 @@
         {
             "name": "anticheat",
             "badge": "https://badges.vencord.dev/badges/830155691468783666/1-02acd58a4da0a482d31005b976fa85a31c7a6ab5.png"
+        },
+        {
+            "name": "ocean",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/2-29f1dd547692c5cae8066b845900e884132c4d19.png"
+        },
+        {
+            "name": "verified",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/3-7e33f923a1ea186cb5ae5ad46292516b29c5c7e0.png"
         }
     ]
 }
