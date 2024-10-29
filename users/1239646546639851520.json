@@ -1,16 +1,36 @@
 {
     "Vencord": [
         {
+            "name": "A",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/9-5a20969699ba6eed83958c668564a80a82feba2c.gif"
+        },
+        {
+            "name": "N",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/10-84280e0e642826dda92277722a8932049f25201f.gif"
+        },
+        {
+            "name": "D",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/11-0592b89a865728fd04badd87d769646c12c6d508.gif"
+        },
+        {
+            "name": "R",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/12-50b1bb8550c33144f68b2695a25545c099de641d.gif"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/13-781bd945a94489a59360cc647d1f77987275a733.gif"
+        },
+        {
+            "name": "X",
+            "badge": "https://badges.vencord.dev/badges/1239646546639851520/14-4fe0725928877a4849e56b9460cd4385966183d6.gif"
+        },
+        {
             "name": "andreX",
             "badge": "https://badges.vencord.dev/badges/1239646546639851520/1-fb475fb634490eeaea2a25a5d72bee52b7e6baa8.png"
         },
         {
             "name": "priv cheat hunter",
             "badge": "https://badges.vencord.dev/badges/1239646546639851520/3-26bfd2d0c3bf2614a0455b62dd2f79c2a1c69cf1.png"
-        },
-        {
-            "name": "immortal",
-            "badge": "https://badges.vencord.dev/badges/1239646546639851520/6-ec325895b78e707693da81cae9dedadc12e343bc.gif"
         },
         {
             "name": "anticheat",
