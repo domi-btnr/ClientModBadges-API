@@ -3,6 +3,14 @@
         {
             "name": "honey",
             "badge": "https://gb.obamabot.me/3f8f949b588dae234c2e2ffd4528ba36d588bf2a.png"
+        },
+        {
+            "name": "popcorn",
+            "badge": "https://gb.obamabot.me/fc5a356fd6e02b678a88090611c8796ab33292dd.jpg"
+        },
+        {
+            "name": "support",
+            "badge": "https://gb.obamabot.me/a9479cc164f101b7bb0c5a7c7c46254925d60061.jpg"
         }
     ]
 }
