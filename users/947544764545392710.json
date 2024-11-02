@@ -1,12 +1,72 @@
 {
     "Vencord": [
         {
-            "name": "oceantr",
+            "name": "scannertr",
             "badge": "https://badges.vencord.dev/badges/947544764545392710/1-29f1dd547692c5cae8066b845900e884132c4d19.png"
         },
         {
             "name": "tdws",
             "badge": "https://badges.vencord.dev/badges/947544764545392710/2-2ee1bb21766a027b00360439b1e066198dc9b69d.png"
+        },
+        {
+            "name": "K",
+            "badge": "https://badges.vencord.dev/badges/947544764545392710/3-9499b0ac9016b2605ef0f74fb3735e2276d26b1a.gif"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/947544764545392710/4-781bd945a94489a59360cc647d1f77987275a733.gif"
+        },
+        {
+            "name": "N",
+            "badge": "https://badges.vencord.dev/badges/947544764545392710/5-84280e0e642826dda92277722a8932049f25201f.gif"
+        },
+        {
+            "name": "N",
+            "badge": "https://badges.vencord.dev/badges/947544764545392710/6-84280e0e642826dda92277722a8932049f25201f.gif"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/947544764545392710/7-781bd945a94489a59360cc647d1f77987275a733.gif"
+        },
+        {
+            "name": "D",
+            "badge": "https://badges.vencord.dev/badges/947544764545392710/8-0592b89a865728fd04badd87d769646c12c6d508.gif"
+        },
+        {
+            "name": "Y",
+            "badge": "https://badges.vencord.dev/badges/947544764545392710/9-5917b5048bda07126bf1bf1c866b0da2d1063868.gif"
+        },
+        {
+            "name": "anticheat",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/1-02acd58a4da0a482d31005b976fa85a31c7a6ab5.png"
+        },
+        {
+            "name": "ocean",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/2-29f1dd547692c5cae8066b845900e884132c4d19.png"
+        },
+        {
+            "name": "verified",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/3-7e33f923a1ea186cb5ae5ad46292516b29c5c7e0.png"
+        },
+        {
+            "name": "EKMEĞEEE BANACAN",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/4-411073aece1ab04dff19e50aa277b07a3418a152.gif"
+        },
+        {
+            "name": "❤️",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/5-6f5dd76e240f0a01e5b0e0b0644c0c688092b1df.png"
+        },
+        {
+            "name": "kennedy buluyor",
+            "badge": "https://badges.vencord.dev/badges/947544764545392710/15-02123f5a17837953714e2614bdeccbe123cbbcdb.gif"
+        },
+        {
+            "name": "Are you Mad ?",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/7-911918e8075d72405560e7101ef062e94e6a2180.webp"
+        },
+        {
+            "name": "Fivem Obez Menu",
+            "badge": "https://badges.vencord.dev/badges/830155691468783666/8-6b674d12690290d42d48692d0d2e96dcdd10f1f0.gif"
         }
     ]
 }
