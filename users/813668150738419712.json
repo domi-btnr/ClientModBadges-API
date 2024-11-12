@@ -1,0 +1,28 @@
+{
+    "Vencord": [
+        {
+            "name": "F",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/1-2f2d4e02687a9ed6bf007c82371c980bb100aee4.gif"
+        },
+        {
+            "name": "R",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/2-50b1bb8550c33144f68b2695a25545c099de641d.gif"
+        },
+        {
+            "name": "O",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/3-ba13519a77b0e4ee9a0456617ba4c2f17aa57dd6.gif"
+        },
+        {
+            "name": "Z",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/4-04a36036681ab4f6346269f6ed0258c14022260b.gif"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/5-781bd945a94489a59360cc647d1f77987275a733.gif"
+        },
+        {
+            "name": "N",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/6-84280e0e642826dda92277722a8932049f25201f.gif"
+        }
+    ]
+}
