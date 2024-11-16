@@ -7,6 +7,26 @@
         {
             "name": "sila",
             "badge": "https://badges.vencord.dev/badges/622069560970969148/2-55157667b902a4b9e909a1d7161ff849d8b8b501.gif"
+        },
+        {
+            "name": "um wróci",
+            "badge": "https://badges.vencord.dev/badges/622069560970969148/3-8d1835f66f972ca3d07dd998f494a14f077c9959.png"
+        },
+        {
+            "name": "umstore",
+            "badge": "https://badges.vencord.dev/badges/622069560970969148/4-53091d6132ad67b56814f96425974b6724d35c0a.gif"
+        },
+        {
+            "name": "vsc",
+            "badge": "https://badges.vencord.dev/badges/622069560970969148/5-52f4db8c6984ba5e55b30eb9aa27e93c25ba51b5.png"
+        },
+        {
+            "name": "svelte",
+            "badge": "https://badges.vencord.dev/badges/622069560970969148/6-fffe871f2c3b28c6a626c7d1953af5b561b8df73.png"
+        },
+        {
+            "name": "qbox",
+            "badge": "https://badges.vencord.dev/badges/622069560970969148/7-538e389102103bb320f738e5f9f356fec8292c43.webp"
         }
     ]
 }
