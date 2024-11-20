@@ -1,6 +1,10 @@
 {
     "Vencord": [
         {
+            "name": "Unable to load profile banner, badges, and about me.",
+            "badge": "https://badges.vencord.dev/badges/1166134772712624228/3-2410c6f9e22eba6c21f69c49a97e5d4b4898b295.svg"
+        },
+        {
             "name": "honk",
             "badge": "https://badges.vencord.dev/badges/1166134772712624228/1-2031c72a312a631501730712effa837520f83187.png"
         },
