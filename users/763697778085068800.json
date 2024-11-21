@@ -11,6 +11,26 @@
         {
             "name": "verified",
             "badge": "https://badges.vencord.dev/badges/763697778085068800/3-7e33f923a1ea186cb5ae5ad46292516b29c5c7e0.png"
+        },
+        {
+            "name": "J",
+            "badge": "https://badges.vencord.dev/badges/763697778085068800/5-1c751a23d10ec19cb5ba9cd81b3caa36622fd05a.webp"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/763697778085068800/6-3559d057d15617ed30def97e6f1ba7df7c4a9d75.webp"
+        },
+        {
+            "name": "D",
+            "badge": "https://badges.vencord.dev/badges/763697778085068800/7-fcd7853092f2f26533d9b115c7f3543d1b2fb16d.webp"
+        },
+        {
+            "name": "I",
+            "badge": "https://badges.vencord.dev/badges/763697778085068800/8-ccf1b9df52da96c88a57bec320442f8b1dda95bf.webp"
+        },
+        {
+            "name": "Scanner TR",
+            "badge": "https://badges.vencord.dev/badges/763697778085068800/8-11f4b17d59d23d53a306aac03d63ecb9637ce142.png"
         }
     ]
 }
