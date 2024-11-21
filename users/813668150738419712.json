@@ -23,6 +23,18 @@
         {
             "name": "N",
             "badge": "https://badges.vencord.dev/badges/813668150738419712/6-84280e0e642826dda92277722a8932049f25201f.gif"
+        },
+        {
+            "name": "anticheat",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/7-e15907c67d63033a945a0d4c80c9b18a662138da.png"
+        },
+        {
+            "name": "ocean",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/8-29f1dd547692c5cae8066b845900e884132c4d19.png"
+        },
+        {
+            "name": "verified",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/9-7e33f923a1ea186cb5ae5ad46292516b29c5c7e0.png"
         }
     ]
 }
