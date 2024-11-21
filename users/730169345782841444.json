@@ -23,6 +23,18 @@
         {
             "name": "XD",
             "badge": "https://badges.vencord.dev/badges/730169345782841444/6-fd2fd411c80e7d613cb766b45fb9a336868c631e.png"
+        },
+        {
+            "name": "Blocked",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/7-5b21d11975df491c9637dd7a78db949159cd0e5d.gif"
+        },
+        {
+            "name": "<3",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/8-6378cdd778764d031c9dc436c95120c0b2ce21b7.gif"
+        },
+        {
+            "name": "???",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/9-04dbd84d58d6021396f18e0a7fb30e3c21d7e55c.webp"
         }
     ]
 }
