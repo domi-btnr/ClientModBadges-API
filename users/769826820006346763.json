@@ -1,12 +1,16 @@
 {
     "Vencord": [
         {
-            "name": "Stoned",
-            "badge": "https://badges.vencord.dev/badges/769826820006346763/1-7419001090deb24eed47c71df06547d2001ba18a.png"
+            "name": "Respawn",
+            "badge": "https://badges.vencord.dev/badges/769826820006346763/1-19df946db07c0530ce3b3479a3d7533e50634a24.png"
         },
         {
             "name": "Elw?",
             "badge": "https://badges.vencord.dev/badges/769826820006346763/2-e2602e0ac008a04f7ba91f1432decf04f1a79f64.gif"
+        },
+        {
+            "name": "Diamond",
+            "badge": "https://badges.vencord.dev/badges/769826820006346763/3-84ab5f033ba9cb68738163afd9ea76fb97dd7517.png"
         }
     ]
 }
