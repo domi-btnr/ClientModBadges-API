@@ -1,6 +1,14 @@
 {
     "Vencord": [
         {
+            "name": ">",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/21-24f4d8133b748d57ae68fd36ed1cab679be3f5db.webp"
+        },
+        {
+            "name": "<",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/22-40c078fbc228deb8aa274078cc730c4df1905481.webp"
+        },
+        {
             "name": "F",
             "badge": "https://badges.vencord.dev/badges/813668150738419712/1-cdf0b2bc8f1bfe3c588dbce44d6a5133fbf0e5d6.webp"
         },
