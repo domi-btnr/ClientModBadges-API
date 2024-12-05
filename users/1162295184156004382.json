@@ -1,0 +1,15 @@
+{
+    "Aliucord": [
+        "donor"
+    ],
+    "BadgeVault": [
+        {
+            "name": "ether",
+            "badge": "https://gb.obamabot.me/e75aef52b90dec48c4a3058ce53a0348f77803f0.png"
+        },
+        {
+            "name": "bcd",
+            "badge": "https://gb.obamabot.me/c4f1b9e0c73a89672fda1a3e7f803263b00d2c31.png"
+        }
+    ]
+}

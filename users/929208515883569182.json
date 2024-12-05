@@ -1,0 +1,34 @@
+{
+    "BadgeVault": [
+        {
+            "name": "BLÅHAJ",
+            "badge": "https://gb.obamabot.me/ebffd08acf2b56b3f8dc2cc31174ef71a79c12f8.webp"
+        },
+        {
+            "name": "BLÅVINGAD",
+            "badge": "https://gb.obamabot.me/0afe9545eac845364992d36c3f3d8ba9b003b8b9.webp"
+        },
+        {
+            "name": "DJUNGELSKOG",
+            "badge": "https://gb.obamabot.me/4514de7602cf6028db9eede7d0ec3353cc09ff5e.webp"
+        },
+        {
+            "name": "You like boys dont you",
+            "badge": "https://gb.obamabot.me/af389a2f93e5bc026eaf5ee6766d052de3caacf5.png"
+        },
+        {
+            "name": "Shy",
+            "badge": "https://gb.obamabot.me/d2b29ac12b1677824b9a2728ba0d5ba7ee6af659.webp"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": ":3 girl",
+            "badge": "https://badges.vencord.dev/badges/929208515883569182/1-cbcd810312fb5db572288767912c597255584a36.png"
+        },
+        {
+            "name": "me watching you sleep",
+            "badge": "https://badges.vencord.dev/badges/929208515883569182/2-889c2b6471f2182eb3c9a59dfca84049d8c6db5b.png"
+        }
+    ]
+}

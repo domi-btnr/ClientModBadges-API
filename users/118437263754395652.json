@@ -1,0 +1,17 @@
+{
+    "Aliucord": [
+        "contributor",
+        "donor"
+    ],
+    "Vencord": [
+        "Contributor",
+        {
+            "name": "did you know? the cat",
+            "badge": "https://badges.vencord.dev/badges/118437263754395652/1-4d0fa088af32381e419c4b333b8e4366dedf8095.gif"
+        },
+        {
+            "name": "read if cute",
+            "badge": "https://badges.vencord.dev/badges/118437263754395652/2-90162a4a5d0fd7697afc679fba480bfd9ea74559.gif"
+        }
+    ]
+}

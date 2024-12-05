@@ -1,0 +1,19 @@
+{
+    "Aliucord": [
+        "donor",
+        {
+            "name": "Mewdeko Owner",
+            "badge": "https://aliucord.com/files/badges/users/280835732728184843/6d0f462ba500a4d037a430b73c4bfc3196a816fc.png"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "Mewdeko Owner",
+            "badge": "https://badges.vencord.dev/badges/280835732728184843/1-87207b3184cf1aad82bd823fa3df95ee87c1803d.png"
+        },
+        {
+            "name": "slava ukrainye",
+            "badge": "https://badges.vencord.dev/badges/280835732728184843/2-598696313c5b22ccde5cf28b4d3ac10ac08df296.webp"
+        }
+    ]
+}

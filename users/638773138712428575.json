@@ -1,0 +1,19 @@
+{
+    "Aliucord": [
+        "donor",
+        {
+            "name": "Daimyo",
+            "badge": "https://aliucord.com/files/badges/users/638773138712428575/8241d9599d9c959e5e80a64d98b59dc82796f714.png"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "Trooper",
+            "badge": "https://badges.vencord.dev/badges/638773138712428575/1-71f69aead59bbc6f224870b85626cb4feb037237.png"
+        },
+        {
+            "name": "Uncertified Discord Mod",
+            "badge": "https://badges.vencord.dev/badges/638773138712428575/2-d2a29c7a0e07a05bee5f75db3edfd7aca84be727.png"
+        }
+    ]
+}

@@ -1,5 +1,18 @@
 {
+    "BadgeVault": [
+        {
+            "name": "shiggy",
+            "badge": "https://gb.obamabot.me/8626829a3b08312cfb9dd21b3ced4aa4bdacaabd.gif"
+        }
+    ],
     "Enmity": [
         "contributor"
+    ],
+    "Vencord": [
+        "Contributor",
+        {
+            "name": "im so silly",
+            "badge": "https://badges.vencord.dev/badges/1167275288036655133/1-8e23300048d48e87848ff060e43c56fb834148e9.webp"
+        }
     ]
 }

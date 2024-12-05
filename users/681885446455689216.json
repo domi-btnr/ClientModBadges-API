@@ -1,0 +1,15 @@
+{
+    "Aliucord": [
+        "donor",
+        {
+            "name": "Aliucord Supporter",
+            "badge": "https://aliucord.com/files/badges/users/681885446455689216/1c6af0d91117f5a25c2c801e3d76b1cfae461705.png"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "Vencord Supporter",
+            "badge": "https://badges.vencord.dev/badges/681885446455689216/1-1c6af0d91117f5a25c2c801e3d76b1cfae461705.png"
+        }
+    ]
+}

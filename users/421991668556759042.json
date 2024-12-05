@@ -1,5 +1,28 @@
 {
+    "Aliucord": [
+        "donor",
+        {
+            "name": "Bug Creator",
+            "badge": "https://aliucord.com/files/badges/users/421991668556759042/4b140a64708b066da9cfeeb86a66390cf780a304.png"
+        }
+    ],
+    "BadgeVault": [
+        {
+            "name": "Shiggy (Vencord User)",
+            "badge": "https://gb.obamabot.me/04c3440cda5f86e0380fca6984ab499d71242094.gif"
+        },
+        {
+            "name": "Blåhja",
+            "badge": "https://gb.obamabot.me/4098dedffa206bb2d46cc26f6ee8090017d8fd85.gif"
+        }
+    ],
     "Enmity": [
         "supporter"
+    ],
+    "Vencord": [
+        {
+            "name": "Music Lover :3",
+            "badge": "https://badges.vencord.dev/badges/421991668556759042/1-4af13ec9674be0e992ed031655e57f7d47d4718d.gif"
+        }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Big Bear Hours",
+            "badge": "https://gb.obamabot.me/7eac911867deef3efe9b6cc0bc94c2ef7d5a2480.png"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "Certified Soft",
+            "badge": "https://badges.vencord.dev/badges/484503248816832531/1-3ad9234a146fa3bedd11473c219925819c51dc73.png"
+        },
+        {
+            "name": "Certified Moo",
+            "badge": "https://badges.vencord.dev/badges/484503248816832531/2-60074c85f4bd7fa5f77c5b6ea2aa24c8c747bdd9.png"
+        }
+    ]
+}

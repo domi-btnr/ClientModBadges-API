@@ -1,4 +1,11 @@
 {
+    "Aliucord": [
+        "donor",
+        {
+            "name": "shy",
+            "badge": "https://aliucord.com/files/badges/users/111344098438324224/77a22dd7834b56b65b6da4c4bd993b6aa72f3fd2.webp"
+        }
+    ],
     "Enmity": [
         "supporter",
         {
@@ -8,6 +15,12 @@
         {
             "name": "Kayden",
             "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/111344098438324224-2.gif"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "shy",
+            "badge": "https://badges.vencord.dev/badges/111344098438324224/1-c819e128b3be6c892e50d9f84c78f776575490af.gif"
         }
     ]
 }
