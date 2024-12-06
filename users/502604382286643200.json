@@ -3,6 +3,18 @@
         {
             "name": "H1",
             "badge": "https://badges.vencord.dev/badges/502604382286643200/1-0e5a5cfed77226688534d98d3542882ba79fa29b.png"
+        },
+        {
+            "name": "DST",
+            "badge": "https://badges.vencord.dev/badges/502604382286643200/2-72dcb1425989686d075a981dbb0e00392d47a294.webp"
+        },
+        {
+            "name": "DX",
+            "badge": "https://badges.vencord.dev/badges/502604382286643200/3-69ed50dca8276c1eb4cc3fa1277438e792813a6c.webp"
+        },
+        {
+            "name": "The Elite",
+            "badge": "https://badges.vencord.dev/badges/502604382286643200/4-5bbf1ad2d9ca41ec94f9c32fcc95b1b690d953cf.webp"
         }
     ]
 }
