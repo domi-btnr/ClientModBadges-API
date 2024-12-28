@@ -61,3 +61,10 @@ jobs:
           git add .
           git commit -m "Updated Badges" || exit 0
           git push
+
+  update-badges-for-api:
+    name: Update Badges for API
+    runs-on: self-hosted
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@master
