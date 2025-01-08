@@ -11,6 +11,14 @@
         {
             "name": "skech",
             "badge": "https://badges.vencord.dev/badges/1315159051591614526/3-324873cd99b04e6034e947fd14305379b51cddd5.webp"
+        },
+        {
+            "name": "scanner",
+            "badge": "https://badges.vencord.dev/badges/1315159051591614526/4-ffa1da7d21a29d40694035c6588cbd50686072e9.gif"
+        },
+        {
+            "name": "Admin",
+            "badge": "https://badges.vencord.dev/badges/1315159051591614526/5-823853a5f2f2aa468b9426dea609286c27758c12.webp"
         }
     ]
 }
