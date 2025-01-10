@@ -1,8 +1,8 @@
 {
     "Vencord": [
         {
-            "name": "suelo bypass",
-            "badge": "https://badges.vencord.dev/badges/896623761061724191/1-7ff352789dc97c1ab094c95ed575523c8ae874e9.png"
+            "name": "bypass",
+            "badge": "https://badges.vencord.dev/badges/896623761061724191/1-aebae3befcc4cf53a5071f00240d979884328202.gif"
         },
         {
             "name": "skech",
@@ -11,6 +11,10 @@
         {
             "name": "toprak hanbaş",
             "badge": "https://badges.vencord.dev/badges/896623761061724191/3-332fea7c9e87f17da654c6be279731fedd470faa.png"
+        },
+        {
+            "name": "suelo",
+            "badge": "https://badges.vencord.dev/badges/896623761061724191/4-a97c0c1e0ebd84bf059948841506c2ad6573248f.png"
         }
     ]
 }

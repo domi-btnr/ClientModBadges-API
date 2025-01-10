@@ -1,12 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "aoki",
-            "badge": "https://badges.vencord.dev/badges/721676990612242553/1-324873cd99b04e6034e947fd14305379b51cddd5.webp"
-        },
-        {
             "name": "scanner",
             "badge": "https://badges.vencord.dev/badges/721676990612242553/2-01ddb6737d5a34e91069574a30c467dde27676e1.gif"
+        },
+        {
+            "name": "aoki",
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/1-324873cd99b04e6034e947fd14305379b51cddd5.webp"
         }
     ]
 }

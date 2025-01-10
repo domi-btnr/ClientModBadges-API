@@ -3,6 +3,14 @@
         {
             "name": "MWBYTE",
             "badge": "https://badges.vencord.dev/badges/1052326772307411085/1-c58b84be61079cf8f25cd560e1205b90235199b8.png"
+        },
+        {
+            "name": "Verified",
+            "badge": "https://badges.vencord.dev/badges/1052326772307411085/2-db5993bf30f24463f0ce56ebbe7c2459e07bcf14.gif"
+        },
+        {
+            "name": "Computer Engineer",
+            "badge": "https://badges.vencord.dev/badges/1052326772307411085/3-cfe8fe3491c40311672df2f5365f11d6aea582eb.gif"
         }
     ]
 }
