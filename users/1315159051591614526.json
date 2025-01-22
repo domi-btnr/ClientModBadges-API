@@ -1,6 +1,18 @@
 {
     "Vencord": [
         {
+            "name": "M",
+            "badge": "https://badges.vencord.dev/badges/1315159051591614526/14-3ba9f320b54a86a8fbfbd4cca4c70fb7a7c9793c.gif"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/1315159051591614526/15-ba9f9b22cee484dc45ac25213b17e4e52e7d02a2.gif"
+        },
+        {
+            "name": "C",
+            "badge": "https://badges.vencord.dev/badges/1315159051591614526/16-33c2d935da9f2d0da2dfe2435e53689222db64d2.gif"
+        },
+        {
             "name": "mec",
             "badge": "https://badges.vencord.dev/badges/1315159051591614526/1-8b9a155bacfdd87689475a59ba4e0145c26107ca.gif"
         },
