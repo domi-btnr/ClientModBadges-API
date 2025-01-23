@@ -1,24 +1,40 @@
 {
     "Vencord": [
         {
-            "name": "scanner",
-            "badge": "https://badges.vencord.dev/badges/721676990612242553/2-01ddb6737d5a34e91069574a30c467dde27676e1.gif"
+            "name": "A",
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/4-dac1a3d80bc56c1a895a07121365a4353d7cbc3a.gif"
+        },
+        {
+            "name": "O",
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/5-769c23f99b31671fb68c15b946388510c6dec816.gif"
+        },
+        {
+            "name": "K",
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/6-41fc855b28d5ee419d8160070e743dd87318c8b5.gif"
+        },
+        {
+            "name": "I",
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/7-ff44299f8fe5b8222e4233e76d1309c8e5951c00.gif"
+        },
+        {
+            "name": "Verified",
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/11-01ddb6737d5a34e91069574a30c467dde27676e1.gif"
         },
         {
             "name": "aoki",
-            "badge": "https://badges.vencord.dev/badges/721676990612242553/6-2f3f59d1750ec55b96e5e910f00fb985a71e414a.gif"
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/10-2f3f59d1750ec55b96e5e910f00fb985a71e414a.gif"
         },
         {
-            "name": "aoki",
-            "badge": "https://badges.vencord.dev/badges/721676990612242553/1-324873cd99b04e6034e947fd14305379b51cddd5.webp"
-        },
-        {
-            "name": "aoki",
-            "badge": "https://badges.vencord.dev/badges/721676990612242553/3-5e818c1bf5cfae3e2e43d35eb649e2861c13ba9f.webp"
+            "name": "skech",
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/9-324873cd99b04e6034e947fd14305379b51cddd5.webp"
         },
         {
             "name": "mec",
             "badge": "https://badges.vencord.dev/badges/721676990612242553/4-5e3f1c8239cc508d42922061a0c9d48015d0572a.webp"
+        },
+        {
+            "name": "aoki",
+            "badge": "https://badges.vencord.dev/badges/721676990612242553/8-25ee8b94b8e5993d3782abb12ffd0169e3208388.png"
         },
         {
             "name": "aoki",
