@@ -1,6 +1,34 @@
 {
     "Vencord": [
         {
+            "name": "s",
+            "badge": "https://badges.vencord.dev/badges/1018290650602553364/1-092a5e1c8db66d56db2c479462dcf55a3a3179d4.gif"
+        },
+        {
+            "name": "c",
+            "badge": "https://badges.vencord.dev/badges/1018290650602553364/2-33c2d935da9f2d0da2dfe2435e53689222db64d2.gif"
+        },
+        {
+            "name": "a",
+            "badge": "https://badges.vencord.dev/badges/1018290650602553364/3-5055b1f1467e727630f5f73b7ba884f5e37f7aaf.gif"
+        },
+        {
+            "name": "m",
+            "badge": "https://badges.vencord.dev/badges/1018290650602553364/4-3ba9f320b54a86a8fbfbd4cca4c70fb7a7c9793c.gif"
+        },
+        {
+            "name": "m",
+            "badge": "https://badges.vencord.dev/badges/1018290650602553364/5-3ba9f320b54a86a8fbfbd4cca4c70fb7a7c9793c.gif"
+        },
+        {
+            "name": "e",
+            "badge": "https://badges.vencord.dev/badges/1018290650602553364/6-ba9f9b22cee484dc45ac25213b17e4e52e7d02a2.gif"
+        },
+        {
+            "name": "r",
+            "badge": "https://badges.vencord.dev/badges/1018290650602553364/7-1265397465b6d5abaa32506fcd6e5f11afaf7c17.gif"
+        },
+        {
             "name": "fivehub.studio 🥶",
             "badge": "https://badges.vencord.dev/badges/1018290650602553364/1-811ec9d200ad9a533e0ad247034a1dae2275a8b8.png"
         },
