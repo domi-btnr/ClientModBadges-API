@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "Verified",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/1-db5993bf30f24463f0ce56ebbe7c2459e07bcf14.gif"
+        },
+        {
+            "name": "King",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/2-129fdd088f8e598f1daac50715b2544ac42b734d.png"
+        },
+        {
+            "name": "Ocean Owner",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/3-29f1dd547692c5cae8066b845900e884132c4d19.png"
+        },
+        {
+            "name": "Computer Engineer",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/4-72fc10180884b15ebce595648b7ff8920baff755.gif"
+        },
+        {
+            "name": "BTC",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/5-5bdcecdc96d0e622b773bd243de50d04933df2ae.webp"
+        }
+    ]
+}
