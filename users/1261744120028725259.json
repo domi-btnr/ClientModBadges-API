@@ -1,36 +1,32 @@
 {
     "Vencord": [
         {
-            "name": "A",
-            "badge": "https://badges.vencord.dev/badges/1261744120028725259/1-5055b1f1467e727630f5f73b7ba884f5e37f7aaf.gif"
-        },
-        {
-            "name": "E",
-            "badge": "https://badges.vencord.dev/badges/1261744120028725259/2-ba9f9b22cee484dc45ac25213b17e4e52e7d02a2.gif"
+            "name": "O",
+            "badge": "https://badges.vencord.dev/badges/1261744120028725259/1-ed7e9c234f230e5b02dc2f4732dba727a0703309.gif"
         },
         {
             "name": "W",
-            "badge": "https://badges.vencord.dev/badges/1261744120028725259/3-9266ef9e6e1ba6512b86e13f31b28afba2197d38.gif"
+            "badge": "https://badges.vencord.dev/badges/1261744120028725259/2-9266ef9e6e1ba6512b86e13f31b28afba2197d38.gif"
         },
         {
-            "name": "Aew",
-            "badge": "https://badges.vencord.dev/badges/1261744120028725259/4-95f431d5ac98016389cc437a1e1b3e46e4d2e086.webp"
+            "name": "S",
+            "badge": "https://badges.vencord.dev/badges/1261744120028725259/3-092a5e1c8db66d56db2c479462dcf55a3a3179d4.gif"
         },
         {
-            "name": "rol3x",
-            "badge": "https://badges.vencord.dev/badges/1261744120028725259/5-71242e923fc404a7e0a999d76bfb7c8a065731c1.webp"
+            "name": "L",
+            "badge": "https://badges.vencord.dev/badges/1261744120028725259/4-e595eff79ab0f8fecca44ba42878e590bc5481c0.gif"
         },
         {
-            "name": "BIG BOSS",
-            "badge": "https://badges.vencord.dev/badges/1261744120028725259/6-6f8c6581405950daed9c9b3f0bc3da39776087c2.png"
+            "name": "A",
+            "badge": "https://badges.vencord.dev/badges/1261744120028725259/5-5055b1f1467e727630f5f73b7ba884f5e37f7aaf.gif"
         },
         {
-            "name": "Lua Dev",
-            "badge": "https://badges.vencord.dev/badges/1261744120028725259/7-b74ba5f175d6c78c3188a6a36e4ccdf51f7de98a.webp"
+            "name": "Germany",
+            "badge": "https://badges.vencord.dev/badges/1261744120028725259/6-1a8edb7520cb812fd35996134ae823fe8ade03d9.svg"
         },
         {
-            "name": "Codebase",
-            "badge": "https://badges.vencord.dev/badges/1261744120028725259/8-ea7bd0ee01a55bdfde0629ae925f33aca730cd7f.webp"
+            "name": "Scanner",
+            "badge": "https://badges.vencord.dev/badges/1261744120028725259/7-04590893949b1ae342638b6843eb6551e7e26578.png"
         }
     ]
 }
