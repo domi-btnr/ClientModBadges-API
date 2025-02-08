@@ -19,6 +19,38 @@
         {
             "name": "BTC",
             "badge": "https://badges.vencord.dev/badges/1098295684349833276/5-5bdcecdc96d0e622b773bd243de50d04933df2ae.webp"
+        },
+        {
+            "name": "V",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/6-396bd1bd68b2233486515c130f4af0056839aaf9.webp"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/7-d428d4d29432fc787d56356bafdbff6279ba62b3.gif"
+        },
+        {
+            "name": "R",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/8-a1eb0082f12385181a65d48b8c89bfc31a336048.gif"
+        },
+        {
+            "name": "F",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/9-7fdb4d0fd924acf2d190bc180d8ee1249079cfb7.gif"
+        },
+        {
+            "name": "I",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/10-04f481b740801e2dab0326aaca6d57c3715e694a.gif"
+        },
+        {
+            "name": "R",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/11-a1eb0082f12385181a65d48b8c89bfc31a336048.gif"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/12-d428d4d29432fc787d56356bafdbff6279ba62b3.gif"
+        },
+        {
+            "name": "D",
+            "badge": "https://badges.vencord.dev/badges/1098295684349833276/13-c3db12a480b2989f044060976a534c98babfb0e7.gif"
         }
     ]
 }
