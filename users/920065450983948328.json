@@ -1,12 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "Discord Legend",
+            "name": "Legend",
             "badge": "https://badges.vencord.dev/badges/920065450983948328/1-39a47307cdb7cfef9652c6d222cddec169e2fd07.png"
         },
         {
-            "name": "Guardian",
-            "badge": "https://badges.vencord.dev/badges/920065450983948328/2-626c0184c9ef9dbac47c09e79591ca7af6e42eeb.gif"
+            "name": "Server Protector",
+            "badge": "https://badges.vencord.dev/badges/920065450983948328/2-eec42ca31d1c311333472508e86e43b0021229f4.png"
         }
     ]
 }
