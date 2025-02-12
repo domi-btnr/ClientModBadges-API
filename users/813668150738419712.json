@@ -1,40 +1,44 @@
 {
     "Vencord": [
         {
-            "name": ">",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/21-24f4d8133b748d57ae68fd36ed1cab679be3f5db.webp"
-        },
-        {
-            "name": "<",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/22-40c078fbc228deb8aa274078cc730c4df1905481.webp"
-        },
-        {
             "name": "F",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/1-cdf0b2bc8f1bfe3c588dbce44d6a5133fbf0e5d6.webp"
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/1-07877540cea39e68796187e4e5d8521ca1b6770d.png"
         },
         {
             "name": "R",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/2-b5978896ccaddc35297d8591d3311ce9bf498354.webp"
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/2-6389973586cebb9b7c4e7454ac6a5c3ab2d73a46.png"
         },
         {
             "name": "O",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/3-60ce9e4e834da48aca6edad21bf9f510ef4404ee.webp"
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/3-f41b1996c083b836863c8e7ceb5520c0e3b3b3a9.png"
         },
         {
             "name": "Z",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/4-03f0aa32d40bd17ec802a41e1fa3e0b92396436e.webp"
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/4-3fd5d8e4b4fd214deed2f769e1fd4ac420ce723f.png"
         },
         {
             "name": "E",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/5-800a1aab3d1b6b5d717de447ac38751c5cd66497.webp"
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/5-d94da9405155b9cb6b3ecc4c61b6f9075cb42dfe.png"
         },
         {
             "name": "N",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/6-3f4c11f746f1d6eb8ecc5efa06a14a12202f8a36.webp"
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/6-d61a7fc94532eda0ad757734c80b75114693a6aa.png"
         },
         {
-            "name": "Scanner TR",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/17-11f4b17d59d23d53a306aac03d63ecb9637ce142.png"
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/7-56f3364c594c4c08ec5abdcda6fbf28d2bd4abfa.webp"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/8-6c77274799c040083da0ac7dfd6925cdb16b5f22.webp"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/9-0e6614e7a5042167f1cd8d87a5578944e51e112d.webp"
+        },
+        {
+            "name": "Anti Cheat",
+            "badge": "https://badges.vencord.dev/badges/813668150738419712/13-2faa48cf7dc218589bd90d8c04bd37aacd0880fe.png"
         },
         {
             "name": "anticheat",
@@ -49,36 +53,8 @@
             "badge": "https://badges.vencord.dev/badges/813668150738419712/9-7e33f923a1ea186cb5ae5ad46292516b29c5c7e0.png"
         },
         {
-            "name": "Frozen Hile Buluyor.",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/10-e33a415d96be588d4d4cf750fc51e4ea1be1ec51.png"
-        },
-        {
-            "name": "Frozen ❤️  AndreX",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/11-b3f9ea1be74def2f4c2d312cc3a92ecdac1ec3b4.png"
-        },
-        {
             "name": "KJJJJJJ",
             "badge": "https://badges.vencord.dev/badges/813668150738419712/12-625bd6be261f99064234f2254e1e3c3b95b3ad84.webp"
-        },
-        {
-            "name": "Priv Cheat Hunter",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/13-463bf7984a896b0dafc3212663293e01403460d6.webp"
-        },
-        {
-            "name": "Successful",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/15-8fd3d44d0497521324d52e8859a912708bbbc480.webp"
-        },
-        {
-            "name": "Detected",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/16-73d1fc751406b819afc7bb337fad63f26adb76f5.webp"
-        },
-        {
-            "name": "Donate",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/17-69a327c472b9bf51223554f0fa90fdc3d17c6afd.webp"
-        },
-        {
-            "name": "WIN",
-            "badge": "https://badges.vencord.dev/badges/813668150738419712/18-b83c0d4c408fd6a66bfabe2d8041d78e4288a4a7.webp"
         },
         {
             "name": "King",
