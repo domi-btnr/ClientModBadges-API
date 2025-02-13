@@ -1,0 +1,10 @@
+services:
+  api:
+    container_name: ClientModBadges-Api
+    build: .
+    ports:
+      - "5050:5050"
+    volumes:
+      - ./badges:/app/badges
+      - ./users:/app/users
+    restart: unless-stopped

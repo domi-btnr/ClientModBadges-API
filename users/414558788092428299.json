@@ -8,5 +8,11 @@
             "name": "Hello!",
             "badge": "https://gb.obamabot.me/eec8cb25bf138cdaf0dddd1eabe8b4f27e789256.gif"
         }
+    ],
+    "Vencord": [
+        {
+            "name": "Rave",
+            "badge": "https://badges.vencord.dev/badges/414558788092428299/1-dd2f7035a4ff621c06a5f7435449f484bd13b362.gif"
+        }
     ]
 }

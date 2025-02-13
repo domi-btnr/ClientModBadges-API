@@ -12,6 +12,12 @@ This API allows you to retrieve user badges for various discord client mods.
 - [Replugged](https://github.com/replugged-org/replugged)
 - [Vencord](https://github.com/Vendicated/Vencord)
 
+### API URL
+
+```
+https://api.domi-btnr.dev/clientmodbadges/
+```
+
 ### Endpoints
 
 `/users/:userId` Returns the badges for the user
