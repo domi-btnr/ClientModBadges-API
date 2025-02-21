@@ -2,19 +2,23 @@
     "Vencord": [
         {
             "name": "XD",
-            "badge": "https://badges.vencord.dev/badges/392331933301866499/1-0a8aa94f20f9ac27b943665143b544c02435b223.gif"
+            "badge": "https://badges.vencord.dev/badges/392331933301866499/1-9287c822738bd3b5541d5bd9027f39cc8ebbc5e5.gif"
         },
         {
             "name": "wheredoweallgo?",
-            "badge": "https://badges.vencord.dev/badges/392331933301866499/2-4da6bef2757c33a1133447d1c3642ae6e3b07b44.gif"
+            "badge": "https://badges.vencord.dev/badges/392331933301866499/2-382d8764077865902144544e9049e60e663f9cd8.gif"
         },
         {
             "name": "c418",
-            "badge": "https://badges.vencord.dev/badges/392331933301866499/3-5d67f7c333d80e5860b75faf72ba6391d97532ca.gif"
+            "badge": "https://badges.vencord.dev/badges/392331933301866499/3-a049715cc07b9ac625451c8b76a6f6262f39b18f.gif"
         },
         {
             "name": "icu",
-            "badge": "https://badges.vencord.dev/badges/392331933301866499/4-165a4fd4c32f4ddf0ad7a31a8142667c9a478fbf.gif"
+            "badge": "https://badges.vencord.dev/badges/392331933301866499/4-c3acacb1e625bbdfbbe58159f1a0d9cd21dfdb53.gif"
+        },
+        {
+            "name": "hey",
+            "badge": "https://badges.vencord.dev/badges/392331933301866499/5-db4e44d90b1fb31da988e04098774c8b7faf0c39.gif"
         }
     ]
 }
