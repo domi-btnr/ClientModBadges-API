@@ -2,7 +2,11 @@
     "Vencord": [
         {
             "name": "Verified",
-            "badge": "https://badges.vencord.dev/badges/929460278238797875/1-e50296fb0668a106b1b42dfd601a08e1e57d7c47.png"
+            "badge": "https://badges.vencord.dev/badges/929460278238797875/1-c6d18301cfef19faa338746d54d745c708dffb94.png"
+        },
+        {
+            "name": "kwt",
+            "badge": "https://badges.vencord.dev/badges/929460278238797875/2-a95883092da7297425ea2644dfbc6a8ddec4db1f.png"
         }
     ]
 }
