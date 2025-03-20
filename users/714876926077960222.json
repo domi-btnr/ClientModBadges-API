@@ -3,6 +3,18 @@
         {
             "name": "Purple Fire",
             "badge": "https://gb.obamabot.me/d49f012f96d589b4c32379503b32543f524b49a4.gif"
+        },
+        {
+            "name": "Beserker",
+            "badge": "https://gb.obamabot.me/efc1fc51254ffdb333c785a8edc17efb365940bd.png"
+        },
+        {
+            "name": "Anarchist",
+            "badge": "https://gb.obamabot.me/1dd4999fb4ed748b90efefb7eea79eb908e1f97a.png"
+        },
+        {
+            "name": "Smooth",
+            "badge": "https://gb.obamabot.me/edecaabef825996dea736983e5c4bb364d9fc479.gif"
         }
     ]
 }
