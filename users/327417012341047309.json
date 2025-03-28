@@ -1,5 +1,11 @@
 {
     "Aliucord": [
         "donor"
+    ],
+    "Vencord": [
+        {
+            "name": "husk",
+            "badge": "https://badges.vencord.dev/badges/327417012341047309/1-8768c8bcb37ce625434fa9eccc29eee0a17672a1.png"
+        }
     ]
 }
