@@ -1,24 +1,24 @@
 {
     "Vencord": [
         {
-            "name": "elveen",
-            "badge": "https://badges.vencord.dev/badges/1334969808558751784/1-599d972e91774f42c04b46d7d69096936dec02f0.gif"
-        },
-        {
-            "name": "die",
-            "badge": "https://badges.vencord.dev/badges/1334969808558751784/2-0abd4549dd91317ca3e5636e03ca85bfbf8b9da1.webp"
-        },
-        {
             "name": "yves",
             "badge": "https://badges.vencord.dev/badges/1334969808558751784/3-c1fcb41da3792f2cd96f6ca24d15cf32edef0676.png"
         },
         {
             "name": "1312",
-            "badge": "https://badges.vencord.dev/badges/1334969808558751784/4-ef361d8c66d774a44ad6e45f3b8875dc7a32fc78.png"
+            "badge": "https://badges.vencord.dev/badges/1334969808558751784/2-b86a1551ae7d1a3f66fb85a4fb72ccd4d22ccb31.png"
+        },
+        {
+            "name": "die",
+            "badge": "https://badges.vencord.dev/badges/1334969808558751784/4-0abd4549dd91317ca3e5636e03ca85bfbf8b9da1.webp"
         },
         {
             "name": "siktir git diggy",
             "badge": "https://badges.vencord.dev/badges/1334969808558751784/5-79efbd354a455b1dd8473a3a29cc2286956aa052.gif"
+        },
+        {
+            "name": "elveen",
+            "badge": "https://badges.vencord.dev/badges/1334969808558751784/5-49d6ef9edeb5f64a6e4adb9f5de54de1c1428e1c.gif"
         }
     ]
 }
