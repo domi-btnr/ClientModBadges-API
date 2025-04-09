@@ -5,7 +5,6 @@ export const CLIENT_MODS = {
     ALIUCORD: "Aliucord",
     BETTERDISCORD: "BetterDiscord",
     BADGE_VAULT: "BadgeVault",
-    OPTI: "Opti",
     ENMITY: "Enmity",
     VENCORD: "Vencord"
 };
