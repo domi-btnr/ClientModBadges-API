@@ -45,9 +45,6 @@ jobs:
       - name: Update BadgeVault Badges
         run: node scripts/getBadgeVaultBadges.mjs
         
-      - name: Update Opti Badges
-        run: node scripts/getOptiBadges.mjs
-        
       - name: Update Enmity Badges
         run: node scripts/getEnmityBadges.mjs
 
