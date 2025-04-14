@@ -25,6 +25,10 @@
         {
             "name": "Verified",
             "badge": "https://badges.vencord.dev/badges/224015846878609409/5-89015964c788468f65529fb22e8a73f2bc7527cf.webp"
+        },
+        {
+            "name": "Forte",
+            "badge": "https://badges.vencord.dev/badges/224015846878609409/6-be2cdfc36eebf900613faf37b10132bb75d6969c.png"
         }
     ]
 }
