@@ -1,8 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "la plage",
+            "name": "La Plage",
             "badge": "https://badges.vencord.dev/badges/1143546955520299030/1-1dc1426c9929570b64b4ad8b52ed7ee0c6d1f574.gif"
+        },
+        {
+            "name": "let's go",
+            "badge": "https://badges.vencord.dev/badges/1143546955520299030/2-55123cc17d1fae154b45c2ffe5fc44d97247dea5.gif"
         }
     ]
 }
