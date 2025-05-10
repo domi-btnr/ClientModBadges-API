@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "Sexy",
+            "badge": "https://badges.vencord.dev/badges/1071285922953445488/1-2f256d488b8f8e8069a61b94bc0b58203b74f709.png"
+        },
+        {
+            "name": "Kitty",
+            "badge": "https://badges.vencord.dev/badges/1071285922953445488/2-8753d2f923cd5aecb9000063a9af56e769ec2a96.gif"
+        },
+        {
+            "name": "kawaii",
+            "badge": "https://badges.vencord.dev/badges/1071285922953445488/3-a2d6e2bd65a08435551a8faed3a4bdaa2b53eb15.gif"
+        },
+        {
+            "name": "uwu",
+            "badge": "https://badges.vencord.dev/badges/1071285922953445488/4-33d0ee6c2d9f453dd25c3efc653fada835292f17.png"
+        },
+        {
+            "name": "cute",
+            "badge": "https://badges.vencord.dev/badges/1071285922953445488/5-9349ecdf5d2717afebadf25ed1397718da0f37d1.png"
+        }
+    ]
+}

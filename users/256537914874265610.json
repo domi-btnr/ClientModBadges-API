@@ -67,6 +67,46 @@
         {
             "name": "owo",
             "badge": "https://badges.vencord.dev/badges/256537914874265610/17-12e820c749460f9eb35c847e4ee4eee6934b1a73.gif"
+        },
+        {
+            "name": "star",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/18-24fe14aa3a1749b0efed9237241cf14bc7161285.gif"
+        },
+        {
+            "name": "cross",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/19-e6ca3b42cfcb144758a3ad0b8dee76684b103d68.png"
+        },
+        {
+            "name": "uwu",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/20-b095ae9669a3cf10c749e00d1026d258d642bd0f.webp"
+        },
+        {
+            "name": "owo",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/21-aa7b4d5451c050967305fffdb20b8b3d22db7cb2.png"
+        },
+        {
+            "name": "meow",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/22-2cbc1ddc6233fac78a2dfc62869a3066dc418aef.png"
+        },
+        {
+            "name": "xx",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/23-16b2c38295f0c616f3b82b414efd585299f2c945.png"
+        },
+        {
+            "name": "star",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/24-d6b94670a75e932d24c56ce66dd07805210620e4.png"
+        },
+        {
+            "name": "heart",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/25-013f468312eaed40fabc1537a155910dd0986959.png"
+        },
+        {
+            "name": "meow",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/26-64cfa5759833a0868567c09a4b08d251bead1fe0.png"
+        },
+        {
+            "name": "love",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/27-2d23b712e50d98d51cb526e8a6b238837c9e345c.gif"
         }
     ]
 }
