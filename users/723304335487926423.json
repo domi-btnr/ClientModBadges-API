@@ -2,7 +2,27 @@
     "Vencord": [
         {
             "name": "uhq",
-            "badge": "https://badges.vencord.dev/badges/723304335487926423/1-d37be1838af7ed9f48cd7bd9f10955c1fbe80307.gif"
+            "badge": "https://badges.vencord.dev/badges/723304335487926423/1-6978758e13295667f3f3794804c3119335a2335e.webp"
+        },
+        {
+            "name": "1337",
+            "badge": "https://badges.vencord.dev/badges/723304335487926423/2-430b09b3296d428213c0d69e05d5118e559fa7c6.webp"
+        },
+        {
+            "name": "guns.lol/tzx",
+            "badge": "https://badges.vencord.dev/badges/723304335487926423/3-5aa3c2e8c30d4ce1b26c26090705b5181ad771d7.png"
+        },
+        {
+            "name": "VBV",
+            "badge": "https://badges.vencord.dev/badges/723304335487926423/4-c1f5b78c46266836e1da60608eb85e1b4e624fbc.webp"
+        },
+        {
+            "name": "3DSecure",
+            "badge": "https://badges.vencord.dev/badges/723304335487926423/5-10d453243adaacf2977a6b7f56a43f89e5f2f377.webp"
+        },
+        {
+            "name": "/backup",
+            "badge": "https://badges.vencord.dev/badges/723304335487926423/6-3ba5c0fe86b294c8d6d936a8e09e5174505984c3.webp"
         }
     ]
 }
