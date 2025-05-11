@@ -107,6 +107,42 @@
         {
             "name": "love",
             "badge": "https://badges.vencord.dev/badges/256537914874265610/27-2d23b712e50d98d51cb526e8a6b238837c9e345c.gif"
+        },
+        {
+            "name": "kitty",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/28-f024f92789bc7d659d5471cb3e678584a56bfbec.gif"
+        },
+        {
+            "name": "ww",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/29-5c35702179ca12126e4fd37a9e9771f97d02c19b.gif"
+        },
+        {
+            "name": "paws",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/30-b4779f17fc66e02f90a054bd756a71c223f0b2ce.png"
+        },
+        {
+            "name": "wings",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/31-480a734d88d6246a02a7f5e7ce765c5fb0bfa58a.webp"
+        },
+        {
+            "name": "cross",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/32-e6ca3b42cfcb144758a3ad0b8dee76684b103d68.png"
+        },
+        {
+            "name": "meow",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/33-bdcb48ff1119f6ee72932f32246fd64dabb5e6fe.gif"
+        },
+        {
+            "name": "angel",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/34-bcc58ae4123fc2910c07c6406f9f3ccbf3ce7773.png"
+        },
+        {
+            "name": "love",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/35-9f0da757ed42bcb5c2099964f371c4d649824847.png"
+        },
+        {
+            "name": "hk",
+            "badge": "https://badges.vencord.dev/badges/256537914874265610/36-98a3dd0f2c76ec91be26a98c0c176b5d585059e0.gif"
         }
     ]
 }
