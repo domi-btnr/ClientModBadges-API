@@ -1,5 +1,9 @@
 {
     "Vencord": [
-        "Contributor"
+        "Contributor",
+        {
+            "name": "Ultimate Slime",
+            "badge": "https://badges.vencord.dev/badges/138616536502894592/1-31cab5b032d5aab4a750f5c313267c6359937264.png"
+        }
     ]
 }
