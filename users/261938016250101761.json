@@ -131,6 +131,18 @@
         {
             "name": "Vencord Donor",
             "badge": "https://badges.vencord.dev/badges/261938016250101761/33-3c93beb3542a6e56b046db6de9cc483bb12aa7ff.png"
+        },
+        {
+            "name": "0",
+            "badge": "https://badges.vencord.dev/badges/261938016250101761/34-14f85a2b19d62c4096139e1d5947dae0a5d44182.png"
+        },
+        {
+            "name": "1",
+            "badge": "https://badges.vencord.dev/badges/261938016250101761/35-96408fc122f0decdc1858cf93a9fffffd2ed14bd.webp"
+        },
+        {
+            "name": "2",
+            "badge": "https://badges.vencord.dev/badges/261938016250101761/36-d9ec558aac1e0362a81b6b521593370299a73bc7.webp"
         }
     ]
 }
