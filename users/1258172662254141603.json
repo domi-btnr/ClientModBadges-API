@@ -20,5 +20,16 @@
             "name": "Fox",
             "badge": "https://gb.obamabot.me/03c9c6ed2a216d149bb955d673fe3c1cb1efbb4a.gif"
         }
+    ],
+    "Enmity": [
+        "supporter",
+        {
+            "name": "Bug Catcher",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1258172662254141603.png"
+        },
+        {
+            "name": "Netsphere Team",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1258172662254141603-2.png"
+        }
     ]
 }
