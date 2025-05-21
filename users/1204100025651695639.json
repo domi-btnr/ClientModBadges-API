@@ -1,4 +1,26 @@
 {
+    "BadgeVault": [
+        {
+            "name": "Silver Lion Connoisseur",
+            "badge": "https://gb.obamabot.me/36988091e666ca909e160a1a7c52aca30fab7a67.png"
+        },
+        {
+            "name": "Golden Eagle Entrepreneur",
+            "badge": "https://gb.obamabot.me/1dd988108e96662cdf60c5cd155143f3e040a25c.webp"
+        },
+        {
+            "name": "Snail Coin of Loyalty",
+            "badge": "https://gb.obamabot.me/6933316608e9f8b998779ae25da7d4b026cde9b1.webp"
+        },
+        {
+            "name": "Military Lover",
+            "badge": "https://gb.obamabot.me/24fdd7653e066b9274a2f4f0e67b2dfa83bbb8bd.png"
+        },
+        {
+            "name": "taken",
+            "badge": "https://gb.obamabot.me/e39ca045f53ee0c7d3aead2207ed7499767f7313.png"
+        }
+    ],
     "Vencord": [
         {
             "name": "Knight's Cross of the Iron Cross with Oak Leaves, Swords and Diamonds",
