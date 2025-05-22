@@ -1,16 +1,20 @@
 {
     "Vencord": [
         {
-            "name": "pika",
-            "badge": "https://badges.vencord.dev/badges/312473391963570176/1-d3fd49041a3dffd52e3499c3705740b952e5bb25.gif"
-        },
-        {
-            "name": "667",
-            "badge": "https://badges.vencord.dev/badges/312473391963570176/2-8283a2e21bb8c85b3a6a481261c2c339121059d0.webp"
-        },
-        {
             "name": "✔",
             "badge": "https://badges.vencord.dev/badges/312473391963570176/3-91df80e6f069292819888b990ff4838e16b02651.gif"
+        },
+        {
+            "name": "Sexcall",
+            "badge": "https://badges.vencord.dev/badges/312473391963570176/6-583abd28be1219ff2afd8892338293ad1d45f3e9.png"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/312473391963570176/8-a4019501b4ee0f1b232c6a8134164f9cf2344bd7.png"
+        },
+        {
+            "name": "/stealy",
+            "badge": "https://badges.vencord.dev/badges/312473391963570176/7-cb90b27bec2691e4d5f5cea9788fc9206ca6150f.gif"
         },
         {
             "name": "As",
@@ -21,12 +25,8 @@
             "badge": "https://badges.vencord.dev/badges/312473391963570176/5-c76d97774d9349abfa72b26c7792ea3142e8ffdf.webp"
         },
         {
-            "name": "Sexcall",
-            "badge": "https://badges.vencord.dev/badges/312473391963570176/6-583abd28be1219ff2afd8892338293ad1d45f3e9.png"
-        },
-        {
-            "name": "/stealy",
-            "badge": "https://badges.vencord.dev/badges/312473391963570176/7-cb90b27bec2691e4d5f5cea9788fc9206ca6150f.gif"
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/312473391963570176/9-a4019501b4ee0f1b232c6a8134164f9cf2344bd7.png"
         }
     ]
 }
