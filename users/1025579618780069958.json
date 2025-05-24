@@ -1,16 +1,24 @@
 {
     "Vencord": [
         {
-            "name": ".gg/66",
-            "badge": "https://badges.vencord.dev/badges/1025579618780069958/1-54ca5b04aa6b5584c629a18f7798db1fb9133846.gif"
+            "name": "T",
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/1-745a37a3e27c307facc94a63cc5cf21837305072.gif"
         },
         {
-            "name": "LATI❤︎",
-            "badge": "https://badges.vencord.dev/badges/1025579618780069958/2-92b3544bfcb42c80873a2f9db6321b9c6917c311.png"
+            "name": "O",
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/2-95cc9ba652112cba42e7e9892172f04a6a0997e4.gif"
         },
         {
-            "name": "vencord",
-            "badge": "https://badges.vencord.dev/badges/1025579618780069958/3-95d023a752f079b1aa38d1d0fec828bae5d1d4bd.gif"
+            "name": "Y",
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/3-a2e393cfb8a113eaf6d69ad459202413d2d1d3e4.gif"
+        },
+        {
+            "name": "A",
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/4-ada4856a20ed05872503c5b9d40ee073588a2464.gif"
+        },
+        {
+            "name": ".gg/hv",
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/5-712478294c0d737556fab5bc0f74c9487bca83ba.gif"
         }
     ]
 }
