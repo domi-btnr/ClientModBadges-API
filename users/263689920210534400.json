@@ -1,8 +1,7 @@
 {
     "Enmity": [
+        "dev",
+        "staff",
         "contributor"
-    ],
-    "Vencord": [
-        "Contributor"
     ]
 }
