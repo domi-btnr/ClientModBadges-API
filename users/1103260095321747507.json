@@ -1,8 +1,8 @@
 {
     "Vencord": [
         {
-            "name": "me stalk pas",
-            "badge": "https://badges.vencord.dev/badges/1103260095321747507/1-ea193cc04d1138ac7b681dfd0618cd53428f7afd.gif"
+            "name": "manipulator",
+            "badge": "https://badges.vencord.dev/badges/1103260095321747507/1-bbaeaf414dd8b2a4e06d2364431749e30dfa2570.png"
         },
         {
             "name": "/znk",
@@ -11,6 +11,10 @@
         {
             "name": ";)",
             "badge": "https://badges.vencord.dev/badges/1103260095321747507/3-83881e289a3ce2f876f24678209cc61211ea21b8.gif"
+        },
+        {
+            "name": "star",
+            "badge": "https://badges.vencord.dev/badges/1103260095321747507/4-e81fe020a2c666ece3d473a32f4c363abf077d4a.gif"
         }
     ]
 }
