@@ -1,8 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "Audio Maker",
-            "badge": "https://badges.vencord.dev/badges/873373878641102908/1-0be8b650538cffef22b70da0ef1d72553a8c9693.png"
+            "name": "Vencord Donor",
+            "badge": "https://badges.vencord.dev/badges/873373878641102908/1-3c93beb3542a6e56b046db6de9cc483bb12aa7ff.png"
+        },
+        {
+            "name": "Content Creator",
+            "badge": "https://badges.vencord.dev/badges/873373878641102908/2-3d7f21ce86cc671584ff21ab5cf4e15e2ffdb6c7.png"
         }
     ]
 }
