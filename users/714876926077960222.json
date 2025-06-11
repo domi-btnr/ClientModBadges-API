@@ -20,5 +20,11 @@
             "name": "Sharigan",
             "badge": "https://gb.obamabot.me/42a3c52d93930dce9a331ec24f3619241efcb7ef.gif"
         }
+    ],
+    "Vencord": [
+        {
+            "name": "Kylo",
+            "badge": "https://badges.vencord.dev/badges/714876926077960222/1-d291c68316c218b4af4f1f3975106d3100d1b46a.png"
+        }
     ]
 }
