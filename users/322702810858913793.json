@@ -17,20 +17,28 @@
             "badge": "https://badges.vencord.dev/badges/322702810858913793/4-906a80132bce6679440bf17ff8d9f67e9f006b0e.webp"
         },
         {
-            "name": "XD",
-            "badge": "https://badges.vencord.dev/badges/322702810858913793/5-9349a636511a08616f2621b1da3ba6f688f433e6.webp"
-        },
-        {
             "name": "Golden",
             "badge": "https://badges.vencord.dev/badges/322702810858913793/6-feb2b79fbb9824dfd0e11fee0d6465b5d9e12946.webp"
         },
         {
             "name": "Mastercard",
-            "badge": "https://badges.vencord.dev/badges/322702810858913793/7-448aae529b3dacb8f195f57de4c8941190491eb5.webp"
+            "badge": "https://badges.vencord.dev/badges/322702810858913793/6-a65e328cc79d2834edd1222a6dbf74b67725d05c.webp"
+        },
+        {
+            "name": "Paypal",
+            "badge": "https://badges.vencord.dev/badges/322702810858913793/7-c8261314021db1ce4065cee3417b40f2ea11d687.webp"
         },
         {
             "name": "Visa",
-            "badge": "https://badges.vencord.dev/badges/322702810858913793/8-a6adeaef0f066e499a4f8b2ddfceb55a2c2157da.webp"
+            "badge": "https://badges.vencord.dev/badges/322702810858913793/8-adf0d7e8ec1f0e510f668dfc5f2c5eaf5e720bc8.webp"
+        },
+        {
+            "name": "Pnex",
+            "badge": "https://badges.vencord.dev/badges/322702810858913793/9-5902bafd891b5429753358f270879e8f1ecce4b1.png"
+        },
+        {
+            "name": "Mec&Zendroys",
+            "badge": "https://badges.vencord.dev/badges/322702810858913793/10-dc1618f8bb6d32f6cbf2b168e748eb1b3597695d.webp"
         }
     ]
 }
