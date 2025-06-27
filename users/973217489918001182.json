@@ -1,12 +1,8 @@
 {
     "Vencord": [
         {
-            "name": "series",
-            "badge": "https://badges.vencord.dev/badges/973217489918001182/1-6be9a3e4cb51bd5f3609449ffc883b32a2475ffa.gif"
-        },
-        {
-            "name": "series",
-            "badge": "https://badges.vencord.dev/badges/973217489918001182/2-0abd4549dd91317ca3e5636e03ca85bfbf8b9da1.webp"
+            "name": "Verified",
+            "badge": "https://badges.vencord.dev/badges/973217489918001182/1-f074d345e5de3cc9ee10697b1cdeb49a64d67385.png"
         }
     ]
 }
