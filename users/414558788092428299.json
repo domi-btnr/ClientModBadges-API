@@ -1,4 +1,14 @@
 {
+    "BadgeVault": [
+        {
+            "name": "ᓚᘏᗢ",
+            "badge": "https://gb.obamabot.me/cedefd98ad26ac62917b3dc6bb964708a7e91a22.png"
+        },
+        {
+            "name": "Hello!",
+            "badge": "https://gb.obamabot.me/eec8cb25bf138cdaf0dddd1eabe8b4f27e789256.gif"
+        }
+    ],
     "Vencord": [
         {
             "name": "Rave",
