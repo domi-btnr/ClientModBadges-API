@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "Carder",
+            "badge": "https://badges.vencord.dev/badges/1106044573387599942/1-e6a72d7b8f418f8f4824a6bda32a92759f66a8cc.webp"
+        },
+        {
+            "name": "Tanınmış kişi",
+            "badge": "https://badges.vencord.dev/badges/1106044573387599942/2-7830d5b34e2dfab349c8f1a02c4c8bca754bd17e.webp"
+        },
+        {
+            "name": ".py",
+            "badge": "https://badges.vencord.dev/badges/1106044573387599942/3-5e864d33efc233f23650e8b29dea03f2fd405108.webp"
+        },
+        {
+            "name": "Visa",
+            "badge": "https://badges.vencord.dev/badges/1106044573387599942/4-c9f818c00e420b5508b4d4dd4776c1c94e8bfc91.png"
+        },
+        {
+            "name": "Mastercard",
+            "badge": "https://badges.vencord.dev/badges/1106044573387599942/5-ba2c55a40cd324bdb7b73404af8c6f9880f00f3d.png"
+        }
+    ]
+}
