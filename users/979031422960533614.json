@@ -1,7 +1,15 @@
 {
     "Vencord": [
         {
-            "name": "Tino Bot",
+            "name": "TinoLuTopu",
+            "badge": "https://badges.vencord.dev/badges/979031422960533614/2-a2110c9e31ce025e189e98d30427aa268947549b.webp"
+        },
+        {
+            "name": "Moderator of Security Bot",
+            "badge": "https://badges.vencord.dev/badges/979031422960533614/2-06b461643a0c7925b99db1a2c25a5abd1b3c7b57.png"
+        },
+        {
+            "name": "Owner & Developer of Tino Bot",
             "badge": "https://badges.vencord.dev/badges/979031422960533614/1-bdcc22182992379d13e3a23c54a5ad6a48c4d02e.webp"
         }
     ]
