@@ -1,8 +1,16 @@
 {
     "Vencord": [
         {
-            "name": "bat",
-            "badge": "https://badges.vencord.dev/badges/337885677486211073/1-164b157961bf359451be21b96d70e2fe08622cac.gif"
+            "name": "v",
+            "badge": "https://badges.vencord.dev/badges/337885677486211073/1-3dc823866b9fc9d26dd25ecb125d87e215aa2037.png"
+        },
+        {
+            "name": "0",
+            "badge": "https://badges.vencord.dev/badges/337885677486211073/2-ee8b43cc83073a6ed8a0cc5407b4098156775278.png"
+        },
+        {
+            "name": "e",
+            "badge": "https://badges.vencord.dev/badges/337885677486211073/3-1e79b798cc55db609fc31423086e5c88aabc970a.png"
         }
     ]
 }
