@@ -27,6 +27,26 @@
         {
             "name": "amazing profile",
             "badge": "https://badges.vencord.dev/badges/1265387434343006228/7-bc535583a0ff23d7c7661ce168998a98c7b87229.gif"
+        },
+        {
+            "name": "BMW",
+            "badge": "https://badges.vencord.dev/badges/1265387434343006228/8-c65c9647d746216b6478aac15f49b0d5d17b37fb.png"
+        },
+        {
+            "name": "Vencord Donor",
+            "badge": "https://badges.vencord.dev/badges/1265387434343006228/9-d71709ba2da6438c4575336932e9b25823b72dda.png"
+        },
+        {
+            "name": "UHQ",
+            "badge": "https://badges.vencord.dev/badges/1265387434343006228/10-d668c8ba5fda32fdfb06d76b3358004898f34552.webp"
+        },
+        {
+            "name": "monkey",
+            "badge": "https://badges.vencord.dev/badges/1265387434343006228/11-1d7f66faf5869efe0d7cf3dd6234c8df69eedf51.gif"
+        },
+        {
+            "name": "king",
+            "badge": "https://badges.vencord.dev/badges/1265387434343006228/12-96b7743c59f09cef38aec136d9fcadcd143e08d3.gif"
         }
     ]
 }
