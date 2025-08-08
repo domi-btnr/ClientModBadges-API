@@ -1,22 +1,6 @@
 {
     "Vencord": [
         {
-            "name": "Saynex",
-            "badge": "https://badges.vencord.dev/badges/983759120295428226/1-3675b796d5d43fc5e2d1d692403aeef420c5e6f7.gif"
-        },
-        {
-            "name": "Sxynex",
-            "badge": "https://badges.vencord.dev/badges/983759120295428226/2-fdf046b7ba27858d07c0e26f5f2f9e8e552b8f21.gif"
-        },
-        {
-            "name": "Šaýnẽx",
-            "badge": "https://badges.vencord.dev/badges/983759120295428226/3-b85a0e6d54345a2049ad436cdf48d1e5749436bb.gif"
-        },
-        {
-            "name": "Šxýnẽx",
-            "badge": "https://badges.vencord.dev/badges/983759120295428226/4-396ab7b220ee38dae92785fd876f849b239f2d6d.webp"
-        },
-        {
             "name": "S",
             "badge": "https://badges.vencord.dev/badges/983759120295428226/5-092a5e1c8db66d56db2c479462dcf55a3a3179d4.gif"
         },
@@ -39,6 +23,22 @@
         {
             "name": "X",
             "badge": "https://badges.vencord.dev/badges/983759120295428226/10-e46b788d95393bf17477724949239409a97d1368.gif"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/983759120295428226/7-841e048008ea9ff22179148b72dab7ac8809d027.webp"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/983759120295428226/8-5419dec381bba2ae00dbc8533dfc0d7659b95953.webp"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/983759120295428226/9-be96a897e353509b0034ebcc687afc18a003d25f.webp"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/983759120295428226/10-7a554b3e8afc3b8b045a9b300d610f83575c3458.webp"
         }
     ]
 }

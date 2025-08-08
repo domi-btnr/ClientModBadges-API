@@ -1,16 +1,8 @@
 {
     "Vencord": [
         {
-            "name": "manipulator",
-            "badge": "https://badges.vencord.dev/badges/1103260095321747507/1-bbaeaf414dd8b2a4e06d2364431749e30dfa2570.png"
-        },
-        {
             "name": "/znk",
             "badge": "https://badges.vencord.dev/badges/1103260095321747507/2-1670ee8e4f80b0c0abe8e8cc7b64dda9e24d0d24.webp"
-        },
-        {
-            "name": "ghost",
-            "badge": "https://badges.vencord.dev/badges/1103260095321747507/3-f55357a02a392d05b5d2125e01f8a1f4b88a9df1.gif"
         }
     ]
 }
