@@ -3,6 +3,18 @@
         {
             "name": "I use Arch, btw",
             "badge": "https://gb.obamabot.me/0aaa30a94d8ec95ea74e9f2fc8b97947340ef4a4.png"
+        },
+        {
+            "name": "Vulkan Enthusiast",
+            "badge": "https://gb.obamabot.me/7f0cf6351ca68f9d05c98fb88d1212841fc937b3.png"
+        },
+        {
+            "name": "OpenGL Enthusiast",
+            "badge": "https://gb.obamabot.me/e1f137c198242ba4d37d8995aeca9c51667cf579.png"
+        },
+        {
+            "name": "C++ Lover",
+            "badge": "https://gb.obamabot.me/54e94c0be386c8c01b3fb822cd407fb13d06341c.png"
         }
     ]
 }
