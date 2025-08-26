@@ -1,10 +1,6 @@
 {
     "Vencord": [
         {
-            "name": "ZKR",
-            "badge": "https://badges.vencord.dev/badges/300775671225909259/1-b3d2a67561e1c1f941f1f5718ec3cbf4435d3b86.gif"
-        },
-        {
             "name": "ltc",
             "badge": "https://badges.vencord.dev/badges/300775671225909259/2-f38eaf965eabd0ea518991efe8a09cd134597142.webp"
         },
@@ -19,10 +15,6 @@
         {
             "name": "card",
             "badge": "https://badges.vencord.dev/badges/300775671225909259/5-6e303149cad691c7137ec0c432c60d5a3e26a249.webp"
-        },
-        {
-            "name": "/Stealy",
-            "badge": "https://badges.vencord.dev/badges/300775671225909259/6-1be475ff1c804d6fc2c43046538d839a981fdf84.gif"
         }
     ]
 }
