@@ -13,20 +13,12 @@
             "badge": "https://badges.vencord.dev/badges/233893572233920512/3-b7a0146ed43d0a5195d6d2f19a827ac53ab57fb7.webp"
         },
         {
-            "name": "qlf",
-            "badge": "https://badges.vencord.dev/badges/233893572233920512/4-ec911dde4b5e43e3fb7fc23d6ddd1daadec4137b.webp"
-        },
-        {
             "name": "ltc",
             "badge": "https://badges.vencord.dev/badges/233893572233920512/5-bb206d7dbaa1212ef181556ee72eab6af3504756.webp"
         },
         {
             "name": "btc",
             "badge": "https://badges.vencord.dev/badges/233893572233920512/6-f07ba7e4fe49974ab9e5fbf20ad00c115c094e13.webp"
-        },
-        {
-            "name": "?",
-            "badge": "https://badges.vencord.dev/badges/233893572233920512/7-71bf75fa3070b65601449a5b1836ec4aa3d65899.webp"
         }
     ]
 }

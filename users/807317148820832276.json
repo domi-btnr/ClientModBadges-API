@@ -1,28 +1,8 @@
 {
     "Vencord": [
         {
-            "name": "verified",
-            "badge": "https://badges.vencord.dev/badges/807317148820832276/1-a767677c784e65ca46fbcb74ba9dc996c474745f.gif"
-        },
-        {
-            "name": "crypto payments",
-            "badge": "https://badges.vencord.dev/badges/807317148820832276/2-fcc0e7649815667bf66f7890cc17f77600a6871f.webp"
-        },
-        {
-            "name": "cards",
-            "badge": "https://badges.vencord.dev/badges/807317148820832276/3-be5485756cb47236fd98b3e2e43ee8bd76219548.gif"
-        },
-        {
-            "name": ".gg/nrw",
-            "badge": "https://badges.vencord.dev/badges/807317148820832276/4-600f6bbb013db18ab10756ccd29c163d60a04488.webp"
-        },
-        {
             "name": "​",
-            "badge": "https://badges.vencord.dev/badges/807317148820832276/5-9e5216ffe931490b9ff783107b3831e3be87246e.gif"
-        },
-        {
-            "name": "crex.rip",
-            "badge": "https://badges.vencord.dev/badges/807317148820832276/6-5fd1331f809193e7d81e740cc5f184d984306ce1.webp"
+            "badge": "https://badges.vencord.dev/badges/807317148820832276/1-5fd1331f809193e7d81e740cc5f184d984306ce1.webp"
         }
     ]
 }
