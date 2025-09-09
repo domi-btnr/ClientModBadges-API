@@ -3,6 +3,18 @@
         {
             "name": "js",
             "badge": "https://gb.obamabot.me/990f69c5b9ba6b30eacc9992ed19ccd5014651fd.png"
+        },
+        {
+            "name": "Python",
+            "badge": "https://gb.obamabot.me/e74606c672ed2d9c54dbaf9a0185935478b950d1.png"
+        },
+        {
+            "name": "Nighty",
+            "badge": "https://gb.obamabot.me/4d2a25dcbfa4284146a3b935db83d0ada3b52475.png"
+        },
+        {
+            "name": "Atlas",
+            "badge": "https://gb.obamabot.me/745f05ffc5b5870bbfb3153e1b1300ef96ab158e.webp"
         }
     ]
 }
