@@ -1,44 +1,16 @@
 {
     "Vencord": [
         {
-            "name": "CRY",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/1-a54aa23d8296fad3f03760aac156bb860993becc.gif"
+            "name": "Salazar",
+            "badge": "https://badges.vencord.dev/badges/1298760457317777430/2-cc86c1133ad70ce0d822e12b9cebf25f128eca74.webp"
         },
         {
-            "name": "babydev",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/2-a5197fafc66d6edebfa5407db6758f68c52f3396.png"
+            "name": "MyLove",
+            "badge": "https://badges.vencord.dev/badges/1298760457317777430/3-d3ce697aae30a9c62abcba15863768ab80fdcf3d.webp"
         },
         {
-            "name": "SKILL",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/3-57f92cb58576ba033b6e4f388109da0cdf448219.gif"
-        },
-        {
-            "name": "linux",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/4-8c298c83688d2a998012ae6199fa78c51e0826bd.png"
-        },
-        {
-            "name": "sad",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/5-f576e715b58e55bb06651f29c3dd290d946c429d.png"
-        },
-        {
-            "name": "grimakagod",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/6-64e51c1ffb2346ccc655d20aef264b138742f4c5.png"
-        },
-        {
-            "name": "noxi",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/7-0f9f187a75f9c559240a2e69944f3aa65266f2ac.png"
-        },
-        {
-            "name": "patpat",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/8-bf4215f72177914e373fb74a332db71e6eb8dffc.gif"
-        },
-        {
-            "name": "VINE",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/9-83c9ec3848b8606184d385d95c02360111b1de85.png"
-        },
-        {
-            "name": "HELLO",
-            "badge": "https://badges.vencord.dev/badges/1298760457317777430/10-81e6869b0924b9ee200d73da495925964f9676f4.gif"
+            "name": "Busmods",
+            "badge": "https://badges.vencord.dev/badges/1298760457317777430/4-a62b091b98060c8883d924da3169473848bfc130.webp"
         }
     ]
 }
