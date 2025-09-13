@@ -1,28 +1,52 @@
 {
     "Vencord": [
         {
-            "name": "w",
-            "badge": "https://badges.vencord.dev/badges/1018599624388386847/1-c83add98f0cb27fcb64636dd2533cf9eeb507dac.gif"
-        },
-        {
-            "name": "o",
-            "badge": "https://badges.vencord.dev/badges/1018599624388386847/2-1b263499189527986e800cbcd0e2bf57741a3c81.gif"
-        },
-        {
-            "name": "z",
-            "badge": "https://badges.vencord.dev/badges/1018599624388386847/3-6f212544be4158be34a49d5a8513124bfd7f371a.gif"
-        },
-        {
-            "name": "i",
-            "badge": "https://badges.vencord.dev/badges/1018599624388386847/4-130a421bbdea09992165cccb88748f1c02ca31c0.gif"
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/1-ec1ae055fd652091380a6dc4054ccaf11b01819a.gif"
         },
         {
             "name": "​",
-            "badge": "https://badges.vencord.dev/badges/1018599624388386847/5-6793d5e38df70e0204545f08258e73e7859973cc.png"
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/2-ed7e9c234f230e5b02dc2f4732dba727a0703309.gif"
         },
         {
             "name": "​",
-            "badge": "https://badges.vencord.dev/badges/1018599624388386847/6-f3a0c17417766fb6643eb72a26d952a692b71f66.gif"
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/3-adcd1913a58dcb91c95ec9cc8ba22a180b35ce6b.gif"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/4-e381fb7e5aaa23cfb90ae27cda50259ff379d176.gif"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/5-84861692b45ec45d61fb302ef65030bbbb61e9bd.webp"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/6-59d64a9e8f7be037f7bb75e8adfd16e9d1ec0a69.gif"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/7-039a85cdc3d8c9ba928b0d4b6471d07ecc6f3b40.png"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/8-02f466d3895e7a02efa9b29a9ddd168097024f8d.png"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/9-2f02dce43ec773ea43263960959caf3839439ccf.png"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/10-d3ee532d6d78bea94bff142415ecd2b635ab7f9a.png"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/11-2e649096e4495d291d8e88d2df155853c4c803d9.png"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/1018599624388386847/12-8dfb92ebf25ddbeb265aade2e691e52a7dbb048e.png"
         }
     ]
 }
