@@ -1,0 +1,16 @@
+{
+    "Vencord": [
+        {
+            "name": "Premium",
+            "badge": "https://badges.vencord.dev/badges/1363102929669587126/1-48b6597bffb58917793b4eb094001a3ce5ef2b20.png"
+        },
+        {
+            "name": "DMCA",
+            "badge": "https://badges.vencord.dev/badges/1363102929669587126/2-39a6cdae7a13bd53883f6e2a3e54bd6afbceeb63.png"
+        },
+        {
+            "name": "Roblox Developer",
+            "badge": "https://badges.vencord.dev/badges/1363102929669587126/3-304098d6b66dfc5121cff8cfe36cb11bdff191b2.png"
+        }
+    ]
+}
