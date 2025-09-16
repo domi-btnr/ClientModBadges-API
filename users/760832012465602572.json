@@ -1,24 +1,24 @@
 {
     "Vencord": [
         {
+            "name": "jownlated",
+            "badge": "https://badges.vencord.dev/badges/760832012465602572/1-8d0cd4ce14431076392e8931715b030f7f2454d3.gif"
+        },
+        {
             "name": "jownxrd",
-            "badge": "https://badges.vencord.dev/badges/760832012465602572/1-b631f9e5fa5452159c292ff4d2f68ff7ca827d85.webp"
+            "badge": "https://badges.vencord.dev/badges/760832012465602572/2-049295e8dd41c85c1b8cd690c837c2833efefac4.gif"
         },
         {
-            "name": "momentxrd",
-            "badge": "https://badges.vencord.dev/badges/760832012465602572/2-13a5b36d5c3ca260e94f7d78e05fb9cbb766649c.png"
-        },
-        {
-            "name": "114",
-            "badge": "https://badges.vencord.dev/badges/760832012465602572/3-b47c956d132c345773b0d94c131da853ca7ecce6.webp"
-        },
-        {
-            "name": "xrd",
-            "badge": "https://badges.vencord.dev/badges/760832012465602572/4-9f8fe58645c2b503bc03bc82626b23655a664307.png"
+            "name": "maymuş",
+            "badge": "https://badges.vencord.dev/badges/760832012465602572/3-eac9cc086bdd2778e94ac40245821b557f647940.gif"
         },
         {
             "name": "jownflex",
-            "badge": "https://badges.vencord.dev/badges/760832012465602572/5-82752db7af6c450926d8d5506b7460dbdd9e90c9.webp"
+            "badge": "https://badges.vencord.dev/badges/760832012465602572/4-3f14c4a46ba62209ecc32dd6fe69079b8050248a.webp"
+        },
+        {
+            "name": "teala",
+            "badge": "https://badges.vencord.dev/badges/760832012465602572/5-763a715db96401d7d3837465f9c418afe00cdf46.webp"
         }
     ]
 }
