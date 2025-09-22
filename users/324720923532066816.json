@@ -1,10 +1,6 @@
 {
     "Vencord": [
         {
-            "name": "​",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/1-4506afca6efd4252e917a382203d21f33289fe33.gif"
-        },
-        {
             "name": "W",
             "badge": "https://badges.vencord.dev/badges/324720923532066816/2-8eb8e8f8e73789dc88a0235ef20e2f4e91dfdff9.gif"
         },
@@ -37,18 +33,6 @@
             "badge": "https://badges.vencord.dev/badges/324720923532066816/9-6b8d1721e3ade7652f38f6d31baacc8a772be00a.gif"
         },
         {
-            "name": "​",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/10-4506afca6efd4252e917a382203d21f33289fe33.gif"
-        },
-        {
-            "name": "anlayamazsın",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/11-8aae25fdc8442af50b965f6e6e154395fdf62aa5.png"
-        },
-        {
-            "name": "ARMIS",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/12-837dcc6fae0e214e06627adb68c2f7a4cb1825c4.gif"
-        },
-        {
             "name": "yaznocap",
             "badge": "https://badges.vencord.dev/badges/324720923532066816/13-6c0989df01c48f1300ffb2a2f83777aa2c14aa9c.webp"
         },
@@ -75,30 +59,6 @@
         {
             "name": "ninja",
             "badge": "https://badges.vencord.dev/badges/324720923532066816/19-16701274574fb7ea4e88ea6a3c3e7682a0299a5d.webp"
-        },
-        {
-            "name": "MORTE",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/20-52f6ac9d05865e73b4f74ec2ee6afb6358d3a259.gif"
-        },
-        {
-            "name": "Pompa",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/21-69fb4e0071f6327d8397b732a1b53b6dbd89256a.gif"
-        },
-        {
-            "name": "Fake",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/22-ebd69193363b647c6d32d273ea248b23e9edbfbb.gif"
-        },
-        {
-            "name": "Strees",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/23-2ba0b5cb9787caf2f02c862ea33b84319c3462f6.gif"
-        },
-        {
-            "name": "Elu",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/24-17a98f2161cbf55cd355c76dc351f712e68dbfa0.png"
-        },
-        {
-            "name": "anlayamazsın",
-            "badge": "https://badges.vencord.dev/badges/324720923532066816/25-52a32e377a241fb3ac712859772e76bdac602d8e.png"
         }
     ]
 }
