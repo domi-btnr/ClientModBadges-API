@@ -8,5 +8,15 @@
             "name": "Transfeminine",
             "badge": "https://gb.obamabot.me/39ce0b5a89a0da6c054697aebc52d3cfe6cd3025.jpg"
         }
+    ],
+    "Vencord": [
+        {
+            "name": "Doughmination",
+            "badge": "https://badges.vencord.dev/badges/1025770042245251122/1-e8fcb619574b20d51d7188b7d35755f00460a14d.webp"
+        },
+        {
+            "name": "nerd.ts",
+            "badge": "https://badges.vencord.dev/badges/1025770042245251122/2-a9cb9d3a237db57006ebcc8baa84fc9fb738978c.webp"
+        }
     ]
 }
