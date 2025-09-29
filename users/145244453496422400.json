@@ -11,6 +11,38 @@
         {
             "name": "Verified",
             "badge": "https://badges.vencord.dev/badges/145244453496422400/3-3b30a49d23c96634f0bb7b2911db16562e754cc9.png"
+        },
+        {
+            "name": "Malware Analyzer",
+            "badge": "https://badges.vencord.dev/badges/145244453496422400/4-c7c64ffbf16a4f9fd5572dcee8107ce5ad58f8fd.webp"
+        },
+        {
+            "name": "Faceit 10 level",
+            "badge": "https://badges.vencord.dev/badges/145244453496422400/5-394395da169d3098714e2547b489c5dee25d750b.webp"
+        },
+        {
+            "name": "Bug Hunter",
+            "badge": "https://badges.vencord.dev/badges/145244453496422400/6-8ddb105b0212da5667b56a860c8c4f7b8d931b31.webp"
+        },
+        {
+            "name": "i love Argentina",
+            "badge": "https://badges.vencord.dev/badges/145244453496422400/7-d829e3ad853d57f2d8a7cb3317578419bea7e94e.webp"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/145244453496422400/8-a8fa3382e189c0be30192dd37f28315f098a6d8a.webp"
+        },
+        {
+            "name": "​",
+            "badge": "https://badges.vencord.dev/badges/145244453496422400/9-cb5f896493041cd9f3810d641eca5a569943e22a.webp"
+        },
+        {
+            "name": "Vencord Donor",
+            "badge": "https://badges.vencord.dev/badges/145244453496422400/10-7e3f5b26a66e588991cec92f140f6d1df22047f7.webp"
+        },
+        {
+            "name": "Vencord Donor",
+            "badge": "https://badges.vencord.dev/badges/145244453496422400/11-7e3f5b26a66e588991cec92f140f6d1df22047f7.webp"
         }
     ]
 }

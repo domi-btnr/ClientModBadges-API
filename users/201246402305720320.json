@@ -27,6 +27,22 @@
         {
             "name": "Verified",
             "badge": "https://badges.vencord.dev/badges/201246402305720320/3-3b30a49d23c96634f0bb7b2911db16562e754cc9.png"
+        },
+        {
+            "name": "10 years veteran player",
+            "badge": "https://badges.vencord.dev/badges/201246402305720320/8-d3a53bb638474523647a395b913c36f9c11f7129.gif"
+        },
+        {
+            "name": "Riot's trashy games",
+            "badge": "https://badges.vencord.dev/badges/201246402305720320/9-a3c7ac128210b5fde3c67a8264078b4e73f26387.webp"
+        },
+        {
+            "name": "나인의 신비로운 작업실",
+            "badge": "https://badges.vencord.dev/badges/201246402305720320/11-7153a9e54efec7bb48fdec56be4da5c56214dd66.webp"
+        },
+        {
+            "name": "Vencord Donor",
+            "badge": "https://badges.vencord.dev/badges/201246402305720320/10-7e3f5b26a66e588991cec92f140f6d1df22047f7.webp"
         }
     ]
 }
