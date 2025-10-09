@@ -1,0 +1,32 @@
+{
+    "Vencord": [
+        {
+            "name": "powered by bun",
+            "badge": "https://badges.vencord.dev/badges/945202900907470899/1-10ca2fa4ce10414ef8b83760cbfb3c5dc89eb098.png"
+        },
+        {
+            "name": "currently uses discord.js",
+            "badge": "https://badges.vencord.dev/badges/945202900907470899/2-b7d108072e7c74864b0335c2747c34ebba9a5f63.png"
+        },
+        {
+            "name": "open source on gitlab",
+            "badge": "https://badges.vencord.dev/badges/945202900907470899/3-56ef1329ce52ab72253fe4cfd7c5be0fb569de98.png"
+        },
+        {
+            "name": "Official iHorizon Bot",
+            "badge": "https://badges.vencord.dev/badges/945202900907470899/4-a7529b4e486861562037f8fe33538676e8a481bf.png"
+        },
+        {
+            "name": "We Support Palestine",
+            "badge": "https://badges.vencord.dev/badges/945202900907470899/5-92cd5b64a09e3d403cb3797c4b79b13ded6c4621.png"
+        },
+        {
+            "name": "Trans rights are human rights",
+            "badge": "https://badges.vencord.dev/badges/945202900907470899/6-70df81f50a4be789a36b95069a04e8ab3bfe2fe4.png"
+        },
+        {
+            "name": "Written in TypeScript",
+            "badge": "https://badges.vencord.dev/badges/945202900907470899/7-0d8a307e624ab53eca37be5d6bce73fbbca11faa.png"
+        }
+    ]
+}

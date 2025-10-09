@@ -1,0 +1,28 @@
+{
+    "Vencord": [
+        {
+            "name": "Yellow",
+            "badge": "https://badges.vencord.dev/badges/461981849405882368/1-fc79bb3e9ec39533cf902ed90737a9554429ff20.webp"
+        },
+        {
+            "name": "Mature",
+            "badge": "https://badges.vencord.dev/badges/461981849405882368/2-12ecec44eb9c20c6b34e691264aa304b321b273d.png"
+        },
+        {
+            "name": "Ambitious",
+            "badge": "https://badges.vencord.dev/badges/461981849405882368/3-3536300e2732cd05ec2a19fdbe6eb3fb54b2d0de.png"
+        },
+        {
+            "name": "Reliable",
+            "badge": "https://badges.vencord.dev/badges/461981849405882368/4-1080a95129c8ab0c2517b6c6718a01157d373b22.png"
+        },
+        {
+            "name": "Chill",
+            "badge": "https://badges.vencord.dev/badges/461981849405882368/5-02cf300ec8b5d51d1340756745f83b61f98e5775.png"
+        },
+        {
+            "name": "Blue",
+            "badge": "https://badges.vencord.dev/badges/461981849405882368/6-3dd299f2dc044340b96e7da6c456fba7b2f169c4.webp"
+        }
+    ]
+}

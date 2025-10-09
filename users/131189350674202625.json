@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "evil",
+            "badge": "https://badges.vencord.dev/badges/131189350674202625/1-da50ada0b8c9690f6aed0db6e22a40188f964218.gif"
+        },
+        {
+            "name": "drink",
+            "badge": "https://badges.vencord.dev/badges/131189350674202625/2-a79e47845e8ea5485d5996813fb880c941973ca5.gif"
+        },
+        {
+            "name": "h4ck",
+            "badge": "https://badges.vencord.dev/badges/131189350674202625/3-f4bb86c0aefb89a4f5f1d4e4907a7cf3a89c16d5.gif"
+        },
+        {
+            "name": "love",
+            "badge": "https://badges.vencord.dev/badges/131189350674202625/4-d548835dcfde7edcd8dd9b074e689b335671cbe4.gif"
+        },
+        {
+            "name": "waiting",
+            "badge": "https://badges.vencord.dev/badges/131189350674202625/5-3510f8d6328a6ebdca11235ef59d95f5127d5b5d.gif"
+        }
+    ]
+}

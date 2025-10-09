@@ -1,0 +1,16 @@
+{
+    "Vencord": [
+        {
+            "name": "power",
+            "badge": "https://badges.vencord.dev/badges/1093211720945782974/1-a4f9c6e8100646d7a453b38f97f1f1e32d182cc0.png"
+        },
+        {
+            "name": "moon",
+            "badge": "https://badges.vencord.dev/badges/1093211720945782974/2-06a78b961ac2760f6eb8baafa4db688fc4dfe5f1.png"
+        },
+        {
+            "name": "Vencord Donor",
+            "badge": "https://badges.vencord.dev/badges/1093211720945782974/3-3c93beb3542a6e56b046db6de9cc483bb12aa7ff.png"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "I love Austria",
+            "badge": "https://badges.vencord.dev/badges/854024514781315082/1-defc8064a6a6e2a05222e814ec773ddce0b1a45a.gif"
+        },
+        {
+            "name": "Web-Dev",
+            "badge": "https://badges.vencord.dev/badges/854024514781315082/2-4472d80f972cb4d07c0cc98781a7aecd68bc648f.webp"
+        },
+        {
+            "name": "Debian User",
+            "badge": "https://badges.vencord.dev/badges/854024514781315082/3-420f77f333f2e4dd00ffd994e9b657fc65b394c5.webp"
+        },
+        {
+            "name": "Server Manager",
+            "badge": "https://badges.vencord.dev/badges/854024514781315082/4-0d585f4348d958e976acc99f477066bbadef6a52.webp"
+        },
+        {
+            "name": "Meowcord",
+            "badge": "https://badges.vencord.dev/badges/854024514781315082/5-2b4dc2e4454b56bd8b2ca129b29635aeb39316ad.webp"
+        }
+    ]
+}

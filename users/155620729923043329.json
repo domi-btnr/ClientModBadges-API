@@ -1,5 +1,11 @@
 {
     "Enmity": [
         "supporter"
+    ],
+    "Vencord": [
+        {
+            "name": "The Big Cheese",
+            "badge": "https://badges.vencord.dev/badges/155620729923043329/1-4124b864606e5f7cb440c8310043bcc064612da0.gif"
+        }
     ]
 }
