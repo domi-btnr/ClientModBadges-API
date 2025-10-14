@@ -15,6 +15,22 @@
         {
             "name": "jesus",
             "badge": "https://badges.vencord.dev/badges/303231639658561547/4-bff1e8944ae45938924ee55d85ae30e8285354c8.webp"
+        },
+        {
+            "name": "car",
+            "badge": "https://badges.vencord.dev/badges/303231639658561547/5-581bf99773c3837e2dc2d28d70711624f340bb81.webp"
+        },
+        {
+            "name": "money",
+            "badge": "https://badges.vencord.dev/badges/303231639658561547/6-d527f24b1eefdabd44d59f6179a3f3f24c25ec28.webp"
+        },
+        {
+            "name": "ok",
+            "badge": "https://badges.vencord.dev/badges/303231639658561547/7-e32b50c47f01753547ded95278ad26471b9c363e.webp"
+        },
+        {
+            "name": "ich werde verfolgt",
+            "badge": "https://badges.vencord.dev/badges/303231639658561547/8-73f76c379cf0ac4046247aae71ea3127d39088b2.gif"
         }
     ]
 }
