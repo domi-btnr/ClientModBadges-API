@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "i did!",
-            "badge": "https://gb.obamabot.me/ebae2ef870b093dbc6c21ba9a3df80e8ba7cbc55.gif"
-        },
-        {
             "name": "sla",
             "badge": "https://gb.obamabot.me/08dbaad113dac55ecae0f68afdc792e462ee3ed1.webp"
         },
@@ -15,6 +11,14 @@
         {
             "name": "miss ya buddy o7",
             "badge": "https://gb.obamabot.me/56ccf09a350ab8e2b93bb1f9404174cc22af011c.png"
+        },
+        {
+            "name": "i use omarchy btw \"wow you're so cool ven!\" - you",
+            "badge": "https://gb.obamabot.me/4959ac2c43aaf21888e86b4d83d427277ce8e767.webp"
+        },
+        {
+            "name": "the queen",
+            "badge": "https://gb.obamabot.me/755920d25e479a6b0599404b6394a07041f0c3e3.webp"
         }
     ]
 }
