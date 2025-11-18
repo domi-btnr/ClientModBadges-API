@@ -1,0 +1,20 @@
+{
+    "Vencord": [
+        {
+            "name": "/nosuce",
+            "badge": "https://badges.vencord.dev/badges/530109156397547520/1-0f5d883882505e22a68ed3ce529d6d44597d7325.webp"
+        },
+        {
+            "name": "card",
+            "badge": "https://badges.vencord.dev/badges/530109156397547520/2-07aa0e3a9fe1244d4b1c62fc3960000d51046a85.webp"
+        },
+        {
+            "name": "kitty",
+            "badge": "https://badges.vencord.dev/badges/530109156397547520/3-f1b9668251efe617b79ad04c8713987618d4e0a5.webp"
+        },
+        {
+            "name": "candy",
+            "badge": "https://badges.vencord.dev/badges/530109156397547520/4-65349d5ef58c1ed435f64685651af27c59a297d1.webp"
+        }
+    ]
+}

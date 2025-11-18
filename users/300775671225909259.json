@@ -1,0 +1,20 @@
+{
+    "Vencord": [
+        {
+            "name": "ltc",
+            "badge": "https://badges.vencord.dev/badges/300775671225909259/2-f38eaf965eabd0ea518991efe8a09cd134597142.webp"
+        },
+        {
+            "name": "btc",
+            "badge": "https://badges.vencord.dev/badges/300775671225909259/3-87f04253b7208714bb17b7abdd87655eb57ebe03.webp"
+        },
+        {
+            "name": "paypal",
+            "badge": "https://badges.vencord.dev/badges/300775671225909259/4-7f33123dd609281cc5b23f01285f5a754df449da.webp"
+        },
+        {
+            "name": "card",
+            "badge": "https://badges.vencord.dev/badges/300775671225909259/5-6e303149cad691c7137ec0c432c60d5a3e26a249.webp"
+        }
+    ]
+}
