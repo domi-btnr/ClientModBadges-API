@@ -2,7 +2,11 @@
     "Vencord": [
         {
             "name": "Solo",
-            "badge": "https://badges.vencord.dev/badges/932400346104475649/7b8339ed9f09705c4edd48e84899335d5ca9002a.webp"
+            "badge": "https://badges.vencord.dev/badges/932400346104475649/f074d345e5de3cc9ee10697b1cdeb49a64d67385.png"
+        },
+        {
+            "name": "KwT",
+            "badge": "https://badges.vencord.dev/badges/932400346104475649/3d4a10d164c55fbdcdca86631a92b960e287ed4f.webp"
         }
     ]
 }
