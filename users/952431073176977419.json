@@ -11,6 +11,14 @@
         {
             "name": "I forgot",
             "badge": "https://gb.obamabot.me/352bf1e18805325d2f27fd3728766868578e7b5f.gif"
+        },
+        {
+            "name": "Developer",
+            "badge": "https://gb.obamabot.me/c3f5b1d649bdd7453f07b68ea526e31ad78aa2fb.png"
+        },
+        {
+            "name": "Canadian",
+            "badge": "https://gb.obamabot.me/2bb6eb24cf139fb4cb0b96305de4a50094a54b4c.png"
         }
     ]
 }
