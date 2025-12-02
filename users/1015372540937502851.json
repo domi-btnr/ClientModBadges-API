@@ -19,6 +19,18 @@
         {
             "name": "sidestore.io",
             "badge": "https://gb.obamabot.me/782b00b9c99cdc420d0ec74cde5ce5cb25b72a06.webp"
+        },
+        {
+            "name": "catkiss",
+            "badge": "https://gb.obamabot.me/100c741b8db07a629228907343a4ecbf0abdd28f.webp"
+        },
+        {
+            "name": "behave",
+            "badge": "https://gb.obamabot.me/debac48efd48ce2c31deadce8477b56ddff4d93e.webp"
+        },
+        {
+            "name": "rust",
+            "badge": "https://gb.obamabot.me/ba9d2012bb36ca2acbdf724fe7bfc6d9d3f5e4cd.png"
         }
     ],
     "Vencord": [
