@@ -11,6 +11,14 @@
         {
             "name": "<3",
             "badge": "https://badges.vencord.dev/badges/1163471012575318106/50cb1195dda54d257bcf4e200bcebb90e47f400d.gif"
+        },
+        {
+            "name": "love",
+            "badge": "https://badges.vencord.dev/badges/1163471012575318106/2f78a220b3f5420054fac5d2967fbb2f05b7f48e.gif"
+        },
+        {
+            "name": "kitten",
+            "badge": "https://badges.vencord.dev/badges/1163471012575318106/33cf846ae4cc5926d91ab0977d9fbe55999f75ab.gif"
         }
     ]
 }
