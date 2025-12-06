@@ -31,6 +31,10 @@
         {
             "name": "rust",
             "badge": "https://gb.obamabot.me/ba9d2012bb36ca2acbdf724fe7bfc6d9d3f5e4cd.png"
+        },
+        {
+            "name": "minion",
+            "badge": "https://gb.obamabot.me/13e349e04c4d87e042a5fd2b9106de1e8368afb8.png"
         }
     ],
     "Vencord": [
