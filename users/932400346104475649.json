@@ -1,12 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "Solo",
-            "badge": "https://badges.vencord.dev/badges/932400346104475649/f074d345e5de3cc9ee10697b1cdeb49a64d67385.png"
+            "name": "RealSolo",
+            "badge": "https://badges.vencord.dev/badges/932400346104475649/369b4d33058e0af46bea849971cbf6a6ef16cba9.webp"
         },
         {
-            "name": "KwT",
-            "badge": "https://badges.vencord.dev/badges/932400346104475649/3d4a10d164c55fbdcdca86631a92b960e287ed4f.webp"
+            "name": "Verified",
+            "badge": "https://badges.vencord.dev/badges/932400346104475649/e6aaa03229267da61a87b2636734f616e60a96e4.webp"
         }
     ]
 }
