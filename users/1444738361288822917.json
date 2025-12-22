@@ -1,8 +1,16 @@
 {
     "BadgeVault": [
         {
+            "name": "lvlown",
+            "badge": "https://gb.obamabot.me/52b4eed2358e251f8fd9656ac890098e016df1ff.png"
+        },
+        {
+            "name": "lvlea",
+            "badge": "https://gb.obamabot.me/f4718219162464e47e1180506a6b7561218c0094.png"
+        },
+        {
             "name": "lvlach",
-            "badge": "https://gb.obamabot.me/519d4e5ac9dd122f0ed71428bb0008d12fbc154e.png"
+            "badge": "https://gb.obamabot.me/879997dd282b12e16573bc301f07e98454eb6e29.png"
         }
     ]
 }
