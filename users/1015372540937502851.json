@@ -35,6 +35,10 @@
         {
             "name": "minion",
             "badge": "https://gb.obamabot.me/13e349e04c4d87e042a5fd2b9106de1e8368afb8.png"
+        },
+        {
+            "name": "poof",
+            "badge": "https://gb.obamabot.me/f6f105280d53d53781c51cf891213e0633ab0e4b.gif"
         }
     ],
     "Vencord": [
