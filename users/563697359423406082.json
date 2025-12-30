@@ -1,16 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "No, I don't feel love.",
-            "badge": "https://gb.obamabot.me/f22e002f0183d6c8dc3e84b9248456dc4c50e5ae.png"
-        },
-        {
             "name": "I'm an Airbender!",
             "badge": "https://gb.obamabot.me/1307d002b560efd3cc34626afc6a68568b6777c9.webp"
-        },
-        {
-            "name": "Floptropican",
-            "badge": "https://gb.obamabot.me/e5659297cfd9e2fa58ca10ab5bbff26771771d24.webp"
         }
     ]
 }
