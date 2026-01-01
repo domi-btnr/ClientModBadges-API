@@ -1,8 +1,16 @@
 {
     "Vencord": [
         {
-            "name": "discord.gg/elevated-services",
-            "badge": "https://badges.vencord.dev/badges/783120085186379837/1-0076213f0739b972f0d2ec3ec8bd7af31f7a8601.png"
+            "name": "discord.gg/elevated",
+            "badge": "https://badges.vencord.dev/badges/783120085186379837/0076213f0739b972f0d2ec3ec8bd7af31f7a8601.png"
+        },
+        {
+            "name": "The best to do it",
+            "badge": "https://badges.vencord.dev/badges/783120085186379837/a8818ae2fc62051725ba1b6c7029459ae315aaad.svg"
+        },
+        {
+            "name": "discord.gg/nebulahosting",
+            "badge": "https://badges.vencord.dev/badges/783120085186379837/8dcf6e3e49ff8977e19628c2e8951f331ea6c00f.webp"
         }
     ]
 }
