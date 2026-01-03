@@ -1,8 +1,24 @@
 {
     "Vencord": [
         {
-            "name": "​",
-            "badge": "https://badges.vencord.dev/badges/1363102929669587126/1-bc88e2b05e1681c7eaa120c11b54fc8ed827bf68.webp"
+            "name": "emin",
+            "badge": "https://badges.vencord.dev/badges/1363102929669587126/aebc9c88fc4e38c2d676d4d472d64e3facd9caeb.webp"
+        },
+        {
+            "name": "deniz",
+            "badge": "https://badges.vencord.dev/badges/1363102929669587126/1346e3a5ca9840d7f0c02da362a27ffadd7bd655.webp"
+        },
+        {
+            "name": "çelikel",
+            "badge": "https://badges.vencord.dev/badges/1363102929669587126/449a5d789a67b415d70063b59d7501affe85e13e.webp"
+        },
+        {
+            "name": "istanbul",
+            "badge": "https://badges.vencord.dev/badges/1363102929669587126/89a23fbd85dcbf22b0afe1e67404666556d6bde8.gif"
+        },
+        {
+            "name": "maltepe",
+            "badge": "https://badges.vencord.dev/badges/1363102929669587126/b67b588400e791cf6082899856ac6d0b3c96c07f.webp"
         }
     ]
 }
