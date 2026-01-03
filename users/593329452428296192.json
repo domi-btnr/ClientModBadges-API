@@ -19,6 +19,18 @@
         {
             "name": "scammer",
             "badge": "https://badges.vencord.dev/badges/593329452428296192/ae1c2258719869f38f3302712080b6aedc2df4ac.webp"
+        },
+        {
+            "name": "us100",
+            "badge": "https://badges.vencord.dev/badges/593329452428296192/792728d95b6469ab5066a65b961fd4835c137879.webp"
+        },
+        {
+            "name": "mason",
+            "badge": "https://badges.vencord.dev/badges/593329452428296192/100bb8f26ba294481713724041d4e7beb7badaa9.webp"
+        },
+        {
+            "name": "exness",
+            "badge": "https://badges.vencord.dev/badges/593329452428296192/8ed13e48a123a3eea6bba3e559068ae959a99e02.webp"
         }
     ]
 }
