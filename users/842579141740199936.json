@@ -1,0 +1,28 @@
+{
+    "BadgeVault": [
+        {
+            "name": "C#",
+            "badge": "https://gb.obamabot.me/dd720bc2881027ff7b03de0974942ed8bed2ccc8.png"
+        },
+        {
+            "name": "Smug",
+            "badge": "https://gb.obamabot.me/c2231143f3c99e332c11b756efa281f3da89e9f1.webp"
+        },
+        {
+            "name": "SCP",
+            "badge": "https://gb.obamabot.me/237036fb60f07c2e1ee273b0142d4e9afe509331.png"
+        },
+        {
+            "name": "Cheese",
+            "badge": "https://gb.obamabot.me/8bd8708f433ee98f3b57db7c056b65652eae9903.png"
+        },
+        {
+            "name": "Speed V",
+            "badge": "https://gb.obamabot.me/72fe7d1baf728ac50da6fa29dcd3b4b9612ad62e.png"
+        },
+        {
+            "name": "TypeScript",
+            "badge": "https://gb.obamabot.me/dbf6288ef1607687845f3c2ffc79fe09d6e70ef9.png"
+        }
+    ]
+}
