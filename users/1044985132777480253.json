@@ -1,10 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "N1 Wumpus Lover",
-            "badge": "https://gb.obamabot.me/694e01bccc1e0f93d76a4a37d8c2cabe95cd2cdb.png"
-        },
-        {
             "name": "Silly Fox",
             "badge": "https://gb.obamabot.me/dd67b91261ceccfef704588282b7d293c6cbfda8.gif"
         },
@@ -19,6 +15,10 @@
         {
             "name": "Spotify User",
             "badge": "https://gb.obamabot.me/5393d175ecf88ea7ea4d9a7ad00da146aa7078dd.png"
+        },
+        {
+            "name": "Tux",
+            "badge": "https://gb.obamabot.me/376d276e608d5226fa2ce2e15f3c89937f02baa3.png"
         }
     ]
 }
