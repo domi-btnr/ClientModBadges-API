@@ -1,4 +1,18 @@
 {
+    "BadgeVault": [
+        {
+            "name": "Dev Doughmination",
+            "badge": "https://gb.obamabot.me/eec2c23cbe5e1a8c4554cb386495b52d6d73db42.png"
+        },
+        {
+            "name": "#ArchBTW",
+            "badge": "https://gb.obamabot.me/6e75de753f51beedf78d797e4d1791a6608ef6c9.png"
+        },
+        {
+            "name": "Hytale Modder",
+            "badge": "https://gb.obamabot.me/b48b54e465a8cca2af7f1e4b7080dcf48d4adfaf.png"
+        }
+    ],
     "Vencord": [
         {
             "name": "Doughmination",
