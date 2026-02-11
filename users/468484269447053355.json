@@ -1,10 +1,6 @@
 {
     "Vencord": [
         {
-            "name": "KİNG",
-            "badge": "https://badges.vencord.dev/badges/468484269447053355/2-f01d92e28218d8deec8b2373a68432f8a935aa7e.webp"
-        },
-        {
             "name": "A",
             "badge": "https://badges.vencord.dev/badges/468484269447053355/a0f34894b3bfc3ff0bb1432c6d2ccfdcf6c30e2b.webp"
         },
@@ -26,23 +22,7 @@
         },
         {
             "name": "​",
-            "badge": "https://badges.vencord.dev/badges/468484269447053355/1e3607890af73feb6598dbdc845fd79d1098dc48.webp"
-        },
-        {
-            "name": "​",
-            "badge": "https://badges.vencord.dev/badges/468484269447053355/8464e3879f6be607a9339ff5d1f848493b5d85ff.webp"
-        },
-        {
-            "name": "​",
             "badge": "https://badges.vencord.dev/badges/468484269447053355/7d604a0d3091cce4090dbcbea9860de14c870866.webp"
-        },
-        {
-            "name": "​",
-            "badge": "https://badges.vencord.dev/badges/468484269447053355/4163635079967b99b50fff74e80d931e82224adc.webp"
-        },
-        {
-            "name": "​",
-            "badge": "https://badges.vencord.dev/badges/468484269447053355/b49e0dd4711e836db60448d9847246dfc3698eae.webp"
         }
     ]
 }
