@@ -2,7 +2,7 @@
     "Vencord": [
         {
             "name": "dux",
-            "badge": "https://badges.vencord.dev/badges/577914580353679360/b81b20fe88290b8d0363f951ca1a150b44cb0d90.webp"
+            "badge": "https://badges.vencord.dev/badges/577914580353679360/2b1a837d5fe19026a076d13ba9dba32d48cf0578.webp"
         },
         {
             "name": "1502",
@@ -11,6 +11,18 @@
         {
             "name": "life is good",
             "badge": "https://badges.vencord.dev/badges/577914580353679360/54b5cd34e598346546f5fd31b0da55abf03e7ea7.webp"
+        },
+        {
+            "name": "ghost",
+            "badge": "https://badges.vencord.dev/badges/577914580353679360/4bda3f30090aff31b3b20a73c112cfd9e3542367.webp"
+        },
+        {
+            "name": "05.03",
+            "badge": "https://badges.vencord.dev/badges/577914580353679360/b5215c8299ebf062eb593479f8e2357f227f4845.webp"
+        },
+        {
+            "name": "visa",
+            "badge": "https://badges.vencord.dev/badges/577914580353679360/a5464b0c0008a7d0f23aa08c958d38f9a5036a78.webp"
         }
     ]
 }
