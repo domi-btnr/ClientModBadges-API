@@ -1,24 +1,8 @@
 {
     "Vencord": [
         {
-            "name": "/stealy",
-            "badge": "https://badges.vencord.dev/badges/266336410838106112/1-7a8de5a61f343b91609cb42f0b11a2ef4b9cedfe.gif"
-        },
-        {
-            "name": "/profils",
-            "badge": "https://badges.vencord.dev/badges/266336410838106112/2-69393640d25a9b29de12aa4fc83936affbb798b4.webp"
-        },
-        {
-            "name": "pop",
-            "badge": "https://badges.vencord.dev/badges/266336410838106112/3-10a78d303ffe5649b34c960f8de296b117c702c9.webp"
-        },
-        {
             "name": "sleep",
             "badge": "https://badges.vencord.dev/badges/266336410838106112/4-fd4974da78a8cb06f9cc6e17b9cb87d44aee8c53.webp"
-        },
-        {
-            "name": "guns.lol/ij",
-            "badge": "https://badges.vencord.dev/badges/266336410838106112/5-754ed4bb152d6fb013a3dcbfab1d45b185c58f5e.png"
         }
     ]
 }

@@ -3,6 +3,18 @@
         {
             "name": "sleep",
             "badge": "https://badges.vencord.dev/badges/346393063284932618/1-6379ccaddc52911d03d5f0660e3fc7da845b3a60.webp"
+        },
+        {
+            "name": "akatsuki",
+            "badge": "https://badges.vencord.dev/badges/346393063284932618/fd834f87abbe0640e3a537e6d8f4c04225db3830.webp"
+        },
+        {
+            "name": "spider",
+            "badge": "https://badges.vencord.dev/badges/346393063284932618/95ce46915fd0a58daf41a95744612a877a60b479.webp"
+        },
+        {
+            "name": "elf",
+            "badge": "https://badges.vencord.dev/badges/346393063284932618/7fe11829c2eda4d546ccf3fd79e979037a45982d.webp"
         }
     ]
 }
