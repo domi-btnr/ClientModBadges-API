@@ -6,15 +6,23 @@
         },
         {
             "name": "akatsuki",
-            "badge": "https://badges.vencord.dev/badges/346393063284932618/fd834f87abbe0640e3a537e6d8f4c04225db3830.webp"
+            "badge": "https://badges.vencord.dev/badges/346393063284932618/febcd4455dd742c764c1519844dec27f948fb9ce.webp"
         },
         {
             "name": "spider",
             "badge": "https://badges.vencord.dev/badges/346393063284932618/95ce46915fd0a58daf41a95744612a877a60b479.webp"
         },
         {
-            "name": "elf",
+            "name": "qlf",
             "badge": "https://badges.vencord.dev/badges/346393063284932618/7fe11829c2eda4d546ccf3fd79e979037a45982d.webp"
+        },
+        {
+            "name": "lv",
+            "badge": "https://badges.vencord.dev/badges/346393063284932618/52bfbe1ffdc20e18d0989d81562bf3da2f94250c.gif"
+        },
+        {
+            "name": "money",
+            "badge": "https://badges.vencord.dev/badges/346393063284932618/13ccbc23b8895d6053e9cf305c0423d8cfec930d.webp"
         }
     ]
 }
