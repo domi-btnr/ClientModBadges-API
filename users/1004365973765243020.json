@@ -1,20 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "Sonic Fan",
-            "badge": "https://gb.obamabot.me/9be95d770cac8f6ccf8ac2475ad040ef8e296320.png"
-        },
-        {
-            "name": "LUAU Programmer",
-            "badge": "https://gb.obamabot.me/2b7b800312e9a81932ebc85113a49021ebc71379.png"
-        },
-        {
             "name": "LUA Programmer",
             "badge": "https://gb.obamabot.me/395569a1d2ddd5baba641e41b848507541fa7e06.png"
-        },
-        {
-            "name": "Outcome Memories Fan",
-            "badge": "https://gb.obamabot.me/e48d64fc3a08a6a9ef4ebaf14f0229210979d7ce.png"
         }
     ]
 }
