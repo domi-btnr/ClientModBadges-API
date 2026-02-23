@@ -1,10 +1,4 @@
 {
-    "BadgeVault": [
-        {
-            "name": "miko",
-            "badge": "https://gb.obamabot.me/8b7edde470ff694a2fae3165ea80b8d7dc5b6ee9.gif"
-        }
-    ],
     "Enmity": [
         "supporter",
         {
@@ -14,16 +8,6 @@
         {
             "name": "35P",
             "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/707320830387814531-2.gif"
-        }
-    ],
-    "Vencord": [
-        {
-            "name": "FreeWiFi is here",
-            "badge": "https://badges.vencord.dev/badges/707320830387814531/305e42d6d0f0d6b1641a7e642c1306082326fb9f.webp"
-        },
-        {
-            "name": "Hololive Fan",
-            "badge": "https://badges.vencord.dev/badges/707320830387814531/404e35614f89d0fc83408d68bc8c9c5b8f67f126.webp"
         }
     ]
 }
