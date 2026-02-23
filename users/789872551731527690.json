@@ -1,0 +1,18 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Kaveh",
+            "badge": "https://gb.obamabot.me/5adef8491a5539d454dc2bba732a02647e3a7c51.png"
+        },
+        {
+            "name": "Linux Mint User",
+            "badge": "https://gb.obamabot.me/6c22bb8a9bdcad759bbee975e0365602e587d1d3.png"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "Developer",
+            "badge": "https://badges.vencord.dev/badges/789872551731527690/1-8d7e56c6cf02ef9971864723f05094340592d19d.png"
+        }
+    ]
+}

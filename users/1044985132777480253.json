@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Silly Fox",
+            "badge": "https://gb.obamabot.me/dd67b91261ceccfef704588282b7d293c6cbfda8.gif"
+        },
+        {
+            "name": "wumpus king",
+            "badge": "https://gb.obamabot.me/8cb402f9c226ae73bfd0f96c46785b5a67405e56.webp"
+        },
+        {
+            "name": "Discord User",
+            "badge": "https://gb.obamabot.me/436b5f765b3ac75adf36c0008413a0a51ba095d3.jpg"
+        },
+        {
+            "name": "Spotify User",
+            "badge": "https://gb.obamabot.me/5393d175ecf88ea7ea4d9a7ad00da146aa7078dd.png"
+        },
+        {
+            "name": "Tux",
+            "badge": "https://gb.obamabot.me/376d276e608d5226fa2ce2e15f3c89937f02baa3.png"
+        }
+    ]
+}

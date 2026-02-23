@@ -1,0 +1,30 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Purple Fire",
+            "badge": "https://gb.obamabot.me/d49f012f96d589b4c32379503b32543f524b49a4.gif"
+        },
+        {
+            "name": "Beserker",
+            "badge": "https://gb.obamabot.me/efc1fc51254ffdb333c785a8edc17efb365940bd.png"
+        },
+        {
+            "name": "Anarchist",
+            "badge": "https://gb.obamabot.me/1dd4999fb4ed748b90efefb7eea79eb908e1f97a.png"
+        },
+        {
+            "name": "Cuphead",
+            "badge": "https://gb.obamabot.me/7c86951f41e9f9fb0a1abb8d5a9cbbeafc4979d6.png"
+        },
+        {
+            "name": "Sharigan",
+            "badge": "https://gb.obamabot.me/42a3c52d93930dce9a331ec24f3619241efcb7ef.gif"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "Kylo",
+            "badge": "https://badges.vencord.dev/badges/714876926077960222/1-4321b39220c728b2f98a1e1b21beeeb08b30988c.png"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "BadgeVault": [
+        {
+            "name": "5mark",
+            "badge": "https://gb.obamabot.me/7b62fff0d96320936a6609c3d0bf2289596d03cf.webp"
+        },
+        {
+            "name": "Novus ordo seclorum",
+            "badge": "https://gb.obamabot.me/91f7772226a0b5a0162eea0d9c6ea57ca4c3e577.png"
+        },
+        {
+            "name": "troll",
+            "badge": "https://gb.obamabot.me/ef2623db6aec57335421517731a63a164f91b3f3.png"
+        },
+        {
+            "name": "canna",
+            "badge": "https://gb.obamabot.me/f08f9b753a366c85acb9e1032716ef41deffeed6.png"
+        },
+        {
+            "name": "bolizei",
+            "badge": "https://gb.obamabot.me/1cf7ba5c86f222c58b5213164db243399d2f1159.webp"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "ROLLI",
+            "badge": "https://badges.vencord.dev/badges/150503338742382593/1-7daa1cc76af96472a707b542199ef40eb42d389d.webp"
+        }
+    ]
+}
