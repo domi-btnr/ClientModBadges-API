@@ -1,6 +1,22 @@
 {
     "Vencord": [
         {
+            "name": "V",
+            "badge": "https://badges.vencord.dev/badges/185120828222996480/7821002a0e99c6d0c7c4e480568fae7eff3479e3.webp"
+        },
+        {
+            "name": "O",
+            "badge": "https://badges.vencord.dev/badges/185120828222996480/a6ab4ebde28e261a7405078e4627baabe829e5fe.webp"
+        },
+        {
+            "name": "I",
+            "badge": "https://badges.vencord.dev/badges/185120828222996480/3e0959c4a00ada6ebec0aa6e4d150775bce64fae.webp"
+        },
+        {
+            "name": "D",
+            "badge": "https://badges.vencord.dev/badges/185120828222996480/c33ae435c4262638cf9ccd8fad62302132185a2b.webp"
+        },
+        {
             "name": "Forte",
             "badge": "https://badges.vencord.dev/badges/185120828222996480/1-a2084aa8d5c7b83f8ec0cb6a4688e07c40edf512.webp"
         },

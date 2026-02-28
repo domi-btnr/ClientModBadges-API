@@ -1,6 +1,22 @@
 {
     "Vencord": [
         {
+            "name": "V",
+            "badge": "https://badges.vencord.dev/badges/1105511057453240440/7821002a0e99c6d0c7c4e480568fae7eff3479e3.webp"
+        },
+        {
+            "name": "O",
+            "badge": "https://badges.vencord.dev/badges/1105511057453240440/a6ab4ebde28e261a7405078e4627baabe829e5fe.webp"
+        },
+        {
+            "name": "I",
+            "badge": "https://badges.vencord.dev/badges/1105511057453240440/3e0959c4a00ada6ebec0aa6e4d150775bce64fae.webp"
+        },
+        {
+            "name": "D",
+            "badge": "https://badges.vencord.dev/badges/1105511057453240440/c33ae435c4262638cf9ccd8fad62302132185a2b.webp"
+        },
+        {
             "name": "Raccoon Priv",
             "badge": "https://badges.vencord.dev/badges/1105511057453240440/50d5c58911e1c81786cf84d726fba92e14d5a4f5.svg"
         },
