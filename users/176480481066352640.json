@@ -1,4 +1,14 @@
 {
+    "BadgeVault": [
+        {
+            "name": "clippy",
+            "badge": "https://gb.obamabot.me/eba6f8ab7b6f7e6a368c34ea744aff79970d8d08.gif"
+        },
+        {
+            "name": "shrug.webp",
+            "badge": "https://gb.obamabot.me/174e6aa862aa140014ecd457fd5cc14f5b9d9fde.webp"
+        }
+    ],
     "Vencord": [
         {
             "name": "meow",

@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "pokémon",
+            "badge": "https://gb.obamabot.me/f0cfd5ca0ae5f1aff56538f14e43a02bfb618fc7.png"
+        },
+        {
+            "name": "mew",
+            "badge": "https://gb.obamabot.me/c0c390018baed25db566e8523c945cd24a5abcda.png"
+        },
+        {
+            "name": "mewtwo",
+            "badge": "https://gb.obamabot.me/3d53d626a37a7a8df219a90cc62816f508939047.png"
+        },
+        {
+            "name": "mega evo",
+            "badge": "https://gb.obamabot.me/0a6abaee1837b6dd04a3089d4d58d0f92830642f.png"
+        },
+        {
+            "name": "flower",
+            "badge": "https://gb.obamabot.me/42df5ac0fc5b9d6fc40d46f84ac94d22197ccaab.png"
+        }
+    ]
+}

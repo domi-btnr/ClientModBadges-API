@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "hacking",
+            "badge": "https://gb.obamabot.me/3c1e85a4f8c7190f0caa33ae98794d6bab334c38.png"
+        },
+        {
+            "name": "throwback",
+            "badge": "https://gb.obamabot.me/d791316ac988e81e2fb34a977886bf7b90446a1e.png"
+        },
+        {
+            "name": "kali",
+            "badge": "https://gb.obamabot.me/82ad62d86d10305f1ecfa66b99ed5b7440e248e6.png"
+        },
+        {
+            "name": "tryhackme",
+            "badge": "https://gb.obamabot.me/535c22cc777f0e59f9bb0099beecb4141922e1e5.png"
+        }
+    ]
+}

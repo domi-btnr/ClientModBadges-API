@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "prestige",
+            "badge": "https://gb.obamabot.me/15cec71bc44d1d9295acabc7f5c04a4d9dcf8d05.gif"
+        },
+        {
+            "name": "Shadow",
+            "badge": "https://gb.obamabot.me/666cff4be275596cb465916a09a6b4f0e5af063e.gif"
+        },
+        {
+            "name": "Shark Master",
+            "badge": "https://gb.obamabot.me/4a882e772ac2eb6115a8ae4771a5dc2c514039bb.jpg"
+        },
+        {
+            "name": "kamikaze",
+            "badge": "https://gb.obamabot.me/89c6c24d683ab0866eec2b6295c4c229a345d607.jpg"
+        },
+        {
+            "name": "AutoClicker User",
+            "badge": "https://gb.obamabot.me/28773b16aa83483213103bd59426cd890b105189.jpg"
+        }
+    ]
+}
