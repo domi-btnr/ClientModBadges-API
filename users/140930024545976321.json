@@ -1,12 +1,14 @@
 {
     "BadgeVault": [
         {
-            "name": "sisi3",
-            "badge": "https://gb.obamabot.me/ba39db8ab30997581e3e967f650ef35138d04930.png"
-        },
-        {
             "name": "OsuCelsius",
             "badge": "https://gb.obamabot.me/94baf240327c6d3aa5ac89985951d5fb7356439d.jpg"
+        }
+    ],
+    "Vencord": [
+        {
+            "name": "OsuCelsius",
+            "badge": "https://badges.vencord.dev/badges/140930024545976321/9486e16dd972d461d49acc8015670dc6ff22829f.webp"
         }
     ]
 }
