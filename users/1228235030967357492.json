@@ -1,8 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "A",
-            "badge": "https://badges.vencord.dev/badges/1228235030967357492/f51056114b02ae86e5350bafa30acd4dd0df40dd.webp"
+            "name": "angel",
+            "badge": "https://badges.vencord.dev/badges/1228235030967357492/63050ffd064bc85bcc0680fdc889a7eda0838d77.webp"
+        },
+        {
+            "name": "queen",
+            "badge": "https://badges.vencord.dev/badges/1228235030967357492/034de1636f54c40e9253a1ab1ddf76e9dad40331.webp"
         }
     ]
 }
