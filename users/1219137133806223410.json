@@ -1,20 +1,21 @@
 {
     "Vencord": [
         {
-            "name": "Code",
-            "badge": "https://badges.vencord.dev/badges/1219137133806223410/2-c806b063a277002936301049c6aa1ac1a559f25d.webp"
+            "name": "nevermiss",
+            "badge": "https://badges.vencord.dev/badges/1219137133806223410/be7aac090a2818155338b32704a4d211965dc8f1.webp"
         },
         {
-            "name": "reality surf",
-            "badge": "https://badges.vencord.dev/badges/1219137133806223410/3-439a2496a315302e90ca47f29d444119275a1794.webp"
+            "name": "code",
+            "badge": "https://badges.vencord.dev/badges/1219137133806223410/476a0d64dae81243b46ff717f8db1ddc5056b26c.webp"
         },
         {
-            "name": "Chase your dreams",
-            "badge": "https://badges.vencord.dev/badges/1219137133806223410/4-90ca0b71264399379eb14017f98c178072ccc5f8.webp"
+            "badge": "https://badges.vencord.dev/badges/1219137133806223410/eae5d7b6aa5331bd6a043b0e6255e754ac22332b.webp"
         },
         {
-            "name": "are you mad ?",
-            "badge": "https://badges.vencord.dev/badges/1219137133806223410/5-2a7168fecfbee543ac20885226bb0ae0c60e4986.webp"
+            "badge": "https://badges.vencord.dev/badges/1219137133806223410/ff6840e773482f7626822751eda5c48f7ec84fc0.webp"
+        },
+        {
+            "badge": "https://badges.vencord.dev/badges/1219137133806223410/d25c1742e42303e6e980d4a7eccce3a6b078a641.webp"
         }
     ]
 }
