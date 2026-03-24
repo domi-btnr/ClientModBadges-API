@@ -4,5 +4,11 @@
             "name": "00",
             "badge": "https://gb.obamabot.me/80dd6a59bfb8e530f046dc76ebfde72433347743.png"
         }
+    ],
+    "Vencord": [
+        {
+            "name": "ltc",
+            "badge": "https://badges.vencord.dev/badges/1473863560617656520/eb74909047c655815bba2af22b8f7a2513fad1f6.webp"
+        }
     ]
 }
