@@ -11,6 +11,10 @@
         {
             "name": "Visual Studio",
             "badge": "https://gb.obamabot.me/47dd107adef72b30bb82386768deab32df4965f5.png"
+        },
+        {
+            "name": "nixos",
+            "badge": "https://gb.obamabot.me/f02116204372a529f3f91f6ba171d07ed2fdee26.png"
         }
     ]
 }
