@@ -1,15 +1,22 @@
 {
     "Vencord": [
         {
-            "name": "Pew",
-            "badge": "https://badges.vencord.dev/badges/473473992808857610/ac45530c033bf8e194ff3f080287a6f3e133431d.webp"
+            "name": "pew",
+            "badge": "https://badges.vencord.dev/badges/473473992808857610/89bc02b72b933ed4058fc5d7ba7c68469b47c463.gif"
         },
         {
-            "name": "Pew",
-            "badge": "https://badges.vencord.dev/badges/473473992808857610/1e7b07b44badc6db57dc6b03e11b052f7955b98f.svg"
+            "name": "dev",
+            "badge": "https://badges.vencord.dev/badges/473473992808857610/ac5d7b80672861a23bfcd99d619a389c9eb1f84b.gif"
         },
         {
-            "name": "Pew",
+            "name": "Uchiha",
+            "badge": "https://badges.vencord.dev/badges/473473992808857610/c60c532ff2b0f359d637725266026a5b4e3e9e30.webp"
+        },
+        {
+            "badge": "https://badges.vencord.dev/badges/473473992808857610/25a8a681020ebfc87cb7b74c2e596d4af64a9495.gif"
+        },
+        {
+            "name": "cr7",
             "badge": "https://badges.vencord.dev/badges/473473992808857610/f0fbb6a6e5b7a068d28792280f397a4b879deeff.svg"
         }
     ]
