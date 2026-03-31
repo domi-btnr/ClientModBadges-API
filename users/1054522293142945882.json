@@ -20,5 +20,16 @@
             "name": "Forager",
             "badge": "https://gb.obamabot.me/830adc60485f2e6103af14c3cbe93dc0d166bf72.png"
         }
+    ],
+    "Enmity": [
+        "supporter",
+        {
+            "name": "weirdspongebob",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1054522293142945882.jpg"
+        },
+        {
+            "name": "Sillyfangirl",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/1054522293142945882-2.gif"
+        }
     ]
 }
