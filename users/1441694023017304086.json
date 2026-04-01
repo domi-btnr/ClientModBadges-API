@@ -9,12 +9,12 @@
             "badge": "https://gb.obamabot.me/2349a6b3ff74e3c078329324c15b2493423cacc0.gif"
         },
         {
-            "name": "IDE",
-            "badge": "https://gb.obamabot.me/2da913d19d2b73e0a9c0398d248fdc3ae1a8e2a2.webp"
-        },
-        {
             "name": "hi",
             "badge": "https://gb.obamabot.me/058c10f5e0ab00c1021a9e5c10cf6742acd9db89.gif"
+        },
+        {
+            "name": "linux",
+            "badge": "https://gb.obamabot.me/1edc6ea2812a06b74b10db5d2f5255e4556613cb.webp"
         }
     ]
 }
