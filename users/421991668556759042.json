@@ -1,4 +1,11 @@
 {
+    "Aliucord": [
+        "donor",
+        {
+            "name": "Bug Creator",
+            "badge": "https://cdn.discordapp.com/emojis/950496472560959488.png"
+        }
+    ],
     "BadgeVault": [
         {
             "name": "Shiggy (Vencord User)",
