@@ -7,6 +7,14 @@
         {
             "name": "4chan",
             "badge": "https://gb.obamabot.me/e9da513a74407cd207c6747d53571b272ec21c0c.png"
+        },
+        {
+            "name": "BlackCard",
+            "badge": "https://gb.obamabot.me/390abba72866b7750814b5d9b9aee84d06e3c131.webp"
+        },
+        {
+            "name": "Kuromi",
+            "badge": "https://gb.obamabot.me/ec0c33b7e106b1309a382c2df67a470894f17176.webp"
         }
     ]
 }
