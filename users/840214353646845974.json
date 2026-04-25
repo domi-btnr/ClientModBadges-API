@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "ping",
+            "badge": "https://gb.obamabot.me/1c3877a461d188d10bf5c5be309fd0533bfd629d.png"
+        },
+        {
+            "name": "minecraftbook",
+            "badge": "https://gb.obamabot.me/5dfac83bd0ce5d97ca938e48b6450a86c235d5bb.gif"
+        },
+        {
+            "name": "pokeball",
+            "badge": "https://gb.obamabot.me/bd7e63c89a071ce060d1faa5dbfad94967a09c80.png"
+        }
+    ]
+}
