@@ -1,12 +1,16 @@
 {
     "Vencord": [
         {
-            "name": "dantecan master",
-            "badge": "https://badges.vencord.dev/badges/648510540599001088/53da07bde7f6443678517cc45b402127c68b02f3.gif"
+            "name": "star",
+            "badge": "https://badges.vencord.dev/badges/648510540599001088/d41e9fdafcc0bebdd9b564cbc3afcd1f7cafdb38.webp"
         },
         {
-            "name": "dantecxn",
-            "badge": "https://badges.vencord.dev/badges/648510540599001088/7b46d9795fcee99bf241e2ea07b45586e8473f9a.webp"
+            "name": "master",
+            "badge": "https://badges.vencord.dev/badges/648510540599001088/4c436bfaecd15b7ed050d0f371162bd1bdb9d20b.webp"
+        },
+        {
+            "name": "(:",
+            "badge": "https://badges.vencord.dev/badges/648510540599001088/f5e06994e9556101fd704381080a0f349542b1b5.webp"
         }
     ]
 }
