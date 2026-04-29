@@ -1,12 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "Verified",
-            "badge": "https://badges.vencord.dev/badges/1014624018382454855/582249ee57332ac2fa473d7454c97586d47a2ffd.webp"
+            "name": "Dev",
+            "badge": "https://badges.vencord.dev/badges/1014624018382454855/9003744f09218971a22ac43baee186ea589bfcbb.webp"
         },
         {
-            "name": "Kuwait",
-            "badge": "https://badges.vencord.dev/badges/1014624018382454855/e29a7fb23cca12d25a9cc50a4b8b8c7fb4b49b4e.webp"
+            "name": "Préstige",
+            "badge": "https://badges.vencord.dev/badges/1014624018382454855/54d74b3d34e92c7b6380607182c1c9b8e5e00a3f.webp"
         }
     ]
 }
