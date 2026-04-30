@@ -1,4 +1,18 @@
 {
+    "BadgeVault": [
+        {
+            "name": "Aureus.wtf",
+            "badge": "https://gb.obamabot.me/b7bff87ce847aac8a96ae57a1e1ffab8eaa0dd53.png"
+        },
+        {
+            "name": "cloudsint.net",
+            "badge": "https://gb.obamabot.me/5d5bfc3828a643fb1ba5a4581e27fb247eff2634.png"
+        },
+        {
+            "name": "tronhaxx",
+            "badge": "https://gb.obamabot.me/17acfd8e4eea436e8e2e7c7fccbac0f7dc1addc0.gif"
+        }
+    ],
     "Vencord": [
         {
             "name": "Aureus",
