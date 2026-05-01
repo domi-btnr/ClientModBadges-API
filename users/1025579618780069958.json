@@ -1,8 +1,16 @@
 {
     "Vencord": [
         {
-            "name": "KwtFrontliners",
-            "badge": "https://badges.vencord.dev/badges/1025579618780069958/5aa41f35831b98040dea9d1e41a9d178cbb00c20.webp"
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/d58f8603c2d22a984355d0808e98dd3ae11a0faa.gif"
+        },
+        {
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/ecc8717e819ebec31c241ffd48e5f0772b6d14ef.gif"
+        },
+        {
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/8ff09fd31d755193d557b99e9c9ae5155af5a139.gif"
+        },
+        {
+            "badge": "https://badges.vencord.dev/badges/1025579618780069958/25d9c4865f2f43604c283c8322c858536fb0471e.gif"
         }
     ]
 }
