@@ -1,12 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "Verified",
-            "badge": "https://badges.vencord.dev/badges/584792275557548065/1-58ed7ae338bc109ba2b66853344b86e92adf3031.png"
+            "name": "overlord",
+            "badge": "https://badges.vencord.dev/badges/584792275557548065/9debc192d3bad09ef9ad9f8bdcd5381a46fe3c88.webp"
         },
         {
-            "name": "Federali",
-            "badge": "https://badges.vencord.dev/badges/584792275557548065/2-fe7d5b0605bf4486bdf41cd4b5426fdf0c11b2d4.webp"
+            "name": "firewall",
+            "badge": "https://badges.vencord.dev/badges/584792275557548065/654d50716fc2a1e08ff543945517f51524571d35.webp"
         }
     ]
 }

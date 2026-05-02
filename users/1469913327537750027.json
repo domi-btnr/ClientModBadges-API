@@ -2,7 +2,15 @@
     "Vencord": [
         {
             "name": "Intro",
-            "badge": "https://badges.vencord.dev/badges/1469913327537750027/b95ded3ea0a4eff42a9f87680974a6e1dcb4c6ad.webp"
+            "badge": "https://badges.vencord.dev/badges/1469913327537750027/483e4b786dfc49e21b4652ae63aa8689a8e5dbdd.webp"
+        },
+        {
+            "name": "Intro",
+            "badge": "https://badges.vencord.dev/badges/1469913327537750027/3fdbca2fe6ff6fbf5cda2590689502092e064b4c.webp"
+        },
+        {
+            "name": "devour",
+            "badge": "https://badges.vencord.dev/badges/1469913327537750027/19b5479006f2ba80765018ea3039ae7faed00cb7.gif"
         }
     ]
 }
