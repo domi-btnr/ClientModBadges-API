@@ -1,8 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "synabots.xyz",
-            "badge": "https://badges.vencord.dev/badges/244598949913034752/604daf65bd7cb06ba6daeb594fa32bd03a401e6f.webp"
+            "name": "bypass",
+            "badge": "https://badges.vencord.dev/badges/244598949913034752/15eae04f8e788e5ff8b3abb280afdcd9ba030f3d.webp"
+        },
+        {
+            "name": "cagwn",
+            "badge": "https://badges.vencord.dev/badges/244598949913034752/15443f2156d2ce708984413bb728182eac1e00db.webp"
         }
     ]
 }
