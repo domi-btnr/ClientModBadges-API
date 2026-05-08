@@ -1,8 +1,12 @@
 {
     "Vencord": [
         {
+            "name": "breach",
+            "badge": "https://badges.vencord.dev/badges/1187457929020985507/4f9a088ee2657a91445cb33be5e5b65f173e6306.webp"
+        },
+        {
             "name": "MullVad Enjoyer",
-            "badge": "https://badges.vencord.dev/badges/1187457929020985507/4f0fe8ffb5ccce4950181aab26e9b5b929d041a3.webp"
+            "badge": "https://badges.vencord.dev/badges/1187457929020985507/d33ebb4f9e0c7039edf605beca08cf54514ee0fb.webp"
         }
     ]
 }

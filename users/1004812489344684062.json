@@ -11,6 +11,10 @@
         {
             "name": "Active Discord User",
             "badge": "https://gb.obamabot.me/a53b8c94f4bd9fa81da12b029e33b23a28193b1c.gif"
+        },
+        {
+            "name": "Non-Nitro User",
+            "badge": "https://gb.obamabot.me/086ea2d2f6c3dbd02fbb9872d5eca24a0fee8c66.png"
         }
     ]
 }
