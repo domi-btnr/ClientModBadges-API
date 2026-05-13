@@ -3,6 +3,14 @@
         {
             "name": "nerd",
             "badge": "https://badges.vencord.dev/badges/223095045127929867/a2d58f19f19dd429b61cf30b1d48fbbeba9786f9.webp"
+        },
+        {
+            "name": "monkey",
+            "badge": "https://badges.vencord.dev/badges/223095045127929867/1d7f66faf5869efe0d7cf3dd6234c8df69eedf51.gif"
+        },
+        {
+            "name": "love",
+            "badge": "https://badges.vencord.dev/badges/223095045127929867/a22a7883ada4be4b5d8281d6e8f6cb312f387450.webp"
         }
     ]
 }
