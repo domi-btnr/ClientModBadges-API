@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node-terminal",
+      "name": "Start API in Debug Mode",
+      "request": "launch",
+      "command": "pnpm run start:debug",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "type": "node-terminal",
+      "name": "Start Jest Tests in Debug Mode",
+      "request": "launch",
+      "command": "pnpm run test:debug",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
