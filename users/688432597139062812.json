@@ -1,6 +1,10 @@
 {
     "Vencord": [
         {
+            "name": "Terastallized",
+            "badge": "https://badges.vencord.dev/badges/688432597139062812/db7dec7b53e3c14f7eca6c95eb643dd3b7132621.webp"
+        },
+        {
             "name": "Shiny",
             "badge": "https://badges.vencord.dev/badges/688432597139062812/13a03318ebc1b9db54e1219c14077a9ad740a728.webp"
         }

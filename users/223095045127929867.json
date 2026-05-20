@@ -11,6 +11,14 @@
         {
             "name": "love",
             "badge": "https://badges.vencord.dev/badges/223095045127929867/a22a7883ada4be4b5d8281d6e8f6cb312f387450.webp"
+        },
+        {
+            "name": "cute",
+            "badge": "https://badges.vencord.dev/badges/223095045127929867/df55dc58eed38018f1340c9a5f22065725eadd8f.webp"
+        },
+        {
+            "name": "space",
+            "badge": "https://badges.vencord.dev/badges/223095045127929867/396fc1e5e0f490a038919cbcd11e1aa268d631df.webp"
         }
     ]
 }
