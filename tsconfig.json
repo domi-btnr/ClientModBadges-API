@@ -9,7 +9,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
-    "target": "es2025",
+    "target": "esnext",
     "sourceMap": true,
     "skipLibCheck": true,
     "strictNullChecks": true,
@@ -17,6 +17,13 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false,
-    "types": ["node", "jest"]
+    "types": ["node", "jest"],
+    "paths": {
+      "@constants": ["./src/constants/index.ts"],
+      "@modules/*": ["./src/modules/*"],
+      "@problems/exceptions": ["./src/problems/exceptions/index.ts"],
+      "@problems/filters": ["./src/problems/filters/index.ts"],
+      "@problems/responses": ["./src/problems/responses/index.ts"]
+    }
   }
 }
