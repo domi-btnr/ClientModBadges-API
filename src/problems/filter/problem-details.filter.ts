@@ -2,11 +2,12 @@ import { ArgumentsHost, Catch, ExceptionFilter, NotFoundException } from "@nestj
 import { Response } from "express";
 
 import { ProblemDetailsException } from "../exception/problem-details.exception";
+import { internalServerError500Body } from "../response/internal-server-error.response";
 import { notFound404Body } from "../response/not-found.response";
 
-@Catch(ProblemDetailsException, NotFoundException)
+@Catch()
 export class ProblemDetailsFilter implements ExceptionFilter {
-  catch(exception: ProblemDetailsException | NotFoundException, host: ArgumentsHost): void {
+  catch(exception: unknown, host: ArgumentsHost): void {
     const ctx = host.switchToHttp();
     const response = ctx.getResponse<Response>();
 
@@ -15,6 +16,11 @@ export class ProblemDetailsFilter implements ExceptionFilter {
       return;
     }
 
-    response.status(404).type("application/problem+json").json(notFound404Body);
+    if (exception instanceof NotFoundException) {
+      response.status(404).type("application/problem+json").json(notFound404Body);
+      return;
+    }
+
+    response.status(500).type("application/problem+json").json(internalServerError500Body);
   }
 }

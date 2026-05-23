@@ -11,6 +11,8 @@ const defaultExample = {
   detail: "An internal error happened during request processing. Please try again later."
 };
 
+export const internalServerError500Body = defaultExample;
+
 const description = "An unexpected technical issue occurred during request processing";
 
 export const internalServerError500Response = {
