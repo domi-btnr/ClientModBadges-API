@@ -17,7 +17,7 @@ import { Logger, LoggerErrorInterceptor, LoggerModule } from "nestjs-pino";
               relativeUrl: true,
               translateTime: "SYS:isoUtcDateTime",
               prettyOptions: {
-                ignore: "pid,hostname,context",
+                ignore: "req,context,pid,hostname",
                 messageFormat: "[{context}] {msg}"
               }
             }
