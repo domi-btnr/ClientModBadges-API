@@ -24,6 +24,7 @@
       "@problems/exception": ["./src/problems/exception/index.ts"],
       "@problems/filter": ["./src/problems/filter/index.ts"],
       "@problems/response": ["./src/problems/response/index.ts"],
+      "@providers/*": ["./src/providers/*"],
       "@utils": ["./src/utils/index.ts"]
     }
   }
