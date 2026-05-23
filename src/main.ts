@@ -1,13 +1,14 @@
-import { getAppUrl } from "@constants";
 import { AppModule } from "@modules/app.module";
 import { LoggingModule } from "@modules/logging/logging.module";
 import { OpenAPIModule } from "@modules/openapi/openapi.module";
 import { ValidationPipe } from "@nestjs/common";
 import { ConfigService } from "@nestjs/config";
 import { NestFactory } from "@nestjs/core";
-import { ProblemDetailsException } from "@problems/exceptions";
-import { ProblemDetailsFilter } from "@problems/filters";
+import { getAppUrl } from "@utils";
 import { Logger } from "nestjs-pino";
+
+import { ProblemDetailsException } from "./problems/exception";
+import { ProblemDetailsFilter } from "./problems/filter";
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule, { bufferLogs: true });

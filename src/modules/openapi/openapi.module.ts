@@ -1,7 +1,8 @@
-import { getAppUrl } from "@constants";
 import { INestApplication, Module } from "@nestjs/common";
 import { DocumentBuilder, OpenAPIObject, SwaggerModule } from "@nestjs/swagger";
-import { internalServerError500Response, ProblemDetailsDTO } from "@problems/responses";
+import { ProblemDetailsDTO } from "@problems/dto";
+import { internalServerError500Response } from "@problems/response";
+import { getAppUrl } from "@utils";
 import { Logger } from "nestjs-pino/Logger";
 
 @Module({

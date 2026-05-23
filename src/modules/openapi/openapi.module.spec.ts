@@ -1,11 +1,11 @@
 import { INestApplication } from "@nestjs/common";
 import { SwaggerModule } from "@nestjs/swagger";
 import { Test, TestingModule } from "@nestjs/testing";
+import { getAppUrl } from "@utils";
 
-import { getAppUrl } from "../constants";
 import { OpenAPIModule } from "./openapi.module";
 
-jest.mock("../constants");
+jest.mock("@utils");
 
 describe("OpenAPIModule", () => {
   describe("module compilation", () => {

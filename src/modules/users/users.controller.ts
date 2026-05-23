@@ -1,6 +1,6 @@
 import { Controller, Get, Param } from "@nestjs/common";
 import { ApiOperation } from "@nestjs/swagger";
-import { BadRequestProblemResponse, NotFoundProblemResponse } from "@problems/responses";
+import { BadRequestProblemResponse, NotFoundProblemResponse } from "@problems/response";
 
 import UserContextDTO from "./dto/user-context.dto";
 import { UsersService } from "./users.service";

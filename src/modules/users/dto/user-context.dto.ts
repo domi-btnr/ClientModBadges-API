@@ -15,7 +15,7 @@ export default class UserContextDTO {
   @IsString()
   @IsNotEmpty()
   @Matches(/^[0-9]{17,20}$/, {
-    message: "userId must be a valid Discord Snowflake ID (17-20 digits long)."
+    message: "userId must be a valid Discord ID (17-20 digits long)."
   })
   userId!: string;
 }

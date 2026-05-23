@@ -19,11 +19,12 @@
     "noFallthroughCasesInSwitch": false,
     "types": ["node", "jest"],
     "paths": {
-      "@constants": ["./src/constants/index.ts"],
       "@modules/*": ["./src/modules/*"],
-      "@problems/exceptions": ["./src/problems/exceptions/index.ts"],
-      "@problems/filters": ["./src/problems/filters/index.ts"],
-      "@problems/responses": ["./src/problems/responses/index.ts"]
+      "@problems/dto": ["./src/problems/dto/index.ts"],
+      "@problems/exception": ["./src/problems/exception/index.ts"],
+      "@problems/filter": ["./src/problems/filter/index.ts"],
+      "@problems/response": ["./src/problems/response/index.ts"],
+      "@utils": ["./src/utils/index.ts"]
     }
   }
 }
