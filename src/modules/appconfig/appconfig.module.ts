@@ -8,7 +8,6 @@ import { CONFIG_SCHEMA } from "./config.schema";
 @Module({
   imports: [
     ConfigModule.forRoot({
-      isGlobal: true,
       expandVariables: true,
       validate: env => CONFIG_SCHEMA.parse(env)
     })

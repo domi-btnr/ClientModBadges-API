@@ -3,22 +3,14 @@ import { ApiExtraModels, ApiResponse } from "@nestjs/swagger";
 import { buildProblemDetailsContent } from "@utils";
 
 import { ProblemDetailsDTO } from "../dto/problem-details.dto";
-
-const defaultExample = {
-  type: "error:api@clientmodbadges:not-found",
-  status: 404,
-  title: "Not found",
-  detail: "The requested resource was not found"
-};
-
-export const notFound404Body = defaultExample;
+import { notFound404Body } from "../exception/not-found.exception";
 
 export const NotFoundProblemResponse = (override?: Partial<ProblemDetailsDTO>) =>
   applyDecorators(
     ApiExtraModels(ProblemDetailsDTO),
     ApiResponse({
-      status: 404,
-      description: "The requested resource was not found",
-      content: buildProblemDetailsContent({ ...defaultExample, ...override })
+      status: notFound404Body.status,
+      description: notFound404Body.title,
+      content: buildProblemDetailsContent({ ...notFound404Body, ...override })
     })
   );

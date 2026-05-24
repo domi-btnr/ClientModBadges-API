@@ -1,9 +1,9 @@
 import { ArgumentsHost, Catch, ExceptionFilter, NotFoundException } from "@nestjs/common";
 import { Response } from "express";
 
+import { internalServerError500Body } from "../exception/internal-server-error.exception";
+import { notFound404Body } from "../exception/not-found.exception";
 import { ProblemDetailsException } from "../exception/problem-details.exception";
-import { internalServerError500Body } from "../response/internal-server-error.response";
-import { notFound404Body } from "../response/not-found.response";
 
 @Catch()
 export class ProblemDetailsFilter implements ExceptionFilter {

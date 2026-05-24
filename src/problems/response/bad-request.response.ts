@@ -3,11 +3,10 @@ import { ApiExtraModels, ApiResponse } from "@nestjs/swagger";
 import { buildProblemDetailsContent } from "@utils";
 
 import { ProblemDetailsDTO } from "../dto/problem-details.dto";
+import { badRequest400Body } from "../exception/bad-request.exception";
 
 const defaultExample = {
-  type: "error:api@clientmodbadges:validation-failed",
-  status: 400,
-  title: "Validation failed",
+  ...badRequest400Body,
   errors: [{ detail: "userId must be a valid Discord ID (17-20 digits long)." }]
 };
 
@@ -15,8 +14,8 @@ export const BadRequestProblemResponse = (override?: Partial<typeof defaultExamp
   applyDecorators(
     ApiExtraModels(ProblemDetailsDTO),
     ApiResponse({
-      status: 400,
-      description: "Validation of the request parameters or body failed",
+      status: badRequest400Body.status,
+      description: badRequest400Body.title,
       content: buildProblemDetailsContent(
         { ...defaultExample, ...override },
         {
