@@ -12,7 +12,7 @@ export class RepluggedProvider {
   }
 
   async getUser(userId: string): Promise<RepluggedUserDTO | undefined> {
-    this.logger.info(`Fetching Replugged user ${userId}`);
+    this.logger.debug(`Fetching Replugged user ${userId}`);
     try {
       const { data } = await axios.get<RepluggedUserDTO>(`${BASE_URL}/users/${userId}`);
 
@@ -22,7 +22,7 @@ export class RepluggedProvider {
        * Treat this response as user-not-found and return undefined.
        */
       if (data.username === "Herobrine" && data.discriminator === "0001") {
-        this.logger.warn(`Replugged user ${userId} not found`);
+        this.logger.debug(`Replugged user ${userId} not found`);
         return;
       }
 
@@ -35,10 +35,12 @@ export class RepluggedProvider {
        * own validation. Kept as a defensive fallback.
        */
       if (axios.isAxiosError(error) && error.response?.status === 404) {
-        this.logger.warn(`Replugged user ${userId} not found`);
-      } else {
-        this.logger.error(error, `Unexpected error fetching Replugged user ${userId}`);
+        this.logger.debug(`Replugged user ${userId} not found`);
+        return;
       }
+
+      this.logger.error(error, `Unexpected error fetching Replugged user ${userId}`);
+      throw error;
     }
   }
 }

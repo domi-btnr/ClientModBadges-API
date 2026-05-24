@@ -13,7 +13,7 @@ export class UsersController {
   @ApiOperation({ summary: "Returns all badges for the given user" })
   @BadRequestProblemResponse()
   @NotFoundProblemResponse()
-  public getUser(@Param() context: UserContextDTO) {
-    return null;
+  public async getUser(@Param() context: UserContextDTO) {
+    return await this.usersService.getUser(context.userId);
   }
 }
