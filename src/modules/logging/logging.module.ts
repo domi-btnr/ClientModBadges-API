@@ -1,15 +1,14 @@
+import { AppConfigService } from "@config";
 import { Global, INestApplication, Module } from "@nestjs/common";
-import { ConfigModule, ConfigService } from "@nestjs/config";
 import { Logger, LoggerErrorInterceptor, LoggerModule } from "nestjs-pino";
 
 @Module({
   imports: [
     LoggerModule.forRootAsync({
-      imports: [ConfigModule],
-      inject: [ConfigService],
-      useFactory: (configService: ConfigService) => ({
+      inject: [AppConfigService],
+      useFactory: (appConfigService: AppConfigService) => ({
         pinoHttp: {
-          level: configService.get<string>("LOG_LEVEL") ?? "info",
+          level: appConfigService.get("LOG_LEVEL"),
           transport: {
             target: "pino-http-print",
             options: {

@@ -19,6 +19,7 @@
     "noFallthroughCasesInSwitch": false,
     "types": ["node", "jest"],
     "paths": {
+      "@config": ["./src/modules/appconfig/appconfig.service.ts"],
       "@modules/*": ["./src/modules/*"],
       "@problems/dto": ["./src/problems/dto/index.ts"],
       "@problems/exception": ["./src/problems/exception/index.ts"],

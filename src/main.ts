@@ -1,10 +1,9 @@
+import { AppConfigService } from "@config";
 import { AppModule } from "@modules/app.module";
 import { LoggingModule } from "@modules/logging/logging.module";
 import { OpenAPIModule } from "@modules/openapi/openapi.module";
 import { ValidationPipe } from "@nestjs/common";
-import { ConfigService } from "@nestjs/config";
 import { NestFactory } from "@nestjs/core";
-import { getAppUrl } from "@utils";
 import { Logger } from "nestjs-pino";
 
 import { ProblemDetailsException } from "./problems/exception";
@@ -35,10 +34,10 @@ async function bootstrap() {
   LoggingModule.init(app);
   const logOpenAPIStarted = OpenAPIModule.init(app);
 
-  const configService = app.get(ConfigService);
-  await app.listen(configService.get("PORT") ?? 8080);
-  app.get(Logger).log(`API running at ${await getAppUrl(app)}`, "App");
-  await logOpenAPIStarted();
+  const appConfigService = app.get(AppConfigService);
+  await app.listen(appConfigService.get("PORT"));
+  app.get(Logger).log(`API running at ${appConfigService.get("BASE_URL")}`, "App");
+  logOpenAPIStarted();
 }
 
 void bootstrap();

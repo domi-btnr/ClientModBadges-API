@@ -1,15 +1,15 @@
+import { AppConfigService } from "@config";
 import { INestApplication, Module } from "@nestjs/common";
 import { DocumentBuilder, OpenAPIObject, SwaggerModule } from "@nestjs/swagger";
 import { ProblemDetailsDTO } from "@problems/dto";
 import { internalServerError500Response } from "@problems/response";
-import { getAppUrl } from "@utils";
 import { Logger } from "nestjs-pino/Logger";
 
 @Module({
   imports: [SwaggerModule]
 })
 export class OpenAPIModule {
-  static init(app: INestApplication): () => Promise<void> {
+  static init(app: INestApplication): () => void {
     const config = new DocumentBuilder()
       .setOpenAPIVersion("3.2.0")
       .setTitle("ClientModBadges-API Documentation")
@@ -36,9 +36,11 @@ export class OpenAPIModule {
       }
     });
 
-    return async () => {
-      const appUrl = await getAppUrl(app);
-      app.get(Logger).log(`OpenAPI documentation available at ${appUrl}/docs`, "OpenAPIModule");
+    return () => {
+      const appConfigService = app.get(AppConfigService);
+      app
+        .get(Logger)
+        .log(`OpenAPI documentation available at ${appConfigService.get("BASE_URL")}/docs`, "OpenAPIModule");
     };
   }
 
