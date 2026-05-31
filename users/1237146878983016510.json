@@ -2,6 +2,18 @@
     "Vencord": [
         {
             "badge": "https://badges.vencord.dev/badges/1237146878983016510/f37bce767e7c512e6fb87aa994f0461e2e6b095e.webp"
+        },
+        {
+            "name": "monke",
+            "badge": "https://badges.vencord.dev/badges/1237146878983016510/6092afa8c2c71b62d743ebe485329abb44a5449c.webp"
+        },
+        {
+            "name": "purpleguy",
+            "badge": "https://badges.vencord.dev/badges/1237146878983016510/87cb56510b66064a4854e13c6c2878fd96f5ee90.webp"
+        },
+        {
+            "name": "burnt",
+            "badge": "https://badges.vencord.dev/badges/1237146878983016510/456ae6c26da4f193bd191516dc9360648897de75.webp"
         }
     ]
 }
