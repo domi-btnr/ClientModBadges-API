@@ -1,18 +1,23 @@
 {
     "Vencord": [
         {
+            "name": "Nino Nakano",
             "badge": "https://badges.vencord.dev/badges/1507783836258275472/8e0dbe97f116ed9fee1cd7838cd170fe7b3dc39d.webp"
         },
         {
+            "name": "Miku Nakano",
             "badge": "https://badges.vencord.dev/badges/1507783836258275472/58fcb4912ee55da3232c305f73613be3824f8043.webp"
         },
         {
+            "name": "Yotsuba Nakano",
             "badge": "https://badges.vencord.dev/badges/1507783836258275472/0eef27531bf47342ae7b1f1c4ab8333f71a71fbd.webp"
         },
         {
+            "name": "Ichika Nakano",
             "badge": "https://badges.vencord.dev/badges/1507783836258275472/888663058963f6652d95a626217e29da73c7332f.webp"
         },
         {
+            "name": "Itsuki Nakano",
             "badge": "https://badges.vencord.dev/badges/1507783836258275472/7d1316d60ab667fadca5c3199ba510f3f1b7f7c7.webp"
         }
     ]
