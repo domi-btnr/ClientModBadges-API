@@ -20,5 +20,15 @@
             "name": "Archeon",
             "badge": "https://gb.obamabot.me/712addc1a6c26125593be2e7794d75edc2a4fa92.png"
         }
+    ],
+    "Vencord": [
+        {
+            "name": "Doughmination",
+            "badge": "https://badges.vencord.dev/badges/1464890289922641993/1-e8fcb619574b20d51d7188b7d35755f00460a14d.webp"
+        },
+        {
+            "name": "nerd.ts",
+            "badge": "https://badges.vencord.dev/badges/1464890289922641993/2-a9cb9d3a237db57006ebcc8baa84fc9fb738978c.webp"
+        }
     ]
 }
