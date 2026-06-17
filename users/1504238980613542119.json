@@ -1,20 +1,8 @@
 {
     "BadgeVault": [
         {
-            "name": "C",
-            "badge": "https://gb.obamabot.me/2d0a4f8ad97008451e3ec3f538dde8862808aeb9.png"
-        },
-        {
-            "name": "Lua",
-            "badge": "https://gb.obamabot.me/86b293d5e21854a2eea5fcb8afdd9c236db63e97.png"
-        },
-        {
             "name": "image.py",
             "badge": "https://gb.obamabot.me/5b72eb432fd10e3ba2510ee9b2dba77ed70df294.png"
-        },
-        {
-            "name": "PF",
-            "badge": "https://gb.obamabot.me/947f8de7ccb4f1ddc7b64800037b6fa015d46078.png"
         },
         {
             "name": "PaperAirplane",
