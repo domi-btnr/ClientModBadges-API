@@ -3,6 +3,10 @@
         {
             "name": "eth",
             "badge": "https://gb.obamabot.me/aef4df0b35b790835d3cbb42cd89a16b51735db1.png"
+        },
+        {
+            "name": "bitcoin",
+            "badge": "https://gb.obamabot.me/f6f84fda16f812f1dafb876e979a2fd2864f2c2e.png"
         }
     ]
 }
