@@ -1,34 +1,8 @@
 {
     "Vencord": [
         {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/1310423320545591327/c6598ddda40cef5821f733b20e626d72c721d8b5.webp"
+            "name": "anticheat",
+            "badge": "https://badges.vencord.dev/badges/1310423320545591327/beee150b8a3d05c4a84a9df935d9e717c9355ac6.webp"
         }
     ]
 }
