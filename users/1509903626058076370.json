@@ -7,6 +7,10 @@
         {
             "name": "bitcoin",
             "badge": "https://gb.obamabot.me/f6f84fda16f812f1dafb876e979a2fd2864f2c2e.png"
+        },
+        {
+            "name": "chrome",
+            "badge": "https://gb.obamabot.me/785595bec8711cc1bcf905629fe8c95dda73c633.jpg"
         }
     ]
 }
