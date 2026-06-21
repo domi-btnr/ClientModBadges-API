@@ -1,18 +1,4 @@
 {
-    "BadgeVault": [
-        {
-            "name": "Python Installer User",
-            "badge": "https://gb.obamabot.me/98c724e3295a4389764a5d208c6332bb80f7e3f4.png"
-        },
-        {
-            "name": "Electron",
-            "badge": "https://gb.obamabot.me/4d052e304d76c80c4d5b30c46dee4ae4082e991b.png"
-        },
-        {
-            "name": "DDOS",
-            "badge": "https://gb.obamabot.me/db86968c1eb0b33eddd5f37e2eacc681552557f5.png"
-        }
-    ],
     "Vencord": [
         {
             "name": "Legend",
