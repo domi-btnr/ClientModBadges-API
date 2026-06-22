@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "CR badge",
+            "badge": "https://gb.obamabot.me/90aae4af7ef2fe7c9b9c69ced38accb07a06a8b3.png"
+        },
+        {
+            "name": "my friend",
+            "badge": "https://gb.obamabot.me/fcb662f2ff46e2f7cc5f6f317413b1f94424e2e8.png"
+        },
+        {
+            "name": "cat",
+            "badge": "https://gb.obamabot.me/db8d6cbc9973354ed737243376aa2d7aac2d3b6d.png"
+        }
+    ]
+}

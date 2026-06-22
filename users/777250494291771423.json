@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "phyton",
+            "badge": "https://gb.obamabot.me/bb059fcbfd1aa0136a93ae2df0f1a1d1ff5dc578.png"
+        },
+        {
+            "name": "Kali_Linux",
+            "badge": "https://gb.obamabot.me/0bacb4807444edbaa751889d5ea3a094f7a67197.webp"
+        },
+        {
+            "name": "android",
+            "badge": "https://gb.obamabot.me/baeaf0924a5b74da39cab8fe3e980a15c8c364be.png"
+        },
+        {
+            "name": "git_hub",
+            "badge": "https://gb.obamabot.me/2bf697da32fc53a0fc9e77be9daea8bb0295a348.png"
+        }
+    ]
+}

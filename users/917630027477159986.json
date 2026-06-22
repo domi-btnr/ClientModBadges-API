@@ -1,5 +1,11 @@
 {
     "BetterDiscord": [
         "developer"
+    ],
+    "BadgeVault": [
+        {
+            "name": "zerotwo",
+            "badge": "https://gb.obamabot.me/81ac6466595479dcd6decfa06b3a3c332d7c3536.png"
+        }
     ]
 }

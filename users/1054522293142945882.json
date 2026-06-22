@@ -1,4 +1,26 @@
 {
+    "BadgeVault": [
+        {
+            "name": "Dust Sans",
+            "badge": "https://gb.obamabot.me/cb303329192666cb039e09c4427bb5a6306b5918.jpg"
+        },
+        {
+            "name": "Gamma Dust Sans",
+            "badge": "https://gb.obamabot.me/336df706511c7876cde7b501d26146003f1ce904.png"
+        },
+        {
+            "name": "DreamSicle",
+            "badge": "https://gb.obamabot.me/0848b7f1e67582b3d175b457a41a34b7c8b4dd5d.jpg"
+        },
+        {
+            "name": "TheGreenOrbs",
+            "badge": "https://gb.obamabot.me/b5aa5312f18c19b81ceb5b4fe677492099de4668.jpg"
+        },
+        {
+            "name": "Forager",
+            "badge": "https://gb.obamabot.me/830adc60485f2e6103af14c3cbe93dc0d166bf72.png"
+        }
+    ],
     "Enmity": [
         "supporter",
         {
