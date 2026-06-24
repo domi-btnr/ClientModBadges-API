@@ -3,6 +3,18 @@
         {
             "name": "PaperAirplane",
             "badge": "https://gb.obamabot.me/423b4fc74063c25b0d4de300c30f039e3bb867f5.png"
+        },
+        {
+            "name": "wing",
+            "badge": "https://gb.obamabot.me/ba2a8ea5ceb364e718b99534ad156831cda85cf6.webp"
+        },
+        {
+            "name": "doxbin",
+            "badge": "https://gb.obamabot.me/fffc90bc7537a3c6dffadb2c774c927c0821810d.jpg"
+        },
+        {
+            "name": "4chan",
+            "badge": "https://gb.obamabot.me/7f0b8ce425c022bee39253911994714b760f3928.png"
         }
     ]
 }
