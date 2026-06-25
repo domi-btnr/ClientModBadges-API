@@ -1,8 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "ZanuZoss",
-            "badge": "https://badges.vencord.dev/badges/927882339676205077/cdfcaf84329c35a1e5f21593bd3ae49257b00205.webp"
+            "name": "Official ZanuZoss Account",
+            "badge": "https://badges.vencord.dev/badges/927882339676205077/addbbdbefdbaf84d432e00c7872a232cff283966.webp"
+        },
+        {
+            "name": "Vencord Donor",
+            "badge": "https://badges.vencord.dev/badges/927882339676205077/c8ae45015eabf90f1a0c0e56c2b4d00c4dfa9473.webp"
         }
     ]
 }
