@@ -1,4 +1,18 @@
 {
+    "BadgeVault": [
+        {
+            "name": "Code Master",
+            "badge": "https://gb.obamabot.me/0983b157d3898638903888a483980a58fccc8d53.png"
+        },
+        {
+            "name": "Ancestral Mage",
+            "badge": "https://gb.obamabot.me/267a72e2d84c21c02573b63f26dfd9e5fed45986.png"
+        },
+        {
+            "name": "Boom Boom Music",
+            "badge": "https://gb.obamabot.me/1b79658688d5f2b73e51cbe20bd910339b9c895f.png"
+        }
+    ],
     "Vencord": [
         {
             "name": "Dinosaur Fan",

@@ -1,5 +1,15 @@
 {
     "Aliucord": [
         "donor"
+    ],
+    "BadgeVault": [
+        {
+            "name": "Hope",
+            "badge": "https://gb.obamabot.me/6072603cb1a56fa69decafb63ab5f583c48de3a6.png"
+        },
+        {
+            "name": "Rich AF",
+            "badge": "https://gb.obamabot.me/f490714b6ec99c9671a86765dc7f67bca46b8368.png"
+        }
     ]
 }
