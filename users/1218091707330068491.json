@@ -3,6 +3,18 @@
         {
             "name": "!",
             "badge": "https://gb.obamabot.me/bffe449161e760dab2fd8452bd63b0da481010f6.png"
+        },
+        {
+            "name": "cross",
+            "badge": "https://gb.obamabot.me/1d117bb5be605c614bc06048cda75195fe480712.jpg"
+        },
+        {
+            "name": "x",
+            "badge": "https://gb.obamabot.me/f35d15e18df96ef3954b9d7f122b2e61b71312ae.png"
+        },
+        {
+            "name": "icarl",
+            "badge": "https://gb.obamabot.me/4bd74b1ea4ea4d95c8124a079bdc816a8389d2cb.jpg"
         }
     ]
 }
