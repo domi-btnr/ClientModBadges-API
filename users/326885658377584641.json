@@ -1,6 +1,18 @@
 {
     "Vencord": [
         {
+            "name": "Vencord Donor",
+            "badge": "https://badges.vencord.dev/badges/326885658377584641/c3c1cb262dec6cee59f175f26947291d01e615e1.webp"
+        },
+        {
+            "name": "Vencord Supporter",
+            "badge": "https://badges.vencord.dev/badges/326885658377584641/e5d387e4f51d6380cd0f88c7fb056ec0702f50a9.webp"
+        },
+        {
+            "name": "Verified",
+            "badge": "https://badges.vencord.dev/badges/326885658377584641/f9d8128976478c1a62ddfe0c7d60a0b5776ab50c.webp"
+        },
+        {
             "name": "Kuwaiti Founder",
             "badge": "https://badges.vencord.dev/badges/326885658377584641/3d4a10d164c55fbdcdca86631a92b960e287ed4f.webp"
         }
