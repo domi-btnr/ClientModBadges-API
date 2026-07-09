@@ -1,5 +1,14 @@
 {
     "Aliucord": [
         "contributor"
+    ],
+    "Enmity": [
+        "dev",
+        "staff",
+        "contributor",
+        {
+            "name": "Zoey",
+            "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/89117667050426368.png"
+        }
     ]
 }
