@@ -7,6 +7,14 @@
         {
             "name": "Butterfly",
             "badge": "https://badges.vencord.dev/badges/605769287097122836/1cf2571cbff1f8208aad8ea5ec01d96009bc9861.gif"
+        },
+        {
+            "name": "Diamond",
+            "badge": "https://badges.vencord.dev/badges/605769287097122836/c59de5148de21e5e80d1d9ec7d1e8426a1b785dd.webp"
+        },
+        {
+            "name": "Mew",
+            "badge": "https://badges.vencord.dev/badges/605769287097122836/e1bb936fe4d9af279ffa754be9d787a07e222802.gif"
         }
     ]
 }
