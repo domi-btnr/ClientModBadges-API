@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "hta",
+            "badge": "https://badges.vencord.dev/badges/691159461527552011/6bda9647a1e2ee0d0505b3dc27531521d3a89ef1.webp"
+        },
+        {
+            "name": "backend dev",
+            "badge": "https://badges.vencord.dev/badges/691159461527552011/60887ee3d18612e88266e397d4f5e8d10c7e568c.webp"
+        },
+        {
+            "name": "v24",
+            "badge": "https://badges.vencord.dev/badges/691159461527552011/6a4f20ba1bcc4a1bf4117510f1cf302a2f387a80.webp"
+        },
+        {
+            "name": "hta",
+            "badge": "https://badges.vencord.dev/badges/691159461527552011/fbb16e958473d7fa1edd3e5897f681d5a66770f0.webp"
+        },
+        {
+            "name": "dev",
+            "badge": "https://badges.vencord.dev/badges/691159461527552011/fb569393700ddb7e00638fedb979f57d386d1b85.webp"
+        }
+    ]
+}
