@@ -1,6 +1,6 @@
 import { RepluggedUserDTO } from "@providers/replugged/dto/replugged-user.dto";
 
-interface Badge {
+export interface Badge {
   name: string;
   image: string;
   color?: string;
