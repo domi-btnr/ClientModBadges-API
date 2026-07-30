@@ -1,73 +1,16 @@
 {
     "Vencord": [
         {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
+            "name": "Sora",
+            "badge": "https://badges.vencord.dev/badges/756241900029083800/4dc11ac4052ae02072c2a3c9b935c94f5f44194f.webp"
         },
         {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
+            "name": "Verified",
+            "badge": "https://badges.vencord.dev/badges/756241900029083800/d234ef2f4887fd743063f6ec719c9ae7ff5caca0.webp"
         },
         {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/756241900029083800/b66a39e49ad68462c95dd86f0aa88a1525e5ecd0.webp"
+            "name": "Vice",
+            "badge": "https://badges.vencord.dev/badges/756241900029083800/ce9ba3b2de9ddb74b60b888143544be7b525c5d4.webp"
         }
     ]
 }
