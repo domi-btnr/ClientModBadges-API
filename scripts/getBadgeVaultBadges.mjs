@@ -11,7 +11,7 @@ let attempts = 1;
 
 const getBadgeVaultBadges = async () => {
     try {
-        const response = await axios.get(`${baseUrl}?key=${API_KEY}`, { headers: { "Cache-Control": "no-cache" } });
+        const response = await axios.get(baseUrl, { headers: { "Cache-Control": "no-cache", "x-api-key": API_KEY } });
         if (!response.status === 200) return;
         const data = response.data;
         if (!Array.isArray(data)) return;
