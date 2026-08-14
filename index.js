@@ -13,6 +13,7 @@ app.get("/", (_, res) => res.redirect("https://github.com/domi-btnr/ClientModBad
 app.get("/users/:userId", async (req, res) => {
     const { userId } = req.params;
     if (!userId) return res.status(400).json({ error: "No user id provided" });
+    if (!/^\d+$/.test(userId)) return res.status(400).json({ error: "Invalid user id" });
 
     let _data = {};
     if (cache.has(userId) && cache.get(userId).expires > Date.now() && cache.get(userId).badges.length) _data = cache.get(userId).badges;
@@ -43,8 +44,9 @@ app.get("/users/:userId", async (req, res) => {
 });
 
 app.get("/badges/:clientMod/:badge", (req, res) => {
-    Object.keys(req.params).forEach(key => { req.params[key] = req.params[key].toLowerCase(); });
-    const { clientMod, badge } = req.params;
+    const clientMod = req.params.clientMod.toLowerCase();
+    const badge = req.params.badge.toLowerCase();
+    if (!/^[a-z0-9_-]+$/.test(clientMod) || !/^[a-z0-9_ -]+$/.test(badge)) return res.status(400).json({ error: "Invalid parameters" });
     if (!fs.existsSync(path.join(__dirname, "badges", clientMod))) return res.status(404).json({ error: "Client mod not found" });
     const filePath = path.join(__dirname, "badges", clientMod, `${badge.split(" ")[0]}.png`);
     if (fs.existsSync(filePath)) return res.sendFile(filePath);
