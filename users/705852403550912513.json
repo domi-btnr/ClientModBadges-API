@@ -1,0 +1,16 @@
+{
+    "Vencord": [
+        {
+            "name": "Python Developer",
+            "badge": "https://badges.vencord.dev/badges/705852403550912513/1-875e0534628cffed13f7373d6294458e0ca8d5e0.png"
+        },
+        {
+            "name": "SCP Group Owner",
+            "badge": "https://badges.vencord.dev/badges/705852403550912513/2-d01df8501a0f5094eb1350c790fcf52efaf1973a.png"
+        },
+        {
+            "name": "Server Developer",
+            "badge": "https://badges.vencord.dev/badges/705852403550912513/3-652af968220da9e253d7a4367f24831f165523c6.png"
+        }
+    ]
+}

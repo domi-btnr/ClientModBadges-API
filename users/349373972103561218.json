@@ -1,0 +1,20 @@
+{
+    "Vencord": [
+        {
+            "name": "depresso",
+            "badge": "https://badges.vencord.dev/badges/349373972103561218/1-c0b0b61f20b89d40874332cb5b6fc766f2febf80.webp"
+        },
+        {
+            "name": "callout",
+            "badge": "https://badges.vencord.dev/badges/349373972103561218/2-5bf92cb88106e97dae56f28792931a76deaeae1a.png"
+        },
+        {
+            "name": "roomba",
+            "badge": "https://badges.vencord.dev/badges/349373972103561218/3-681995d60775d427af98d5631ff6e826d73a4207.gif"
+        },
+        {
+            "name": "cringe",
+            "badge": "https://badges.vencord.dev/badges/349373972103561218/4-5b3ad489364ea8ad2149ed46ec944065802ffa4d.png"
+        }
+    ]
+}

@@ -1,5 +1,11 @@
 {
     "BetterDiscord": [
         "developer"
+    ],
+    "Vencord": [
+        {
+            "name": "Nipah ~ ☆",
+            "badge": "https://badges.vencord.dev/badges/515780151791976453/9a2dd3627ef4a3ba2400207f00410d2819b193ca.webp"
+        }
     ]
 }

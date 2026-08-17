@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "I love golang",
+            "badge": "https://badges.vencord.dev/badges/1178440413212844102/1-2248130ddaf6dbcc90482c4ed51783980b9a8a81.gif"
+        },
+        {
+            "name": "shiggy",
+            "badge": "https://badges.vencord.dev/badges/1178440413212844102/2-89babfc6995d1a56be93c7dd99a5f6808ddd30fd.gif"
+        },
+        {
+            "name": "mr. klipper",
+            "badge": "https://badges.vencord.dev/badges/1178440413212844102/3-a745c5b8ae617680c68f6508fc2f071d6fe80367.gif"
+        },
+        {
+            "name": "oh look! pretty",
+            "badge": "https://badges.vencord.dev/badges/1178440413212844102/4-d877b3d284a2e5a25f0af785f4b7f8463f0b8d4b.gif"
+        },
+        {
+            "name": "spoopy",
+            "badge": "https://badges.vencord.dev/badges/1178440413212844102/5-998ded58599610cfc5eaf04983beb9a11aff7475.gif"
+        }
+    ]
+}

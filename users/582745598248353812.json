@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "Visual Studio",
+            "badge": "https://badges.vencord.dev/badges/582745598248353812/1-52f4db8c6984ba5e55b30eb9aa27e93c25ba51b5.png"
+        },
+        {
+            "name": "The king",
+            "badge": "https://badges.vencord.dev/badges/582745598248353812/2-6b3d0f0482625abfba4d23e9f347c30cbed5cc03.PNG"
+        },
+        {
+            "name": "Le Tribunal",
+            "badge": "https://badges.vencord.dev/badges/582745598248353812/3-e7a13ad331acd5aabe5f7111f802d2675fd7e362.png"
+        },
+        {
+            "name": "Contributor",
+            "badge": "https://badges.vencord.dev/badges/582745598248353812/4-6c94d97014cf419b770eea7fb270f705fb05406a.png"
+        },
+        {
+            "name": "Developer",
+            "badge": "https://badges.vencord.dev/badges/582745598248353812/5-274e4614939ce20efd3ab2cd0354d3cd5b3247db.png"
+        }
+    ]
+}

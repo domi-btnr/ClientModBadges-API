@@ -1,0 +1,20 @@
+{
+    "Vencord": [
+        {
+            "name": "Sunsetz",
+            "badge": "https://badges.vencord.dev/badges/633993707086938132/1-0abd4549dd91317ca3e5636e03ca85bfbf8b9da1.webp"
+        },
+        {
+            "name": "moon",
+            "badge": "https://badges.vencord.dev/badges/633993707086938132/2-1d833cf5c2d8873defc3653be13a54ede220b8b4.gif"
+        },
+        {
+            "name": "cas",
+            "badge": "https://badges.vencord.dev/badges/633993707086938132/3-6efc8379bc030c7a94177f12aa6923dc950fb63b.png"
+        },
+        {
+            "name": "quiet",
+            "badge": "https://badges.vencord.dev/badges/633993707086938132/4-25edf63e6743343efab4dbaa6cad259ef1e62d63.gif"
+        }
+    ]
+}

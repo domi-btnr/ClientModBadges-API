@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "aymen",
+            "badge": "https://badges.vencord.dev/badges/1071122303796121673/1-47a4840f66d28904721e7cca4d96224875dc5e27.webp"
+        },
+        {
+            "name": "meow",
+            "badge": "https://badges.vencord.dev/badges/1071122303796121673/2-a1bc79c27f80a7b2e2488331e1ee3ce179f2b525.gif"
+        },
+        {
+            "name": "kitty",
+            "badge": "https://badges.vencord.dev/badges/1071122303796121673/3-377e62b05548831d625cd246e82970c354313706.gif"
+        },
+        {
+            "name": "angel",
+            "badge": "https://badges.vencord.dev/badges/1071122303796121673/4-9a6cd18bb1ebb7bcf008e0c8a9e8e17ba14c1cea.webp"
+        },
+        {
+            "name": "love",
+            "badge": "https://badges.vencord.dev/badges/1071122303796121673/5-743972e480fe13f422a7f2424900395c24b60c24.webp"
+        }
+    ]
+}

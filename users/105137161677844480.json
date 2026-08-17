@@ -1,0 +1,28 @@
+{
+    "Vencord": [
+        {
+            "name": "Root",
+            "badge": "https://badges.vencord.dev/badges/105137161677844480/1-2ad8d53347f9bd57e064c1ae374ad7a56a0b1e4e.gif"
+        },
+        {
+            "name": "Unbeatable",
+            "badge": "https://badges.vencord.dev/badges/105137161677844480/2-2b17945ed8e003ab690e965f82efcd4b8d0e4b41.webp"
+        },
+        {
+            "name": "Unstoppable",
+            "badge": "https://badges.vencord.dev/badges/105137161677844480/3-15b7099ab262c138fce40d21d32328e136e59cfe.webp"
+        },
+        {
+            "name": "Ace",
+            "badge": "https://badges.vencord.dev/badges/105137161677844480/4-9c59d66efce354745c73b360a11ce40aedca6219.webp"
+        },
+        {
+            "name": "Ghost",
+            "badge": "https://badges.vencord.dev/badges/105137161677844480/5-41f5afc09d736d1cc931d7355460e3e756ebbd4e.gif"
+        },
+        {
+            "name": "Elite",
+            "badge": "https://badges.vencord.dev/badges/105137161677844480/6-220436c930aeabd310033b8a56cb35af9404db7f.png"
+        }
+    ]
+}

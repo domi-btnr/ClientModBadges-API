@@ -1,0 +1,40 @@
+{
+    "Vencord": [
+        {
+            "name": "W",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/1-4e703b32b7b90a7c388f293d7dcc43cb2c9d0ec9.webp"
+        },
+        {
+            "name": "E",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/2-3559d057d15617ed30def97e6f1ba7df7c4a9d75.webp"
+        },
+        {
+            "name": "X",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/3-c21d556c4484b7d83cb6a23355b0a01e4fee5306.webp"
+        },
+        {
+            "name": "Wex",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/4-f2c5ca3c707a649899a8c3f1475babf146ca6ec4.gif"
+        },
+        {
+            "name": "Privado",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/5-c9348ec3788308f477d6d748c120763c520ec9b3.webp"
+        },
+        {
+            "name": "XD",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/6-fd2fd411c80e7d613cb766b45fb9a336868c631e.png"
+        },
+        {
+            "name": "Blocked",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/7-5b21d11975df491c9637dd7a78db949159cd0e5d.gif"
+        },
+        {
+            "name": "<3",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/8-6378cdd778764d031c9dc436c95120c0b2ce21b7.gif"
+        },
+        {
+            "name": "???",
+            "badge": "https://badges.vencord.dev/badges/730169345782841444/9-04dbd84d58d6021396f18e0a7fb30e3c21d7e55c.webp"
+        }
+    ]
+}

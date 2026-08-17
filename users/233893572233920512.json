@@ -1,0 +1,24 @@
+{
+    "Vencord": [
+        {
+            "name": "Pretty",
+            "badge": "https://badges.vencord.dev/badges/233893572233920512/1-8cff87f1ad80faee9afd5188121e427585ccda27.webp"
+        },
+        {
+            "name": "Vencord Donator",
+            "badge": "https://badges.vencord.dev/badges/233893572233920512/2-92116ec50009f782c3bc0f2416d37d0e9cfa411e.webp"
+        },
+        {
+            "name": "1337",
+            "badge": "https://badges.vencord.dev/badges/233893572233920512/3-b7a0146ed43d0a5195d6d2f19a827ac53ab57fb7.webp"
+        },
+        {
+            "name": "ltc",
+            "badge": "https://badges.vencord.dev/badges/233893572233920512/5-bb206d7dbaa1212ef181556ee72eab6af3504756.webp"
+        },
+        {
+            "name": "btc",
+            "badge": "https://badges.vencord.dev/badges/233893572233920512/6-f07ba7e4fe49974ab9e5fbf20ad00c115c094e13.webp"
+        }
+    ]
+}

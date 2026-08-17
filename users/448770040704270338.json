@@ -5,5 +5,35 @@
             "name": "WIZ*ONE FOREVER",
             "badge": "https://cdn.discordapp.com/attachments/1169159914988515369/1169273789939470377/577008297257992193.png"
         }
+    ],
+    "Vencord": [
+        {
+            "name": "Adachi Rei",
+            "badge": "https://badges.vencord.dev/badges/448770040704270338/7c584ee652f474b948360d9713dafb8589fd28aa.webp"
+        },
+        {
+            "name": "OsageSpin",
+            "badge": "https://badges.vencord.dev/badges/448770040704270338/2-27d02799eaa54d125f4d2741840c3c358860e336.gif"
+        },
+        {
+            "name": "Fumosage",
+            "badge": "https://badges.vencord.dev/badges/448770040704270338/3-82844afcf4a1791f5daee8c2bdbd2542094f152e.png"
+        },
+        {
+            "name": "Kaai Yuki",
+            "badge": "https://badges.vencord.dev/badges/448770040704270338/4-6f0b3b4e91f2c5ae58803618e58ef57ef07e21eb.png"
+        },
+        {
+            "name": "flower",
+            "badge": "https://badges.vencord.dev/badges/448770040704270338/6-0126f2557e5689418c38a9dfb26bfc315f49746f.webp"
+        },
+        {
+            "name": "GUMI",
+            "badge": "https://badges.vencord.dev/badges/448770040704270338/6-df1b1a6702145dc9493695194dfee981fedf270f.webp"
+        },
+        {
+            "name": "Phantom Collector",
+            "badge": "https://badges.vencord.dev/badges/448770040704270338/5-0355dfd52a187e125f4c69ce37cc5c907509d066.png"
+        }
     ]
 }
