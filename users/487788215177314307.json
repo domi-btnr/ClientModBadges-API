@@ -5,11 +5,5 @@
             "name": "trans flag",
             "badge": "https://raw.githubusercontent.com/enmity-mod/badges/main/assets/487788215177314307.png"
         }
-    ],
-    "Vencord": [
-        {
-            "name": "snat",
-            "badge": "https://badges.vencord.dev/badges/487788215177314307/1-124414a2887de84895017de6f4998c62d4e15cbc.png"
-        }
     ]
 }

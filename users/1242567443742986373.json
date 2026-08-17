@@ -2,11 +2,5 @@
     "Aliucord": [
         "contributor",
         "donor"
-    ],
-    "Vencord": [
-        {
-            "name": "Transistor",
-            "badge": "https://badges.vencord.dev/badges/1242567443742986373/1-a6c00fdf9d36fd9f6edaf089b4819f765d5e0e30.png"
-        }
     ]
 }
