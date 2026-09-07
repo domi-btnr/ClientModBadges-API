@@ -1,56 +1,6 @@
 {
     "Vencord": [
         {
-            "name": "I",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/1-03f9ea516fea82d1a394f2591f403ee85615f203.png"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/2-a4019501b4ee0f1b232c6a8134164f9cf2344bd7.png"
-        },
-        {
-            "name": "L",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/3-4e0776f2a93158a544a1ecd1fbd62d6ef04fab8a.png"
-        },
-        {
-            "name": "O",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/4-ed3f3d924d1d635c3951cbeb8f9e4ab49555e073.png"
-        },
-        {
-            "name": "V",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/5-5c2bdd086be56d259c133f93208cab93a708a3f8.png"
-        },
-        {
-            "name": "E",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/6-39a6b0c5cb3b9e7842df8cd29f32ae829ac13548.png"
-        },
-        {
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/7-a4019501b4ee0f1b232c6a8134164f9cf2344bd7.png"
-        },
-        {
-            "name": "J",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/8-a75d32f6453d4da284ecc5e969b0382201f1fd16.png"
-        },
-        {
-            "name": "A",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/9-c76540f1d9dfbef712763aa5ff339d1523d37a51.png"
-        },
-        {
-            "name": "Z",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/10-1d73d57561739530e971da0e3eb649693546925d.png"
-        },
-        {
-            "name": "M",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/11-6fabfbaaf3203dfe896a348894287d062e829fcd.png"
-        },
-        {
-            "name": "I",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/12-03f9ea516fea82d1a394f2591f403ee85615f203.png"
-        },
-        {
-            "name": "N",
-            "badge": "https://badges.vencord.dev/badges/790707232290766888/13-98ff64649bc1504693c4f770cc63b81adcc201f0.png"
-        },
-        {
             "name": "cross",
             "badge": "https://badges.vencord.dev/badges/790707232290766888/14-c2dbfaee5aa9e015e2e206b94291e89ce5beff9f.png"
         },
