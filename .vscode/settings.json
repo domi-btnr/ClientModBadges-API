@@ -17,5 +17,8 @@
       "source.fixAll.prettier": "explicit",
       "source.fixAll.eslint": "explicit"
     }
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
   }
 }

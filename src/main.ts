@@ -2,6 +2,7 @@ import { AppConfigService } from "@config";
 import { AppModule } from "@modules/app.module";
 import { LoggingModule } from "@modules/logging/logging.module";
 import { OpenAPIModule } from "@modules/openapi/openapi.module";
+import { PrismaModule } from "@modules/prisma/prisma.module";
 import { ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
 import { Logger } from "nestjs-pino";
@@ -32,6 +33,7 @@ async function bootstrap() {
   );
 
   LoggingModule.init(app);
+  PrismaModule.init(app);
   const logOpenAPIStarted = OpenAPIModule.init(app);
 
   const appConfigService = app.get(AppConfigService);
