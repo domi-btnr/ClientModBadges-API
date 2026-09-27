@@ -10,7 +10,7 @@
     },
     {
       "type": "node-terminal",
-      "name": "Start Jest Tests in Debug Mode",
+      "name": "Start Vitest Tests in Debug Mode",
       "request": "launch",
       "command": "pnpm run test:debug",
       "cwd": "${workspaceFolder}"

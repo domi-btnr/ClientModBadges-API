@@ -1,4 +1,4 @@
-import { ProblemDetailsException } from "./problem-details.exception";
+import { ProblemDetailsException } from "./problem-details.exception.js";
 
 export const internalServerError500Body = {
   type: "error:api@clientmodbadges:internal-server-error",

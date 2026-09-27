@@ -1,9 +1,10 @@
 import { applyDecorators } from "@nestjs/common";
 import { ApiExtraModels, ApiResponse } from "@nestjs/swagger";
-import { buildProblemDetailsContent } from "@utils";
 
-import { ProblemDetailsDTO } from "../dto/problem-details.dto";
-import { notFound404Body } from "../exception/not-found.exception";
+import { buildProblemDetailsContent } from "#utils";
+
+import { ProblemDetailsDTO } from "../dto/problem-details.dto.js";
+import { notFound404Body } from "../exception/not-found.exception.js";
 
 export const NotFoundProblemResponse = (override?: Partial<ProblemDetailsDTO>) =>
   applyDecorators(

@@ -1,5 +1,5 @@
-import { RepluggedBadgesDTO } from "./replugged-badges.dto";
-import { RepluggedCutiePerksDTO } from "./replugged-cutie-perks.dto";
+import { RepluggedBadgesDTO } from "./replugged-badges.dto.js";
+import { RepluggedCutiePerksDTO } from "./replugged-cutie-perks.dto.js";
 
 export class RepluggedUserDTO {
   _id!: string;

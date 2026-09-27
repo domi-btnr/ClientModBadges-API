@@ -1,7 +1,8 @@
 import { Injectable } from "@nestjs/common";
-import { RepluggedUserDTO } from "@providers/replugged/dto/replugged-user.dto";
 import axios from "axios";
 import { PinoLogger } from "nestjs-pino";
+
+import { RepluggedUserDTO } from "#providers/replugged/dto/replugged-user.dto.js";
 
 const BASE_URL = "https://replugged.dev/api/v1";
 

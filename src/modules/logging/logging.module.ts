@@ -1,6 +1,7 @@
-import { AppConfigService } from "@config";
 import { Global, INestApplication, Module } from "@nestjs/common";
 import { Logger, LoggerErrorInterceptor, LoggerModule } from "nestjs-pino";
+
+import { AppConfigService } from "#config";
 
 @Module({
   imports: [

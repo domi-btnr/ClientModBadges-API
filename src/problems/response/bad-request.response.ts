@@ -1,9 +1,10 @@
 import { applyDecorators } from "@nestjs/common";
 import { ApiExtraModels, ApiResponse } from "@nestjs/swagger";
-import { buildProblemDetailsContent } from "@utils";
 
-import { ProblemDetailsDTO } from "../dto/problem-details.dto";
-import { badRequest400Body } from "../exception/bad-request.exception";
+import { buildProblemDetailsContent } from "#utils";
+
+import { ProblemDetailsDTO } from "../dto/problem-details.dto.js";
+import { badRequest400Body } from "../exception/bad-request.exception.js";
 
 const defaultExample = {
   ...badRequest400Body,

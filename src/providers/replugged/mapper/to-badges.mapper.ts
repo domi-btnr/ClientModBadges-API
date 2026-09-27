@@ -1,5 +1,5 @@
-import { BadgeDTO } from "@modules/users/dto/badge.dto";
-import { RepluggedUserDTO } from "@providers/replugged/dto/replugged-user.dto";
+import { BadgeDTO } from "#modules/users/dto/badge.dto.js";
+import { RepluggedUserDTO } from "#providers/replugged/dto/replugged-user.dto.js";
 
 const BADGES_MAP: Record<string, string> = {
   developer: "Developer",

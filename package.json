@@ -1,22 +1,56 @@
 {
-  "packageManager": "pnpm@11.2.2+sha512.36e6621fad506178936455e70247b8808ef4ec25797a9f437a93281a020484e2607f6a469a22e982987c3dbb8866e3071514ab10a4a1749e06edcd1ec118436f",
+  "type": "module",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start --watch",
     "start:debug": "nest start --debug --watch",
-    "start:prod": "node dist/main",
+    "start:prod": "node dist/main.js",
     "db:generate": "prisma generate",
     "db:migrate": "prisma migrate dev",
     "db:migrate:reset": "prisma migrate reset",
     "db:seed": "prisma db seed",
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" && prettier --check .",
     "lint:fix": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix && prettier --write .",
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "test:cov": "jest --coverage",
-    "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
-    "test:e2e": "jest --config ./test/jest-e2e.json"
+    "test": "vitest run --project unit",
+    "test:watch": "vitest --project unit",
+    "test:cov": "vitest run --project unit --coverage",
+    "test:debug": "vitest --project unit --inspect-brk --no-file-parallelism",
+    "test:e2e": "vitest run --project e2e"
+  },
+  "imports": {
+    "#config": {
+      "source": "./src/modules/appconfig/appconfig.service.ts",
+      "default": "./dist/modules/appconfig/appconfig.service.js"
+    },
+    "#modules/*": {
+      "source": "./src/modules/*",
+      "default": "./dist/modules/*"
+    },
+    "#problems/dto": {
+      "source": "./src/problems/dto/index.ts",
+      "default": "./dist/problems/dto/index.js"
+    },
+    "#problems/exception": {
+      "source": "./src/problems/exception/index.ts",
+      "default": "./dist/problems/exception/index.js"
+    },
+    "#problems/filter": {
+      "source": "./src/problems/filter/index.ts",
+      "default": "./dist/problems/filter/index.js"
+    },
+    "#problems/response": {
+      "source": "./src/problems/response/index.ts",
+      "default": "./dist/problems/response/index.js"
+    },
+    "#providers/*": {
+      "source": "./src/providers/*",
+      "default": "./dist/providers/*"
+    },
+    "#utils": {
+      "source": "./src/utils/index.ts",
+      "default": "./dist/utils/index.js"
+    }
   },
   "dependencies": {
     "@nestjs/common": "^11.1.21",
@@ -43,11 +77,12 @@
     "@nestjs/cli": "^11.0.21",
     "@nestjs/schematics": "^11.1.0",
     "@nestjs/testing": "^11.1.21",
+    "@swc/core": "^1.16.2",
     "@types/express": "^5.0.6",
-    "@types/jest": "^30.0.0",
     "@types/node": "^25.9.1",
     "@types/pg": "^8.20.0",
     "@types/supertest": "^7.2.0",
+    "@vitest/coverage-v8": "^5.0.2",
     "dotenv": "^17.4.2",
     "dotenv-expand": "^1000.0.0",
     "eslint": "^10.4.0",
@@ -56,34 +91,15 @@
     "eslint-plugin-simple-import-sort": "^13.0.0",
     "eslint-plugin-unused-imports": "^4.4.1",
     "globals": "^17.6.0",
-    "jest": "^30.4.2",
     "prettier": "^3.8.3",
     "prisma": "^7.8.0",
     "source-map-support": "^0.5.21",
     "supertest": "^7.2.2",
-    "ts-jest": "^29.4.10",
-    "ts-loader": "^9.5.7",
-    "ts-node": "^10.9.2",
-    "tsconfig-paths": "^4.2.0",
     "tsx": "^4.23.1",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.59.4"
+    "typescript-eslint": "^8.59.4",
+    "unplugin-swc": "^2.0.0",
+    "vitest": "^5.0.2"
   },
-  "jest": {
-    "moduleFileExtensions": [
-      "js",
-      "json",
-      "ts"
-    ],
-    "rootDir": "src",
-    "testRegex": ".*\\.spec\\.ts$",
-    "transform": {
-      "^.+\\.(t|j)s$": "ts-jest"
-    },
-    "collectCoverageFrom": [
-      "**/*.(t|j)s"
-    ],
-    "coverageDirectory": "../coverage",
-    "testEnvironment": "node"
-  }
+  "packageManager": "pnpm@11.2.2+sha512.36e6621fad506178936455e70247b8808ef4ec25797a9f437a93281a020484e2607f6a469a22e982987c3dbb8866e3071514ab10a4a1749e06edcd1ec118436f"
 }

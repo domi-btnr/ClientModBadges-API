@@ -1,10 +1,11 @@
-import { AppConfigService } from "@config";
 import { INestApplication, Injectable, OnModuleDestroy, OnModuleInit } from "@nestjs/common";
 import { PrismaPg } from "@prisma/adapter-pg";
 import { PinoLogger } from "nestjs-pino";
 import { Pool } from "pg";
 
-import { Prisma, PrismaClient } from "./generated/client";
+import { AppConfigService } from "#config";
+
+import { Prisma, PrismaClient } from "./generated/client.js";
 
 const CONNECTION_ERROR_MESSAGES: Record<string, string> = {
   ECONNREFUSED: "Could not reach the database server — nothing is listening on the configured host and port",

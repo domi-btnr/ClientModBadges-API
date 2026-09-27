@@ -1,6 +1,6 @@
 import { getSchemaPath } from "@nestjs/swagger";
 
-import { ProblemDetailsDTO } from "../problems/dto/problem-details.dto";
+import { ProblemDetailsDTO } from "../problems/dto/problem-details.dto.js";
 
 type SchemaProperties = Record<string, object>;
 

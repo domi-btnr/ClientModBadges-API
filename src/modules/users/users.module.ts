@@ -1,9 +1,10 @@
-import { PrismaService } from "@modules/prisma/prisma.service";
 import { Module } from "@nestjs/common";
-import { RepluggedProvider } from "@providers/replugged/replugged.provider";
 
-import { UsersController } from "./users.controller";
-import { UsersService } from "./users.service";
+import { PrismaService } from "#modules/prisma/prisma.service.js";
+import { RepluggedProvider } from "#providers/replugged/replugged.provider.js";
+
+import { UsersController } from "./users.controller.js";
+import { UsersService } from "./users.service.js";
 
 @Module({
   controllers: [UsersController],

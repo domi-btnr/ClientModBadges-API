@@ -35,7 +35,7 @@ throw new ProblemDetailsException({ type: "...", status: 409, title: "Conflict" 
 4. Re-export everything through `index.ts`.
 
 ```ts
-import { ProblemDetailsException } from "./problem-details.exception";
+import { ProblemDetailsException } from "./problem-details.exception.js";
 
 export const conflict409Body = {
   type: "error:api@clientmodbadges:[reason]",

@@ -1,1 +1,1 @@
-export * from "./problem-details.filter";
+export * from "./problem-details.filter.js";

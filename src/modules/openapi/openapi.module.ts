@@ -1,9 +1,10 @@
-import { AppConfigService } from "@config";
 import { INestApplication, Module } from "@nestjs/common";
 import { DocumentBuilder, OpenAPIObject, SwaggerModule } from "@nestjs/swagger";
-import { ProblemDetailsDTO } from "@problems/dto";
-import { internalServerError500Response } from "@problems/response";
-import { Logger } from "nestjs-pino/Logger";
+import { Logger } from "nestjs-pino";
+
+import { AppConfigService } from "#config";
+import { ProblemDetailsDTO } from "#problems/dto";
+import { internalServerError500Response } from "#problems/response";
 
 @Module({
   imports: [SwaggerModule]

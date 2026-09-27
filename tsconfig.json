@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
-    "module": "node16",
-    "moduleResolution": "node16",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "customConditions": ["source"],
     "esModuleInterop": true,
     "isolatedModules": true,
     "declaration": true,
@@ -17,16 +18,6 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false,
-    "types": ["node", "jest"],
-    "paths": {
-      "@config": ["./src/modules/appconfig/appconfig.service.ts"],
-      "@modules/*": ["./src/modules/*"],
-      "@problems/dto": ["./src/problems/dto/index.ts"],
-      "@problems/exception": ["./src/problems/exception/index.ts"],
-      "@problems/filter": ["./src/problems/filter/index.ts"],
-      "@problems/response": ["./src/problems/response/index.ts"],
-      "@providers/*": ["./src/providers/*"],
-      "@utils": ["./src/utils/index.ts"]
-    }
+    "types": ["node", "vitest/globals"]
   }
 }

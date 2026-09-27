@@ -1,14 +1,15 @@
-import { AppConfigService } from "@config";
-import { AppModule } from "@modules/app.module";
-import { LoggingModule } from "@modules/logging/logging.module";
-import { OpenAPIModule } from "@modules/openapi/openapi.module";
-import { PrismaModule } from "@modules/prisma/prisma.module";
 import { ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
 import { Logger } from "nestjs-pino";
 
-import { ProblemDetailsException } from "./problems/exception";
-import { ProblemDetailsFilter } from "./problems/filter";
+import { AppConfigService } from "#config";
+import { AppModule } from "#modules/app.module.js";
+import { LoggingModule } from "#modules/logging/logging.module.js";
+import { OpenAPIModule } from "#modules/openapi/openapi.module.js";
+import { PrismaModule } from "#modules/prisma/prisma.module.js";
+
+import { ProblemDetailsException } from "./problems/exception/index.js";
+import { ProblemDetailsFilter } from "./problems/filter/index.js";
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule, { bufferLogs: true });

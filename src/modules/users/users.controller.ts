@@ -1,11 +1,12 @@
 import { Controller, Get, Param } from "@nestjs/common";
 import { ApiExtraModels, ApiOkResponse, ApiOperation, getSchemaPath } from "@nestjs/swagger";
-import { BadRequestProblemResponse, NotFoundProblemResponse } from "@problems/response";
 
-import { BadgeDTO } from "./dto/badge.dto";
-import { UserDTO } from "./dto/user.dto";
-import UserContextDTO from "./dto/user-context.dto";
-import { UsersService } from "./users.service";
+import { BadRequestProblemResponse, NotFoundProblemResponse } from "#problems/response";
+
+import { BadgeDTO } from "./dto/badge.dto.js";
+import { UserDTO } from "./dto/user.dto.js";
+import UserContextDTO from "./dto/user-context.dto.js";
+import { UsersService } from "./users.service.js";
 
 @Controller("users")
 @ApiExtraModels(BadgeDTO)

@@ -1,8 +1,8 @@
-import { Prisma } from "@modules/prisma/generated/client";
-import { ClientMods } from "@modules/prisma/generated/enums";
+import { Prisma } from "#modules/prisma/generated/client.js";
+import { ClientMods } from "#modules/prisma/generated/enums.js";
 
-import { BadgeDTO } from "../dto/badge.dto";
-import { UserDTO } from "../dto/user.dto";
+import { BadgeDTO } from "../dto/badge.dto.js";
+import { UserDTO } from "../dto/user.dto.js";
 
 export const USER_WITH_BADGES_INCLUDE = {
   badges: {

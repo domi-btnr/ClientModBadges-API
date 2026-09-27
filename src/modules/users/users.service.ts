@@ -1,11 +1,12 @@
-import { AppConfigService } from "@config";
-import { PrismaService } from "@modules/prisma/prisma.service";
 import { Injectable } from "@nestjs/common";
-import { toBadges } from "@providers/replugged/mapper/to-badges.mapper";
-import { RepluggedProvider } from "@providers/replugged/replugged.provider";
 
-import { UserDTO } from "./dto/user.dto";
-import { toUserDTO, USER_WITH_BADGES_INCLUDE } from "./mapper/to-user-dto.mapper";
+import { AppConfigService } from "#config";
+import { PrismaService } from "#modules/prisma/prisma.service.js";
+import { toBadges } from "#providers/replugged/mapper/to-badges.mapper.js";
+import { RepluggedProvider } from "#providers/replugged/replugged.provider.js";
+
+import { UserDTO } from "./dto/user.dto.js";
+import { toUserDTO, USER_WITH_BADGES_INCLUDE } from "./mapper/to-user-dto.mapper.js";
 
 @Injectable()
 export class UsersService {

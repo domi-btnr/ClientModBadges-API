@@ -1,15 +1,16 @@
 import { INestApplication } from "@nestjs/common";
-import { ConfigModule } from "@nestjs/config";
 import { Test, TestingModule } from "@nestjs/testing";
 import { Logger, LoggerErrorInterceptor } from "nestjs-pino";
 
-import { LoggingModule } from "./logging.module";
+import { AppConfigModule } from "#modules/appconfig/appconfig.module.js";
+
+import { LoggingModule } from "./logging.module.js";
 
 describe("LoggingModule", () => {
   describe("module compilation", () => {
-    it("should compile with ConfigModule", async () => {
+    it("should compile with AppConfigModule", async () => {
       const module: TestingModule = await Test.createTestingModule({
-        imports: [ConfigModule.forRoot(), LoggingModule]
+        imports: [AppConfigModule, LoggingModule]
       }).compile();
 
       expect(module).toBeDefined();
@@ -19,9 +20,9 @@ describe("LoggingModule", () => {
   describe("init", () => {
     it("should register logger and interceptor on the app", () => {
       const mockLogger = {} as Logger;
-      const mockGet = jest.fn().mockReturnValue(mockLogger);
-      const mockUseLogger = jest.fn();
-      const mockUseGlobalInterceptors = jest.fn();
+      const mockGet = vi.fn().mockReturnValue(mockLogger);
+      const mockUseLogger = vi.fn();
+      const mockUseGlobalInterceptors = vi.fn();
       const mockApp = {
         get: mockGet,
         useLogger: mockUseLogger,

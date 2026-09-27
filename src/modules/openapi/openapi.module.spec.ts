@@ -1,11 +1,12 @@
 import { INestApplication } from "@nestjs/common";
 import { SwaggerModule } from "@nestjs/swagger";
 import { Test, TestingModule } from "@nestjs/testing";
-import { getAppUrl } from "@utils";
+import { Logger } from "nestjs-pino";
+import type { Mock, MockInstance } from "vitest";
 
-import { OpenAPIModule } from "./openapi.module";
+import { AppConfigService } from "#config";
 
-jest.mock("@utils");
+import { OpenAPIModule } from "./openapi.module.js";
 
 describe("OpenAPIModule", () => {
   describe("module compilation", () => {
@@ -19,22 +20,28 @@ describe("OpenAPIModule", () => {
   });
 
   describe("init", () => {
-    let mockLog: jest.Mock;
+    let mockLog: Mock;
     let mockApp: INestApplication;
-    let setupSpy: jest.SpyInstance;
+    let setupSpy: MockInstance;
 
     beforeEach(() => {
-      mockLog = jest.fn();
+      mockLog = vi.fn();
       mockApp = {
-        get: jest.fn().mockReturnValue({ log: mockLog })
+        get: vi.fn((token: unknown) => {
+          if (token === AppConfigService) return { get: () => "http://localhost:8080" };
+          if (token === Logger) return { log: mockLog };
+        })
       } as unknown as INestApplication;
 
-      jest.spyOn(SwaggerModule, "createDocument").mockReturnValue({} as never);
-      setupSpy = jest.spyOn(SwaggerModule, "setup").mockImplementation(() => undefined);
-      (getAppUrl as jest.Mock).mockResolvedValue("http://localhost:8080");
+      vi.spyOn(SwaggerModule, "createDocument").mockReturnValue({
+        openapi: "3.2.0",
+        info: { title: "", version: "" },
+        paths: {}
+      });
+      setupSpy = vi.spyOn(SwaggerModule, "setup").mockImplementation(() => undefined);
     });
 
-    afterEach(() => jest.restoreAllMocks());
+    afterEach(() => vi.restoreAllMocks());
 
     it("should set up Swagger at /docs", () => {
       OpenAPIModule.init(mockApp);
@@ -50,8 +57,8 @@ describe("OpenAPIModule", () => {
       );
     });
 
-    it("should log the docs URL when the callback is called", async () => {
-      await OpenAPIModule.init(mockApp)();
+    it("should log the docs URL when the callback is called", () => {
+      OpenAPIModule.init(mockApp)();
 
       expect(mockLog).toHaveBeenCalledWith(
         "OpenAPI documentation available at http://localhost:8080/docs",

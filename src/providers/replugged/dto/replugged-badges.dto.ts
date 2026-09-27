@@ -1,4 +1,4 @@
-import { RepluggedCustomBadgeDTO } from "./replugged-custom-badge.dto";
+import { RepluggedCustomBadgeDTO } from "./replugged-custom-badge.dto.js";
 
 export class RepluggedBadgesDTO {
   developer!: boolean;

@@ -28,7 +28,7 @@ Create a response file alongside its exception counterpart. Import the body cons
 4. Re-export through `index.ts`.
 
 ```ts
-import { conflict409Body } from "../exception/conflict.exception";
+import { conflict409Body } from "../exception/conflict.exception.js";
 
 export const ConflictProblemResponse = (override?: Partial<ProblemDetailsDTO>) =>
   applyDecorators(

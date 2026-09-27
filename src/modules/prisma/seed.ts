@@ -3,10 +3,9 @@ import { config } from "dotenv";
 import { expand } from "dotenv-expand";
 import { Pool } from "pg";
 
-import { PrismaClient } from "./generated/client";
-import { ClientMods } from "./generated/enums";
+import { PrismaClient } from "./generated/client.js";
+import { ClientMods } from "./generated/enums.js";
 
-// eslint-disable-next-line @typescript-eslint/no-unsafe-call
 expand(config());
 
 const connectionString = process.env.DATABASE_URL ?? "postgres://admin:password@localhost:5432/clientmodbadges";
