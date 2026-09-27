@@ -1,24 +1,5 @@
-import { ApiProperty } from "@nestjs/swagger";
+import { ClientMods } from "@modules/prisma/generated/enums";
 
-export class UserDTO {
-  @ApiProperty({
-    description: "Display name of the badge",
-    example: "Developer",
-    required: true
-  })
-  name!: string;
+import { BadgeDTO } from "./badge.dto";
 
-  @ApiProperty({
-    description: "URL of the badge image",
-    example: "https://replugged.dev/badges/replugged/developer",
-    required: true
-  })
-  image!: string;
-
-  @ApiProperty({
-    description: "Optional hex color associated with the badge",
-    example: "#ff0000",
-    required: false
-  })
-  color?: string;
-}
+export type UserDTO = Partial<Record<ClientMods, { badges: BadgeDTO[] }>>;

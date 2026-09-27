@@ -1,10 +1,5 @@
+import { BadgeDTO } from "@modules/users/dto/badge.dto";
 import { RepluggedUserDTO } from "@providers/replugged/dto/replugged-user.dto";
-
-export interface Badge {
-  name: string;
-  image: string;
-  color?: string;
-}
 
 const BADGES_MAP: Record<string, string> = {
   developer: "Developer",
@@ -17,8 +12,8 @@ const BADGES_MAP: Record<string, string> = {
   booster: "Booster"
 };
 
-export function toBadges(user: RepluggedUserDTO, baseUrl: string): Badge[] {
-  const badges: Badge[] = [];
+export function toBadges(user: RepluggedUserDTO, baseUrl: string): BadgeDTO[] {
+  const badges: BadgeDTO[] = [];
 
   for (const [key, name] of Object.entries(BADGES_MAP)) {
     if (user.badges[key as keyof typeof user.badges] === true) {
