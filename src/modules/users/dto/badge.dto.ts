@@ -2,11 +2,11 @@ import { ApiProperty } from "@nestjs/swagger";
 
 export class BadgeDTO {
   @ApiProperty({
-    description: "Display name of the badge",
+    description: "Display name of the badge. Custom Badges may not have a name",
     example: "Developer",
-    required: true
+    required: false
   })
-  name!: string;
+  name?: string;
 
   @ApiProperty({
     description: "URL of the badge image",

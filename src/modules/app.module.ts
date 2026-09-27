@@ -4,9 +4,10 @@ import { AppConfigModule } from "./appconfig/appconfig.module.js";
 import { LoggingModule } from "./logging/logging.module.js";
 import { OpenAPIModule } from "./openapi/openapi.module.js";
 import { PrismaModule } from "./prisma/prisma.module.js";
+import { SchedulesModule } from "./schedules/schedules.module.js";
 import { UsersModule } from "./users/users.module.js";
 
 @Module({
-  imports: [AppConfigModule, LoggingModule, OpenAPIModule, PrismaModule, UsersModule]
+  imports: [AppConfigModule, LoggingModule, OpenAPIModule, PrismaModule, SchedulesModule, UsersModule]
 })
 export class AppModule {}

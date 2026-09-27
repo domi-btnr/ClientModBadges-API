@@ -14,9 +14,9 @@ describe("toUserDTO", () => {
       {
         user: {
           badges: [
-            { clientMod: ClientMods.Vencord, name: "Contributor" },
-            { clientMod: ClientMods.Aliucord, name: "Bug Hunter" },
-            { clientMod: ClientMods.Vencord, name: "Donor" }
+            { clientMod: ClientMods.Vencord, name: "Contributor", image: null },
+            { clientMod: ClientMods.Aliucord, name: "Bug Hunter", image: null },
+            { clientMod: ClientMods.Vencord, name: "Donor", image: null }
           ]
         },
         replugged: []
@@ -37,12 +37,47 @@ describe("toUserDTO", () => {
     });
   });
 
+  it("should use the stored image for custom badges", () => {
+    const result = toUserDTO(
+      {
+        user: { badges: [{ clientMod: ClientMods.Vencord, name: "Donor", image: "https://example.com/donor.png" }] },
+        replugged: []
+      },
+      BASE_URL
+    );
+
+    expect(result).toEqual({
+      Vencord: { badges: [{ name: "Donor", image: "https://example.com/donor.png" }] }
+    });
+  });
+
+  it("should return custom badges without a name", () => {
+    const result = toUserDTO(
+      {
+        user: { badges: [{ clientMod: ClientMods.Vencord, name: null, image: "https://example.com/badge.png" }] },
+        replugged: []
+      },
+      BASE_URL
+    );
+
+    expect(result).toEqual({ Vencord: { badges: [{ name: undefined, image: "https://example.com/badge.png" }] } });
+  });
+
+  it("should skip badges without a name and an image", () => {
+    const result = toUserDTO(
+      { user: { badges: [{ clientMod: ClientMods.Vencord, name: null, image: null }] }, replugged: [] },
+      BASE_URL
+    );
+
+    expect(result).toEqual({});
+  });
+
   it("should append Replugged badges after database Replugged badges", () => {
     const repluggedBadge = { name: "Developer", image: `${BASE_URL}/badges/replugged/developer` };
 
     const result = toUserDTO(
       {
-        user: { badges: [{ clientMod: ClientMods.Replugged, name: "Early Supporter" }] },
+        user: { badges: [{ clientMod: ClientMods.Replugged, name: "Early Supporter", image: null }] },
         replugged: [repluggedBadge]
       },
       BASE_URL

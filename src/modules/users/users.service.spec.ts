@@ -68,7 +68,7 @@ describe("UsersService", () => {
 
   it("should merge database and Replugged badges", async () => {
     getRepluggedUser.mockResolvedValue(REPLUGGED_USER);
-    findUnique.mockResolvedValue({ badges: [{ clientMod: ClientMods.Vencord, name: "Contributor" }] });
+    findUnique.mockResolvedValue({ badges: [{ clientMod: ClientMods.Vencord, name: "Contributor", image: null }] });
 
     await expect(usersService.getUser(USER_ID)).resolves.toEqual({
       Vencord: { badges: [{ name: "Contributor", image: `${BASE_URL}/badges/vencord/contributor` }] },
@@ -78,7 +78,7 @@ describe("UsersService", () => {
 
   it("should only return database badges when the user has no Replugged account", async () => {
     getRepluggedUser.mockResolvedValue(undefined);
-    findUnique.mockResolvedValue({ badges: [{ clientMod: ClientMods.Aliucord, name: "Dev" }] });
+    findUnique.mockResolvedValue({ badges: [{ clientMod: ClientMods.Aliucord, name: "Dev", image: null }] });
 
     await expect(usersService.getUser(USER_ID)).resolves.toEqual({
       Aliucord: { badges: [{ name: "Dev", image: `${BASE_URL}/badges/aliucord/dev` }] }

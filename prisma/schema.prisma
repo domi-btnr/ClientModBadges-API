@@ -29,8 +29,9 @@ model Badge {
   user      User       @relation(fields: [userId], references: [id], onDelete: Cascade)
   userId    String
   clientMod ClientMods
-  name      String
+  name      String?
+  image     String? // External image URL for custom badges; null for built-in badges
 
-  @@unique([userId, clientMod, name])
   @@index([userId])
+  @@index([clientMod])
 }

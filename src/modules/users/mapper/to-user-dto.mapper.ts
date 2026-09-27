@@ -8,7 +8,8 @@ export const USER_WITH_BADGES_INCLUDE = {
   badges: {
     select: {
       clientMod: true,
-      name: true
+      name: true,
+      image: true
     }
   }
 } satisfies Prisma.UserInclude;
@@ -34,8 +35,12 @@ export function toUserDTO({ user, replugged }: UserWithBadges, baseUrl: string):
     userDTO[clientMod] = mod;
   };
 
-  for (const { clientMod, name } of user?.badges ?? [])
-    addBadge(clientMod, { name, image: toBadgeImage(baseUrl, clientMod, name) });
+  for (const { clientMod, name, image } of user?.badges ?? []) {
+    const badgeImage = image ?? (name ? toBadgeImage(baseUrl, clientMod, name) : undefined);
+    if (!badgeImage) continue;
+
+    addBadge(clientMod, { name: name ?? undefined, image: badgeImage });
+  }
 
   for (const badge of replugged) addBadge(ClientMods.Replugged, badge);
 
