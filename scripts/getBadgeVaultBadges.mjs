@@ -1,34 +1,38 @@
-import dotenv from "dotenv";
 import axios from "axios";
-
-dotenv.config();
-
 import * as utils from "./utils.mjs";
+import { DEFAULT_BADGE_VAULT_URL, parseBadgeVault } from "./badgeVault.mjs";
+
 const { addUser, CLIENT_MODS } = utils;
-const baseUrl = "https://api.obamabot.me/v2/badges/getAllUsers";
-const API_KEY = process.env.BADGE_VAULT_KEY;
-let attempts = 1;
+const sourceUrl = process.env.BADGE_VAULT_URL || DEFAULT_BADGE_VAULT_URL;
+const MAX_ATTEMPTS = 5;
 
-const getBadgeVaultBadges = async () => {
-    try {
-        const response = await axios.get(`${baseUrl}?key=${API_KEY}`, { headers: { "Cache-Control": "no-cache" } });
-        if (!response.status === 200) return;
-        const data = response.data;
-        if (!Array.isArray(data)) return;
-        for (const user of data) {
-            let { userId, badges } = user;
-            if (!badges) continue;
-            badges = badges.filter(badge => !badge.pending)
-                .map(item => {
-                    return { name: item.name, badge: item.badge };
-                });
-            if (!badges.length) continue;
-            addUser(userId, CLIENT_MODS.BADGE_VAULT, badges);
+async function getBadgeVaultBadges() {
+    let lastError;
+
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+        try {
+            const response = await axios.get(sourceUrl, {
+                headers: { "Cache-Control": "no-cache" },
+                timeout: 15_000
+            });
+            const users = parseBadgeVault(response.data);
+
+            for (const { userId, badges } of users) {
+                addUser(userId, CLIENT_MODS.BADGE_VAULT, badges);
+            }
+
+            console.log(`Loaded BadgeVault badges for ${users.length} users`);
+            return;
+        } catch (error) {
+            lastError = error;
+            console.error(`BadgeVault fetch attempt ${attempt}/${MAX_ATTEMPTS} failed: ${error.message}`);
+            if (attempt < MAX_ATTEMPTS) {
+                await new Promise(resolve => setTimeout(resolve, attempt * 500));
+            }
         }
-    } catch (e) {
-        if (attempts++ > 4) console.error("Failed to get BadgeVault badges after 5 attempts", e);
-        else setTimeout(getBadgeVaultBadges, 500);
     }
-};
 
-getBadgeVaultBadges();
+    throw new Error(`Failed to update BadgeVault badges: ${lastError?.message ?? "unknown error"}`);
+}
+
+await getBadgeVaultBadges();
