@@ -1,13 +1,25 @@
 import { Module } from "@nestjs/common";
 import { ScheduleModule } from "@nestjs/schedule";
 
+import { AliucordProvider } from "#providers/aliucord/aliucord.provider.js";
+import { BetterDiscordProvider } from "#providers/betterdiscord/betterdiscord.provider.js";
+import { VencordProvider } from "#providers/vencord/vencord.provider.js";
+
 import { BadgeSyncService } from "./badge-sync.service.js";
-import { AliucordSchedule } from "./client-mods/aliucord/aliucord.schedule.js";
-import { BetterDiscordSchedule } from "./client-mods/betterdiscord/betterdiscord.schedule.js";
-import { VencordSchedule } from "./client-mods/vencord/vencord.schedule.js";
+import { AliucordSchedule } from "./client-mods/aliucord.schedule.js";
+import { BetterDiscordSchedule } from "./client-mods/betterdiscord.schedule.js";
+import { VencordSchedule } from "./client-mods/vencord.schedule.js";
 
 @Module({
   imports: [ScheduleModule.forRoot()],
-  providers: [BadgeSyncService, AliucordSchedule, BetterDiscordSchedule, VencordSchedule]
+  providers: [
+    BadgeSyncService,
+    AliucordProvider,
+    AliucordSchedule,
+    BetterDiscordProvider,
+    BetterDiscordSchedule,
+    VencordProvider,
+    VencordSchedule
+  ]
 })
 export class SchedulesModule {}

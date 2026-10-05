@@ -1,5 +1,5 @@
-import type { SyncedBadge } from "../../../dto/synced-badge.dto.js";
-import type { AliucordBadgesDTO } from "../dto/aliucord-badges.dto.js";
+import type { SyncedBadge } from "#modules/schedules/dto/synced-badge.dto.js";
+import type { AliucordBadgesDTO } from "#providers/aliucord/dto/aliucord-badges.dto.js";
 
 export function toSyncedBadges({ users }: AliucordBadgesDTO): SyncedBadge[] {
   const badges: SyncedBadge[] = [];

@@ -6,7 +6,8 @@ export const CONFIG_SCHEMA = z
     PORT: z.coerce.number().positive().default(8080),
     BASE_URL: z.url().optional(),
     LOG_LEVEL: z.enum(["error", "warn", "info", "debug"]).default("info"),
-    DATABASE_URL: z.url().default("postgres://admin:password@localhost:5432/clientmodbadges")
+    DATABASE_URL: z.url().default("postgres://admin:password@localhost:5432/clientmodbadges"),
+    BADGE_SYNC_ENABLED: z.stringbool().default(true)
   })
   .transform(schema => {
     return {

@@ -3,6 +3,7 @@ import axios from "axios";
 import { PinoLogger } from "nestjs-pino";
 
 import { RepluggedUserDTO } from "#providers/replugged/dto/replugged-user.dto.js";
+import { REQUEST_CONFIG } from "#providers/request-config.js";
 
 const BASE_URL = "https://replugged.dev/api/v1";
 
@@ -15,7 +16,7 @@ export class RepluggedProvider {
   async getUser(userId: string): Promise<RepluggedUserDTO | undefined> {
     this.logger.debug(`Fetching Replugged user ${userId}`);
     try {
-      const { data } = await axios.get<RepluggedUserDTO>(`${BASE_URL}/users/${userId}`);
+      const { data } = await axios.get<RepluggedUserDTO>(`${BASE_URL}/users/${userId}`, REQUEST_CONFIG);
 
       /**
        * Replugged never returns 404 for missing users. Instead it returns a fake

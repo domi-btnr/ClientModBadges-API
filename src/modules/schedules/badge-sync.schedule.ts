@@ -6,8 +6,6 @@ import { ClientMods } from "#modules/prisma/generated/enums.js";
 import { BadgeSyncService } from "./badge-sync.service.js";
 import { SyncedBadge } from "./dto/synced-badge.dto.js";
 
-export const REQUEST_CONFIG = { headers: { "Cache-Control": "no-cache" }, timeout: 10_000 };
-
 /**
  * Base class for per-client-mod sync schedules. Subclasses provide the fetch logic and
  * schedule `run()` with `@Cron`. Every schedule also runs once on app start.

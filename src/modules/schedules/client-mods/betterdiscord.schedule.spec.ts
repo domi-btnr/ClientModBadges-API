@@ -3,7 +3,7 @@ import type { Mock } from "vitest";
 
 import { ClientMods } from "#modules/prisma/generated/enums.js";
 
-import { BadgeSyncService } from "../../badge-sync.service.js";
+import { BadgeSyncService } from "../badge-sync.service.js";
 import { BetterDiscordSchedule } from "./betterdiscord.schedule.js";
 
 describe("BetterDiscordSchedule", () => {
@@ -11,10 +11,12 @@ describe("BetterDiscordSchedule", () => {
   let replaceBadges: Mock;
 
   beforeEach(() => {
+    const getDeveloperIds = vi.fn().mockResolvedValue(["249746236008169473", "515780151791976453"]);
     replaceBadges = vi.fn().mockResolvedValue({ badges: 0, users: 0 });
     const logger = { setContext: vi.fn(), warn: vi.fn(), error: vi.fn() };
 
     schedule = new BetterDiscordSchedule(
+      { getDeveloperIds },
       { replaceBadges } as unknown as BadgeSyncService,
       logger as unknown as PinoLogger
     );
@@ -24,10 +26,8 @@ describe("BetterDiscordSchedule", () => {
     await schedule.run();
 
     expect(replaceBadges).toHaveBeenCalledWith(ClientMods.BetterDiscord, [
-      { userId: "249746236008169473", name: "developer" },
-      { userId: "515780151791976453", name: "developer" },
-      { userId: "917630027477159986", name: "developer" },
-      { userId: "619261917352951815", name: "developer" }
+      { userId: "249746236008169473", name: "Developer" },
+      { userId: "515780151791976453", name: "Developer" }
     ]);
   });
 });
