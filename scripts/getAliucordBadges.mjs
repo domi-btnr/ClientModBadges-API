@@ -8,7 +8,7 @@ let attempts = 1;
 const getAliucordBadges = async () => {
     try {
         const response = await axios.get("https://aliucord.com/files/badges/data.json", { headers: { "Cache-Control": "no-cache" } });
-        if (response.status !== 200) return;
+        if (response.status !== 200) throw new Error(`Unexpected status code ${response.status}`);
         const data = response.data;
         const users = Object.entries(data.users).map(([id, badges]) => {
             const customBadges = Object.entries(badges.custom ?? {}).map(([, badge]) => ({ name: badge.text, badge: badge.url }));

@@ -10,6 +10,7 @@ export const CLIENT_MODS = {
 };
 
 export const addUser = (userId, mod, badges) => {
+    if (!/^\d{17,20}$/.test(String(userId))) return;
     let data = {};
     data[mod] = badges.filter(badge => {
         if (typeof badge === "string") return badge !== "";

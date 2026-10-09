@@ -1,29 +1,29 @@
 name: Update API
 
 on:
-    push:
-        branches:
-        - main
+  push:
+    branches:
+      - main
 
 jobs:
-    update-api:
-        name: Update API
-        runs-on: self-hosted
-        steps:
-            - name: Checkout Repository
-              uses: actions/checkout@master
-            
-            - name: Build Docker Container
-              if: ${{ github.event.head_commit.author.email != 'actions@github.com' }}
-              run: docker compose build
+  update-api:
+    name: Update API
+    runs-on: self-hosted
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@master
 
-            - name: Restart Docker Container
-              run: |
-                docker compose down
-                docker compose up -d
+      - name: Build Docker Container
+        if: ${{ github.event.head_commit.author.email != 'actions@github.com' }}
+        run: docker compose build
 
-            - name: Clean Up Docker Images and Build Cache
-              if: ${{ github.event.head_commit.author.email != 'actions@github.com' }}
-              run: |
-                docker image prune -f
-                docker builder prune -f
+      - name: Restart Docker Container
+        run: |
+          docker compose down
+          docker compose up -d
+
+      - name: Clean Up Docker Images and Build Cache
+        if: ${{ github.event.head_commit.author.email != 'actions@github.com' }}
+        run: |
+          docker image prune -f
+          docker builder prune -f

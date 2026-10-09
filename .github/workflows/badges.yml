@@ -17,14 +17,14 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          
+
       - uses: pnpm/action-setup@v4
         name: Install pnpm
         id: pnpm-install
         with:
           version: 9
           run_install: false
-      
+
       - name: Install dependencies
         run: pnpm install
 
@@ -33,8 +33,7 @@ jobs:
 
       - name: Setup env
         run: |
-            echo "GITHUB_TOKEN = ${{ secrets.GITHUB_TOKEN }}" >> .env
-            echo "BADGE_VAULT_KEY = ${{ secrets.BADGE_VAULT_KEY }}" >> .env
+          echo "GITHUB_TOKEN = ${{ secrets.GITHUB_TOKEN }}" >> .env
 
       - name: Update Aliucord Badges
         run: node scripts/getAliucordBadges.mjs
@@ -44,7 +43,7 @@ jobs:
 
       - name: Update BadgeVault Badges
         run: node scripts/getBadgeVaultBadges.mjs
-        
+
       - name: Update Enmity Badges
         run: node scripts/getEnmityBadges.mjs
 

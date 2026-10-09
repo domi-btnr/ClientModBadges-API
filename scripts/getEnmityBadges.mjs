@@ -5,16 +5,15 @@ dotenv.config();
 
 import * as utils from "./utils.mjs";
 const { addUser, CLIENT_MODS } = utils;
-const baseUrl = "https://api.github.com/repos/enmity-mod/badges/contents";
 const token = process.env.GITHUB_TOKEN;
 let attempts = 1;
 
 const getEnmityBadges = async () => {
     try {
-        const response = await axios.get(baseUrl, { headers: { Authorization: `Token ${token}`, "Cache-Control": "no-cache" } });
-        if (!response.status === 200) return;
+        const response = await axios.get("https://api.github.com/repos/enmity-mod/badges/contents", { headers: { Authorization: `Token ${token}`, "Cache-Control": "no-cache" } });
+        if (response.status !== 200) throw new Error(`Unexpected status code ${response.status}`);
         const data = response.data;
-        if (!Array.isArray(data)) return;
+        if (!Array.isArray(data)) throw new TypeError("Enmity returned an unsupported payload");
         const jsonFiles = data.filter(file => file.name.endsWith(".json"));
         const promises = jsonFiles.map(async file => {
             const userId = file.name.replace(".json", "");

@@ -1,24 +1,18 @@
-import dotenv from "dotenv";
 import axios from "axios";
-
-dotenv.config();
 
 import * as utils from "./utils.mjs";
 const { addUser, CLIENT_MODS } = utils;
-const baseUrl = "https://api.obamabot.me/v2/badges/getAllUsers";
-const API_KEY = process.env.BADGE_VAULT_KEY;
 let attempts = 1;
 
 const getBadgeVaultBadges = async () => {
     try {
-        const response = await axios.get(`${baseUrl}?key=${API_KEY}`, { headers: { "Cache-Control": "no-cache" } });
-        if (!response.status === 200) return;
+        const response = await axios.get("https://plugins.obamabot.me/BadgeVault/User/all.json", { headers: { "Cache-Control": "no-cache" } });
+        if (response.status !== 200) throw new Error(`Unexpected status code ${response.status}`);
         const data = response.data;
-        if (!Array.isArray(data)) return;
-        for (const user of data) {
-            let { userId, badges } = user;
-            if (!badges) continue;
-            badges = badges.filter(badge => !badge.pending)
+        if (!data || typeof data !== "object" || Array.isArray(data)) throw new TypeError("BadgeVault returned an unsupported payload");
+        for (let [userId, badges] of Object.entries(data)) {
+            if (!Array.isArray(badges)) continue;
+            badges = badges.filter(badge => badge && !badge.pending)
                 .map(item => {
                     return { name: item.name, badge: item.badge };
                 });
