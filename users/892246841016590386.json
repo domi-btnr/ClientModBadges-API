@@ -6,6 +6,16 @@
             "badge": "https://backend.aliucord.com/files/badges/users/892246841016590386/870c26dfcdc7127e594bd31dde86d5b03cb5f000.gif"
         }
     ],
+    "BadgeVault": [
+        {
+            "name": "My Country :3",
+            "badge": "https://gb.obamabot.me/afd0a272c5b67b819fe7af18312ddbf50bf7910f.png"
+        },
+        {
+            "name": "cinnamoroll",
+            "badge": "https://gb.obamabot.me/b2e737938f819108f8f4cdd0e70c823e975880c8.png"
+        }
+    ],
     "Vencord": [
         {
             "badge": "https://badges.vencord.dev/badges/892246841016590386/1d8f6a8f1aec56f540e4096d98e04593fa75f8f0.webp"

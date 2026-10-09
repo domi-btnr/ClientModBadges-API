@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "dev",
+            "badge": "https://gb.obamabot.me/ee4368ce59dd2cd2c2bc97957033362c01e60bbe.jpg"
+        },
+        {
+            "name": "rgh",
+            "badge": "https://gb.obamabot.me/7bfeb21c2ad77e376319e72e0c57a6506be7c65c.png"
+        },
+        {
+            "name": "meme",
+            "badge": "https://gb.obamabot.me/9ad87bfd516bae744ae7624b80866426463d75d2.png"
+        },
+        {
+            "name": "weed",
+            "badge": "https://gb.obamabot.me/8a4d223e01a9ac9e5fcfc232abc7f1aabd4d99cc.png"
+        }
+    ]
+}

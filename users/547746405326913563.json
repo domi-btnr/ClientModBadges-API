@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Dev",
+            "badge": "https://gb.obamabot.me/712185f53360d5235d2371ec8b469242ef421380.png"
+        },
+        {
+            "name": "wZerk",
+            "badge": "https://gb.obamabot.me/ae30c47b92f5c482cbfeea4e195831d16cb86298.png"
+        },
+        {
+            "name": "VSC",
+            "badge": "https://gb.obamabot.me/753de30b7bb07aaf45c49981d9a71e78ade7b481.webp"
+        },
+        {
+            "name": "Zerk",
+            "badge": "https://gb.obamabot.me/1e09d024e19a6d4dc68eb31b55320b75fc870ba8.gif"
+        }
+    ]
+}

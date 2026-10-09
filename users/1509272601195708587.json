@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "Javascript Dev",
+            "badge": "https://gb.obamabot.me/6bfecb6e19f7781a10e12e7c5726d824ca3949c0.png"
+        },
+        {
+            "name": "BroundyBots Dev",
+            "badge": "https://gb.obamabot.me/e24c7cf014095bf40ee1e764844bd79bc1e63571.png"
+        },
+        {
+            "name": "🇫🇷 France Foot",
+            "badge": "https://gb.obamabot.me/ede1f45e91d07718ae7dc067602f123fc7a41fbe.png"
+        },
+        {
+            "name": "Spotify Premium",
+            "badge": "https://gb.obamabot.me/501c23de3a651f88a3ec9acbe5fd79dddd479c84.png"
+        },
+        {
+            "name": "YouTube Premium",
+            "badge": "https://gb.obamabot.me/c283a025dc206f5a231c2bd64e4d8f31ade148e8.png"
+        }
+    ]
+}

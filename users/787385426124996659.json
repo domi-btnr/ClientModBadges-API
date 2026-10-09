@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "pro2stinger",
+            "badge": "https://gb.obamabot.me/05b6900490f6ad6e1932840c3acb0dfab9b33128.png"
+        },
+        {
+            "name": "catkiss",
+            "badge": "https://gb.obamabot.me/54192769b07c8ffdbde37d86edeb914ee289df05.gif"
+        },
+        {
+            "name": "JavaScript developer",
+            "badge": "https://gb.obamabot.me/4546c239e237c12072b3b292ec47ca6a9d91b2d5.png"
+        },
+        {
+            "name": "Supports Linux",
+            "badge": "https://gb.obamabot.me/b4cbbc02b1b6c6b47a7f2a4de49dc126e88949cd.png"
+        }
+    ]
+}

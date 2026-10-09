@@ -1,4 +1,14 @@
 {
+    "BadgeVault": [
+        {
+            "name": "furret",
+            "badge": "https://gb.obamabot.me/a2b8040e5ac7bbfb2dbb6894a82e0b19027b06f6.png"
+        },
+        {
+            "name": "ecstasy infinity",
+            "badge": "https://gb.obamabot.me/de67cf5c753506ed0601a28087d6a78fbc4057e4.png"
+        }
+    ],
     "Vencord": [
         {
             "name": "waddup",

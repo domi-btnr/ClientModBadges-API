@@ -1,0 +1,16 @@
+{
+    "BadgeVault": [
+        {
+            "name": "mullvad",
+            "badge": "https://gb.obamabot.me/caaf33eb3df96aae84a15a262f6362aea2a9b141.png"
+        },
+        {
+            "name": "bitcoin",
+            "badge": "https://gb.obamabot.me/f81b42ec309d6fc6f5f882781e6bdcf723e11f58.png"
+        },
+        {
+            "name": "etherum",
+            "badge": "https://gb.obamabot.me/2f1518fcaf69f4462473ebd78b5b2381e57a4d0f.png"
+        }
+    ]
+}

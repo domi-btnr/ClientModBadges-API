@@ -1,0 +1,20 @@
+{
+    "BadgeVault": [
+        {
+            "name": "ETH",
+            "badge": "https://gb.obamabot.me/5ca0c392104a08b25719e8bcb063fadd2a023a3e.png"
+        },
+        {
+            "name": "dice",
+            "badge": "https://gb.obamabot.me/6be1b44cd0870f8f123d65bbaf19bff34a4f482c.png"
+        },
+        {
+            "name": "idk",
+            "badge": "https://gb.obamabot.me/15df4160ea4b767aa62a17fe99cb3ae8042c5368.gif"
+        },
+        {
+            "name": "shiggy?",
+            "badge": "https://gb.obamabot.me/79bd994c38228de2760374c69bc0a2578f1914c4.gif"
+        }
+    ]
+}

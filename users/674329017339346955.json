@@ -1,0 +1,24 @@
+{
+    "BadgeVault": [
+        {
+            "name": "LBXMB",
+            "badge": "https://gb.obamabot.me/1c609dcd967b031091f39c9418bcbf6ae6cbbeae.png"
+        },
+        {
+            "name": "Proxmox",
+            "badge": "https://gb.obamabot.me/dc5a0b8740c2d034285af138fece7d44120aaab4.png"
+        },
+        {
+            "name": "Debian",
+            "badge": "https://gb.obamabot.me/524bc47469e8f8ebf260a6f413d5f44bc074fb9a.png"
+        },
+        {
+            "name": "TypeScript",
+            "badge": "https://gb.obamabot.me/199451c3de1871865d7b64555403c569a5c75e29.png"
+        },
+        {
+            "name": "Calagopus",
+            "badge": "https://gb.obamabot.me/3ac63ff037e9b8c26df5a075e8281bc0c9e678e6.png"
+        }
+    ]
+}
