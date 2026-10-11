@@ -1,4 +1,10 @@
 {
+    "BadgeVault": [
+        {
+            "name": "Lum",
+            "badge": "https://gb.obamabot.me/48e6f9ac31a6774d71884cb90f9249ca4a9b00a8.png"
+        }
+    ],
     "Vencord": [
         {
             "badge": "https://badges.vencord.dev/badges/607005782852239360/7b367e5bdfbd4b24684c05905ed027dfdccfb168.gif"
