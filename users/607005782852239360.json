@@ -3,6 +3,18 @@
         {
             "name": "Lum",
             "badge": "https://gb.obamabot.me/48e6f9ac31a6774d71884cb90f9249ca4a9b00a8.png"
+        },
+        {
+            "name": "cat",
+            "badge": "https://gb.obamabot.me/7f6d8a1d110c18ae5fa2935a057742c6bd42cde8.jpg"
+        },
+        {
+            "name": "batman",
+            "badge": "https://gb.obamabot.me/6707b68ebbccc8a6a44edb16ab4e2a325ab02071.jpg"
+        },
+        {
+            "name": "mbs",
+            "badge": "https://gb.obamabot.me/e3f4038e216b694f54ec4a98b6d91dcb5225c1c8.jpg"
         }
     ],
     "Vencord": [
