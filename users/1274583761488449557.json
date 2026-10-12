@@ -1,12 +1,16 @@
 {
     "BadgeVault": [
         {
-            "name": "ivan",
-            "badge": "https://gb.obamabot.me/2b34412d7f2fe14f4edf9046abe498f276320ca7.jpg"
+            "name": "black",
+            "badge": "https://gb.obamabot.me/1c023a1f430cd29b7af42b33b007d807ad2fcad7.gif"
         },
         {
-            "name": "andrew",
-            "badge": "https://gb.obamabot.me/159a8dc3ded8f3ae833c192c25b041ea9b93e62d.jpg"
+            "name": "white",
+            "badge": "https://gb.obamabot.me/507602db60139d465cd334bd0f744cbf95adc9c8.gif"
+        },
+        {
+            "name": "pink",
+            "badge": "https://gb.obamabot.me/8980be27bb045a8a5e469777febb35ee2c7d11e9.gif"
         }
     ]
 }
