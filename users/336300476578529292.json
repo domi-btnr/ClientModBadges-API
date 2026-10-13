@@ -1,24 +1,24 @@
 {
     "Vencord": [
         {
-            "name": "Itachi",
-            "badge": "https://badges.vencord.dev/badges/336300476578529292/b19019c575e512c94e855e9c5eb9ec028cf368fa.gif"
+            "name": "My World",
+            "badge": "https://badges.vencord.dev/badges/336300476578529292/1800ddaedaf6fcd52e5c001a758e4936b7e8e256.webp"
         },
         {
-            "name": ".",
-            "badge": "https://badges.vencord.dev/badges/336300476578529292/244d368d7fdad88d756baf519716ba8c5521eba7.webp"
-        },
-        {
-            "name": "Red Bull.",
-            "badge": "https://badges.vencord.dev/badges/336300476578529292/6f903415069e29f2912d487880610fd83c31200d.webp"
-        },
-        {
-            "name": ".",
-            "badge": "https://badges.vencord.dev/badges/336300476578529292/10da727b6e766d2b81df8e6c85726910c3a7abb7.webp"
-        },
-        {
-            "name": "Sad.",
+            "name": "Ramy Sabry Hospital",
             "badge": "https://badges.vencord.dev/badges/336300476578529292/2860069d825ab9adec8e8f45991990a4de717d15.webp"
+        },
+        {
+            "name": "Wendee",
+            "badge": "https://badges.vencord.dev/badges/336300476578529292/76eb98bf9f6363a719eea3b55f89d865d0b1f2ac.webp"
+        },
+        {
+            "name": "Time To Die",
+            "badge": "https://badges.vencord.dev/badges/336300476578529292/f812bf6d9c3844c90ca5de5ee638559309864904.webp"
+        },
+        {
+            "name": "Itachi Uchiha",
+            "badge": "https://badges.vencord.dev/badges/336300476578529292/b19019c575e512c94e855e9c5eb9ec028cf368fa.gif"
         }
     ]
 }
