@@ -15,6 +15,10 @@
         {
             "name": "👀",
             "badge": "https://gb.obamabot.me/f1eeeb8772c68fd051b3d52f6ea26ccbdc4caae5.gif"
+        },
+        {
+            "name": "test to see how bot orders badges, and what order it goes in. the process itself will be across multiple days.",
+            "badge": "https://gb.obamabot.me/ab6cc298debd8f3c53c7c34d6e5ff03b0dd437bd.webp"
         }
     ]
 }
