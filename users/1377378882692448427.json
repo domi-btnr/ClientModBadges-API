@@ -1,12 +1,24 @@
 {
     "Vencord": [
         {
-            "name": "Vibe Maxxing",
-            "badge": "https://badges.vencord.dev/badges/1377378882692448427/d7fa37ce5928b9be8340d08702ad4cdd6e1629cf.webp"
+            "name": "Claude Maxxing",
+            "badge": "https://badges.vencord.dev/badges/1377378882692448427/a2218ee03e5fee23b9a7475f83d4736f357edf2f.webp"
+        },
+        {
+            "name": "Codex Maxxing",
+            "badge": "https://badges.vencord.dev/badges/1377378882692448427/7b76535513df16fa98e84c6bbdc16eab242bd7ad.webp"
+        },
+        {
+            "name": "Cursor Maxxing",
+            "badge": "https://badges.vencord.dev/badges/1377378882692448427/a879555c2b8bf07d77e676b0ffe1add90c8013a8.webp"
+        },
+        {
+            "name": "Antigravity Maxxing",
+            "badge": "https://badges.vencord.dev/badges/1377378882692448427/fdfa353192e6adda26c9872416a1ed6296a616c7.webp"
         },
         {
             "name": "discord.gg/expose",
-            "badge": "https://badges.vencord.dev/badges/1377378882692448427/bad71e6a8117d48782cac72d41f3b5044adaf6e2.webp"
+            "badge": "https://badges.vencord.dev/badges/1377378882692448427/98e004d3b90324bf603293faf7479ff7bbdc72fc.webp"
         }
     ]
 }
