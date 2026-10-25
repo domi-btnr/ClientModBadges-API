@@ -2,6 +2,18 @@
     "Vencord": [
         {
             "badge": "https://badges.vencord.dev/badges/372105264997859328/f511270ea8788eb7a79cb9e3ca3d4e6b80067e55.webp"
+        },
+        {
+            "name": "NexoraScanner",
+            "badge": "https://badges.vencord.dev/badges/372105264997859328/2ae77fbf042ea95163eb5ee23bae780206563fb3.webp"
+        },
+        {
+            "name": "İkigai",
+            "badge": "https://badges.vencord.dev/badges/372105264997859328/8fc2b7f5525cd7367c16f95f5d30b45832786de9.webp"
+        },
+        {
+            "name": "Elwdy",
+            "badge": "https://badges.vencord.dev/badges/372105264997859328/3fd85f72b03836e12e19a0ff2948c6d0337ae689.webp"
         }
     ]
 }
