@@ -4,14 +4,6 @@
         "contributor"
     ],
     "Vencord": [
-        "Contributor",
-        {
-            "name": "Hi",
-            "badge": "https://badges.vencord.dev/badges/343383572805058560/c5ccfec87bf76b432c9c7efc772d2e8dbcd23566.webp"
-        },
-        {
-            "name": "Another one",
-            "badge": "https://badges.vencord.dev/badges/343383572805058560/1915c5955d69cf24de8e73ec2b8a1ad22aab0882.webp"
-        }
+        "Contributor"
     ]
 }
