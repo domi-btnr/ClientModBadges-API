@@ -9,8 +9,12 @@
             "badge": "https://gb.obamabot.me/507602db60139d465cd334bd0f744cbf95adc9c8.gif"
         },
         {
-            "name": "pink",
-            "badge": "https://gb.obamabot.me/8980be27bb045a8a5e469777febb35ee2c7d11e9.gif"
+            "name": "right",
+            "badge": "https://gb.obamabot.me/26d2a87310dc40cb9377437da92bfd1b83e37716.gif"
+        },
+        {
+            "name": "left",
+            "badge": "https://gb.obamabot.me/4b8da8d594c6796229b0e3d1a0cbe286644363ae.gif"
         }
     ]
 }
