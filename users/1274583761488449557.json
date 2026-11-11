@@ -1,14 +1,6 @@
 {
     "BadgeVault": [
         {
-            "name": "black",
-            "badge": "https://gb.obamabot.me/1c023a1f430cd29b7af42b33b007d807ad2fcad7.gif"
-        },
-        {
-            "name": "white",
-            "badge": "https://gb.obamabot.me/507602db60139d465cd334bd0f744cbf95adc9c8.gif"
-        },
-        {
             "name": "right",
             "badge": "https://gb.obamabot.me/26d2a87310dc40cb9377437da92bfd1b83e37716.gif"
         },
