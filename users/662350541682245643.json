@@ -1,0 +1,12 @@
+{
+    "BadgeVault": [
+        {
+            "name": "compass_badge",
+            "badge": "https://gb.obamabot.me/8f16c5e42e0a2a32bd3dfe525b8d653732aed12b.png"
+        },
+        {
+            "name": "zaft_badge",
+            "badge": "https://gb.obamabot.me/3cdd630b20d1844298212b9b38a11d36458a3c0b.png"
+        }
+    ]
+}
