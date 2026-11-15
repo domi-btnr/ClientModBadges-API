@@ -3,6 +3,14 @@
         {
             "name": "kittycat",
             "badge": "https://gb.obamabot.me/e23f75a28e1737d0126d37ee4325d80da407912a.png"
+        },
+        {
+            "name": "butterfly",
+            "badge": "https://gb.obamabot.me/b951374015f2f42ef9243675f23214fe5bc41f17.gif"
+        },
+        {
+            "name": "disk",
+            "badge": "https://gb.obamabot.me/a44838d95926327a619adf8ef4ee0d2c654831f3.gif"
         }
     ]
 }
