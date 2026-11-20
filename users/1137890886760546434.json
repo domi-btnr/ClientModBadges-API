@@ -1,12 +1,12 @@
 {
     "Vencord": [
         {
-            "name": "Verified",
-            "badge": "https://badges.vencord.dev/badges/1137890886760546434/e138ca7118950c4ced01a0aeb5c3e1efe17ad4f8.webp"
+            "name": "blue",
+            "badge": "https://badges.vencord.dev/badges/1137890886760546434/26af6e58275852aaa72f5d907e76c4ac45c8f4f2.webp"
         },
         {
-            "name": "Security Researcher",
-            "badge": "https://badges.vencord.dev/badges/1137890886760546434/a1bdcb5f9004dff4e8c4fb4cea51ce1ad48d7bf8.webp"
+            "name": "pink",
+            "badge": "https://badges.vencord.dev/badges/1137890886760546434/759e264db37c8768e6fafc939e4f1dab23889e3c.webp"
         }
     ]
 }
