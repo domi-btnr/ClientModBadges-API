@@ -1,6 +1,10 @@
 {
     "BadgeVault": [
         {
+            "name": "1",
+            "badge": "https://gb.obamabot.me/c8bd9a883d6968b99308ecdb6e55cee2b966c5b8.png"
+        },
+        {
             "name": "lain",
             "badge": "https://gb.obamabot.me/a3559f3b04a5245cc724ad56d8bd680a8661552f.gif"
         },
