@@ -1,12 +1,12 @@
 {
     "BadgeVault": [
         {
-            "name": "right",
-            "badge": "https://gb.obamabot.me/26d2a87310dc40cb9377437da92bfd1b83e37716.gif"
+            "name": "Travis",
+            "badge": "https://gb.obamabot.me/8dd606e69f8af73a4c514538e0e7f3135d7f6aa9.png"
         },
         {
-            "name": "left",
-            "badge": "https://gb.obamabot.me/4b8da8d594c6796229b0e3d1a0cbe286644363ae.gif"
+            "name": "travis2",
+            "badge": "https://gb.obamabot.me/4c1f9fc315f275f6934a6b41dca312fc9566851e.png"
         }
     ]
 }
