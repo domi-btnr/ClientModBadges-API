@@ -1,8 +1,16 @@
 {
     "BadgeVault": [
         {
-            "name": "xeno",
-            "badge": "https://gb.obamabot.me/cc3085f8d08a67d34d3aa831594c802c54be590c.png"
+            "name": "xenov1",
+            "badge": "https://gb.obamabot.me/721a8d6dc892d01aad6bbf0d9669de751a213157.webp"
+        },
+        {
+            "name": "xenov2",
+            "badge": "https://gb.obamabot.me/85391bcac50944a184c6ddeb7a4cf8775a72753e.gif"
+        },
+        {
+            "name": "xenov3",
+            "badge": "https://gb.obamabot.me/d77c0492908803fd7d072db7baddc3f6d0428e02.webp"
         }
     ]
 }
